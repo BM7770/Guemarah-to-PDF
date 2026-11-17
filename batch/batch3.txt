@@ -1,0 +1,196 @@
+בחוץ|1|bachutz|Fora|Outside|Afuera|בחוץ|Dehors|Fuori|Снаружи|1
+כרת|2|karet|Karet (corte espiritual, pena divina)|Karet (spiritual excision)|Karet (corte espiritual)|כרת|Karet (retranchement spirituel)|Karet (recisione spirituale)|Карет (духовное отсечение)|1
+כהנים|1|kohanim|Sacerdotes|Priests|Sacerdotes|כהנים|Prêtres|Sacerdoti|Коэны|1
+מלך|1|melekh|Rei|King|Rey|מלך|Roi|Re|Царь|1
+פחות|1|pachot|Menos|Less|Menos|פחות|Moins|Meno|Меньше|1
+מלמד|2|melamed|Ensina; (o versículo) ensina|Teaches; (the verse) teaches|Enseña|מלמד|Enseigne|Insegna|Учит|1
+שכר|1|sachar|Recompensa; salário|Reward; wages|Recompensa; salario|שכר|Récompense; salaire|Ricompensa; salario|Награда; плата|1
+הכפורים|1|hakipurim|(Yom) Kipur|(Yom) Kippur|(Yom) Kipur|יום הכיפורים|(Yom) Kippour|(Yom) Kippur|(Йом) Кипур|1
+ראש|1|rosh|Cabeça; início|Head; beginning|Cabeza; comienzo|ראש|Tête; début|Testa; inizio|Голова; начало|1
+סוף|1|sof|Fim|End|Fin|סוף|Fin|Fine|Конец|1
+פלוני|2|ploni|Fulano; certa pessoa|So-and-so|Fulano|פלוני|Untel|Tizio|Такой-то|1
+טמאה|1|temeah|Impura (feminino)|Impure (f.)|Impura (f.)|טמאה|Impure (f.)|Impura (f.)|Нечистая|1
+קל|1|kal|Leve|Light|Leve|קל|Léger|Leggero|Лёгкий|1
+יפה|1|yafe|Bem; bonito|Well; fine|Bien; hermoso|יפה|Bien; beau|Bene; bello|Хорошо; красивый|1
+שפיר|2|shapir|Bem; correto|Well; correct|Bien; correcto|יפה; נכון|Bien; correct|Bene; corretto|Хорошо; верно|1
+מודה|2|moda|Admite; reconhece|Admits; acknowledges|Admite; reconoce|מודה|Admet; reconnaît|Ammette; riconosce|Признаёт|1
+חזי|2|chazi|Vê; é apto|Sees; is fit|Ve; es apto|רואה; ראוי|Voit; est apte|Vede; è idoneo|Видит; пригоден|1
+לחם|1|lechem|Pão|Bread|Pan|לחם|Pain|Pane|Хлеб|1
+זכר|1|zachar|Macho; lembrança|Male; remembrance|Varón; recuerdo|זכר|Mâle; souvenir|Maschio; ricordo|Мужского пола; память|1
+דינא|2|dina|Lei; julgamento|Law; judgment|Ley; juicio|דין|Loi; jugement|Legge; giudizio|Закон; суд|1
+והדר|2|vehadar|E depois; e de novo|And then; and again|Y luego; y de nuevo|ואחר כך|Et ensuite|E poi|А затем|1
+לשם|2|leshem|Em nome de; com a intenção de|For the sake of; with the intention of|En nombre de; con la intención de|לשם|Au nom de; dans l’intention de|In nome di; con l’intenzione di|Ради; с намерением|1
+אסורה|1|asura|Proibida (feminino)|Forbidden (f.)|Prohibida (f.)|אסורה|Interdite (f.)|Vietata (f.)|Запрещена|1
+פסח|1|pesach|Pessach; oferenda de Pessach|Passover; Paschal offering|Pésaj; ofrenda pascual|פסח|Pessah; sacrifice pascal|Pesach; sacrificio pasquale|Песах; пасхальная жертва|1
+סימן|1|siman|Sinal; indício|Sign; indication|Señal; indicio|סימן|Signe; indice|Segno; indizio|Знак; признак|1
+מועד|1|moed|Festa; época marcada|Festival; appointed time|Fiesta; tiempo señalado|מועד|Fête; temps fixé|Festa; tempo stabilito|Праздник; назначенное время|1
+עשרים|1|esrim|Vinte|Twenty|Veinte|עשרים|Vingt|Venti|Двадцать|1
+אחרינא|2|acherina|Outro; diferente|Another; different|Otro; diferente|אחר|Autre; différent|Altro; diverso|Другой|1
+אכל|1|achal|Comeu|Ate|Comió|אכל|A mangé|Mangiò|Ел; съел|1
+להיות|1|lihyot|Ser; para ser|To be|Ser|להיות|Être|Essere|Быть|1
+נימא|2|nima|Digamos; acaso diremos|Shall we say|Digamos|נאמר|Disons|Diciamo|Скажем|1
+סבירא|2|savira|Ele sustenta (a opinião)|He holds (the opinion)|Sostiene|סבור|Il soutient|Sostiene|Придерживается|1
+מתנה|2|matana|Presente; condição (estipulada)|Gift; stipulated condition|Regalo; condición estipulada|מתנה; התנה|Cadeau; condition stipulée|Dono; condizione stipulata|Подарок; поставил условие|1
+מחלוקת|1|machloket|Discordância; disputa|Dispute; disagreement|Disputa; desacuerdo|מחלוקת|Désaccord; dispute|Disputa; disaccordo|Спор; разногласие|1
+בלבד|1|bilvad|Somente; apenas|Only; solely|Solamente|בלבד|Seulement|Soltanto|Только|1
+פרט|2|prat|Em particular; (exceto)|In particular; (except)|En particular; (excepto)|פרט|En particulier; (sauf)|In particolare; (eccetto)|В частности; (кроме)|1
+מעות|1|ma'ot|Moedas; dinheiro|Coins; money|Monedas; dinero|מעות|Pièces; argent|Monete; denaro|Монеты; деньги|1
+כזית|2|kezayit|Do tamanho de uma azeitona (medida mínima)|Olive-sized (minimum measure)|Del tamaño de una aceituna (medida mínima)|כזית|De la taille d’une olive (mesure minimale)|Della dimensione di un’oliva (misura minima)|Размером с маслину (минимальная мера)|1
+יותר|1|yoter|Mais|More|Más|יותר|Plus|Più|Больше|1
+עובר|2|over|Passa; transgride; feto|Passes; transgresses; fetus|Pasa; transgrede; feto|עובר|Passe; transgresse; fœtus|Passa; trasgredisce; feto|Проходит; нарушает; плод|1
+ליכא|2|lika|Não há|There is not|No hay|אין|Il n’y a pas|Non c’è|Нет|1
+טעם|1|ta'am|Sabor; razão|Taste; reason|Sabor; razón|טעם|Goût; raison|Gusto; ragione|Вкус; причина|1
+חמור|1|chamor|Burro; grave|Donkey; severe|Asno; grave|חמור|Âne; grave|Asino; grave|Осёл; строгий|1
+מעתה|2|me'ata|Então; se assim for|Then; in that case|Entonces; en ese caso|מעתה|Alors; dans ce cas|Allora; in tal caso|В таком случае|2
+לאכול|1|le'echol|Comer|To eat|Comer|לאכול|Manger|Mangiare|Есть|1
+אליבא|3|aliba|Segundo a opinião de|According to the view of|Según la opinión de|לדעת|Selon l’avis de|Secondo l’opinione di|По мнению|1
+מלאכה|1|melacha|Trabalho; atividade proibida no Shabat|Work; prohibited labor|Trabajo; labor prohibida|מלאכה|Travail; labeur interdit|Lavoro; attività vietata|Работа; запрещённый труд|1
+ואידך|3|ve'idakh|E o outro|And the other|Y el otro|והשני|Et l’autre|E l’altro|А другой|1
+תנינא|2|taninan|Aprendemos; já foi ensinado|We learned|Aprendimos|שנינו|Nous avons appris|Abbiamo imparato|Мы учили|1
+רוב|1|rov|Maioria|Majority|Mayoría|רוב|Majorité|Maggioranza|Большинство|1
+פתח|1|petach|Entrada; abertura|Entrance; opening|Entrada; abertura|פתח|Entrée; ouverture|Ingresso; apertura|Вход; отверстие|1
+גופא|2|gufa|O próprio texto; em si|The text itself|El texto mismo|גופא|Le texte même|Il testo stesso|Сам текст|1
+ממון|1|mamon|Dinheiro; bens|Money; property|Dinero; bienes|ממון|Argent; biens|Denaro; beni|Деньги; имущество|1
+מקדש|1|mikdash|Templo Sagrado|Holy Temple|Templo|מקדש|Temple|Tempio|Храм|1
+גזירה|2|gezera|Decreto|Decree|Decreto|גזירה|Décret|Decreto|Постановление|1
+תיובתא|3|tiyuvta|Refutação|Refutation|Refutación|הוכחה נגדית|Réfutation|Confutazione|Опровержение|1
+לוקה|2|loke|Recebe açoites|Receives lashes|Recibe azotes|לוקה|Reçoit des coups de fouet|Riceve la fustigazione|Получает бичевание|1
+אטו|3|atu|Será que…? Acaso por…?|Is it because…?|¿Acaso porque…?|האם בגלל|Est-ce parce que… ?|Forse perché…?|Разве из-за…?|1
+יתיב|2|yativ|Está sentado; sentou-se|Sits; sat|Está sentado|יושב|Est assis|Siede; sedette|Сидит|1
+חולין|2|chulin|Não consagrado; profano|Non-sacred; mundane|No consagrado; profano|חולין|Profane; non consacré|Non consacrato; profano|Непосвящённое|1
+מסתברא|2|mistabra|É lógico; faz sentido|It is logical|Es lógico|הגיוני|C’est logique|È logico|Логично|1
+גמר|2|gamar|Aprendeu; deduziu; terminou|Learned; derived; finished|Aprendió; dedujo; terminó|למד; סיים|A appris; déduit; fini|Imparò; dedusse; finì|Выучил; вывел; закончил|1
+בעא|2|ba'a|Perguntou; pediu|Asked; requested|Preguntó; pidió|שאל; ביקש|A demandé|Chiese|Спросил|1
+אינשי|2|inshei|Pessoas|People|Personas|אנשים|Gens|Persone|Люди|1
+ארץ|1|eretz|Terra; país|Land; earth|Tierra; país|ארץ|Terre; pays|Terra; paese|Земля; страна|1
+חוב|1|chov|Dívida; obrigação|Debt; obligation|Deuda; obligación|חוב|Dette; obligation|Debito; obbligo|Долг; обязанность|1
+יחיד|1|yachid|Indivíduo; um só|Individual; single|Individuo; único|יחיד|Individu; seul|Individuo; singolo|Один; единственный|1
+מתיב|3|mativ|Objeta|Objects|Objeta|מקשה|Objecte|Obietta|Возражает|1
+נפש|1|nefesh|Alma; pessoa|Soul; person|Alma; persona|נפש|Âme; personne|Anima; persona|Душа; человек|1
+משכחת|3|mashkachat|Encontras (um caso); é possível encontrar|You find (a case)|Encuentras (un caso)|מוצאים|Tu trouves (un cas)|Trovi (un caso)|Ты находишь (случай)|1
+ממש|1|mamash|Realmente; de fato|Really; actually|Realmente|ממש|Vraiment|Davvero|Действительно|1
+לאתויי|3|le'atuyei|Para incluir; para trazer (um caso)|To include; to bring in|Para incluir|להביא|Pour inclure|Per includere|Чтобы включить|1
+קרקע|1|karka|Terra; chão|Land; ground|Tierra; suelo|קרקע|Terre; sol|Terra; suolo|Земля; почва|1
+מצי|2|matzi|Pode; é capaz|Can; is able|Puede; es capaz|יכול|Peut; est capable|Può; è capace|Может|1
+כלים|1|kelim|Utensílios; vasos|Vessels; utensils|Utensilios; vasijas|כלים|Ustensiles; récipients|Utensili; recipienti|Сосуды; утварь|1
+תרוייהו|3|taruyhu|Ambos; os dois|Both|Ambos|שניהם|Les deux|Entrambi|Оба|1
+ברכה|1|bracha|Bênção|Blessing|Bendición|ברכה|Bénédiction|Benedizione|Благословение|1
+ראיה|1|ra'aya|Prova|Proof|Prueba|ראיה|Preuve|Prova|Доказательство|1
+זיל|3|zil|Vai! (imperativo)|Go! (imperative)|¡Ve!|לך|Va !|Vai!|Иди!|1
+אתיא|2|atya|Vem (deriva-se)|Comes (is derived)|Viene (se deriva)|בא; נלמד|Vient (est déduit)|Viene (si deduce)|Приходит (выводится)|1
+שעה|1|sha'a|Hora; momento|Hour; moment|Hora; momento|שעה|Heure; moment|Ora; momento|Час; момент|1
+תיקו|3|teiku|Fica sem resolução (a questão não foi resolvida)|Let it stand (the question is unresolved)|Queda sin resolver|תיקו (השאלה נשארת בספק)|Reste en suspens|Resta irrisolto|Остаётся нерешённым|1
+למימרא|3|lemeimra|Quer dizer que…?|Does this mean…?|¿Quiere decir que…?|כלומר|Cela veut-il dire que… ?|Vuol dire che…?|Значит ли это…?|1
+הדרן|2|hadran|Voltaremos a ti (fim de um capítulo)|We shall return to you (end of a chapter)|Volveremos a ti (fin de capítulo)|נחזור אליך (סוף פרק)|Nous reviendrons à toi (fin de chapitre)|Torneremo da te (fine capitolo)|Мы вернёмся к тебе (конец главы)|2
+מנחה|1|mincha|Oferenda de farinha; Minchá (oração da tarde)|Meal offering; afternoon prayer|Ofrenda de harina; Minjá|מנחה|Offrande de farine; Minha (office de l’après-midi)|Offerta di farina; Minchà|Хлебное приношение; Минха|1
+הנאה|1|hana'a|Benefício; usufruto|Benefit; enjoyment|Beneficio; disfrute|הנאה|Bénéfice; jouissance|Beneficio; godimento|Польза; пользование|1
+חזקה|2|chazaka|Presunção; posse estabelecida|Presumption; established possession|Presunción; posesión establecida|חזקה|Présomption; possession établie|Presunzione; possesso stabilito|Презумпция; владение|1
+כפרה|1|kapara|Expiação|Atonement|Expiación|כפרה|Expiation|Espiazione|Искупление|1
+לשון|1|lashon|Língua; expressão|Language; wording|Lengua; expresión|לשון|Langue; formulation|Lingua; formulazione|Язык; формулировка|1
+לאפוקי|3|le'afuki|Para excluir|To exclude|Para excluir|להוציא|Pour exclure|Per escludere|Чтобы исключить|1
+ניחא|2|nicha|Está bem; faz sentido|It is fine; it works well|Está bien; tiene sentido|בסדר; מובן|C’est bien; cela s’explique|Va bene; si spiega|Хорошо; понятно|1
+כתובה|2|ketuba|Contrato de casamento|Marriage contract|Contrato matrimonial|כתובה|Contrat de mariage|Contratto di matrimonio|Брачный договор|1
+אזל|2|azal|Foi; partiu|Went; left|Fue; se fue|הלך|Est allé|Andò|Пошёл|1
+רצה|1|ratza|Quis|Wanted|Quiso|רצה|A voulu|Volle|Захотел|1
+פעמים|1|pe'amim|Vezes; ocasiões|Times; occasions|Veces|פעמים|Fois|Volte|Раз; случаи|1
+קיים|1|kayam|Existe; cumpre; válido|Exists; fulfills; valid|Existe; cumple; válido|קיים|Existe; accomplit; valide|Esiste; adempie; valido|Существует; выполняет; действителен|1
+ערב|1|erev|Tarde; véspera; fiador|Evening; eve; guarantor|Tarde; víspera; fiador|ערב|Soir; veille; garant|Sera; vigilia; garante|Вечер; канун; поручитель|1
+ולבסוף|2|ulevasof|E por fim|And finally|Y por fin|ולבסוף|Et finalement|E infine|И наконец|1
+זרע|1|zera|Semente; descendência|Seed; offspring|Semilla; descendencia|זרע|Semence; descendance|Seme; discendenza|Семя; потомство|1
+קדוש|1|kadosh|Sagrado; santo|Holy; sacred|Santo; sagrado|קדוש|Saint; sacré|Santo; sacro|Святой|1
+כבר|1|kvar|Já|Already|Ya|כבר|Déjà|Già|Уже|1
+חיישינן|3|chayshinan|Temos receio (de)|We are concerned (about)|Nos preocupamos (de)|חוששים|Nous craignons|Temiamo|Мы опасаемся|1
+מתיר|2|matir|Permite; desata|Permits; releases|Permite; desata|מתיר|Permet; délie|Permette; scioglie|Разрешает|1
+טעון|2|ta'un|Exige; carrega|Requires; carries|Requiere; carga|טעון|Requiert; porte|Richiede; porta|Требует; несёт|1
+חוזר|1|chozer|Volta; retorna|Returns|Vuelve|חוזר|Revient|Torna|Возвращается|1
+ספר|1|sefer|Livro; rolo|Book; scroll|Libro; rollo|ספר|Livre; rouleau|Libro; rotolo|Книга; свиток|1
+בעלים|1|be'alim|Donos|Owners|Dueños|בעלים|Propriétaires|Proprietari|Владельцы|1
+הריני|2|harei|Eis que eu (fórmula de voto)|I hereby (vow formula)|He aquí que yo (fórmula de voto)|הריני|Je déclare (formule de vœu)|Ecco che io (formula di voto)|Вот я (формула обета)|1
+טרפה|2|terefa|Animal ferido de forma fatal (proibido)|Animal with a fatal injury (forbidden)|Animal con herida mortal (prohibido)|טרפה|Animal blessé mortellement (interdit)|Animale ferito mortalmente (vietato)|Животное со смертельным повреждением (запрещено)|1
+אכילה|1|achila|Ato de comer|Eating|El acto de comer|אכילה|Action de manger|Atto di mangiare|Еда; поедание|1
+נזק|1|nezek|Dano|Damage|Daño|נזק|Dommage|Danno|Ущерб|1
+כשם|2|keshem|Assim como|Just as|Así como|כשם ש|De même que|Così come|Так же как|1
+בשביל|1|bishvil|Por causa de|For the sake of|Por causa de|בשביל|Pour|Per|Ради|1
+דריש|2|darish|Interpreta; expõe (um versículo)|Expounds; interprets|Interpreta; expone|דורש|Interprète; expose|Interpreta; espone|Толкует|1
+חטא|1|chet|Pecado|Sin|Pecado|חטא|Péché|Peccato|Грех|1
+שליח|1|shaliach|Mensageiro; agente (representante)|Messenger; agent|Mensajero; agente|שליח|Messager; mandataire|Messaggero; agente|Посланник; представитель|1
+טפי|2|tefi|Mais|More|Más|יותר|Plus|Di più|Больше|1
+דנין|2|danin|Derivamos (por analogia)|We derive (by analogy)|Derivamos (por analogía)|דנים|Nous déduisons (par analogie)|Deduciamo (per analogia)|Мы выводим (по аналогии)|1
+לישנא|2|lishna|Expressão; versão do texto|Wording; version|Expresión; versión|לשון|Formulation; version|Formulazione; versione|Формулировка; версия|1
+עיר|1|ir|Cidade|City|Ciudad|עיר|Ville|Città|Город|1
+סתם|2|stam|Sem especificação; anónimo|Unspecified; anonymous|Sin especificar; anónimo|סתם|Non spécifié; anonyme|Non specificato; anonimo|Без уточнения; безымянный|1
+ותו|2|vetu|E mais; e nada mais|And more; nothing further|Y más|ועוד|Et plus|E altro|И ещё|1
+שאר|1|she'ar|O resto; restante|The rest|El resto|שאר|Le reste|Il resto|Остальное|1
+תיבעי|3|tiba'ei|Deveria ser perguntado; poderia perguntar-se|It should have been asked|Debería preguntarse|צריך לשאול|Il faudrait demander|Bisognerebbe chiedere|Следовало спросить|1
+איצטריך|3|itztrikh|Era necessário (o versículo)|Was needed|Era necesario|היה צריך|Était nécessaire|Era necessario|Был необходим|1
+הניחא|3|henicha|Isto funciona bem (para quem…)|This works well (for the one who…)|Esto funciona bien|זה מובן (למי ש…)|Cela va bien (pour celui qui…)|Questo funziona (per chi…)|Это хорошо (для того, кто…)|1
+טפח|1|tefach|Palmo (medida)|Handbreadth|Palmo (medida)|טפח|Palme (mesure)|Palmo (misura)|Ладонь (мера)|1
+פרוטה|2|peruta|Moeda de menor valor|Smallest coin|Moneda de menor valor|פרוטה|Plus petite pièce|Moneta più piccola|Мелкая монета|1
+ובלבד|2|uvilvad|Contanto que|Provided that|Siempre que|ובלבד ש|À condition que|Purché|При условии, что|1
+תפילין|1|tefilin|Tefilin|Tefillin|Tefilín|תפילין|Téfilines|Tefillin|Тфилин|1
+נדה|1|nida|Mulher em estado de impureza menstrual|Menstruating woman (niddah)|Mujer en impureza menstrual (nidá)|נדה|Femme en impureté menstruelle (nidda)|Donna in impurità mestruale (nidda)|Женщина в нидде|1
+אשמעינן|3|ashma'inan|Informa-nos; vem ensinar-nos|It informs us|Nos informa|מלמד אותנו|Il nous informe|Ci informa|Это сообщает нам|1
+חמץ|1|chametz|Fermentado (proibido no Pessach)|Leavened (forbidden on Passover)|Fermentado (prohibido en Pésaj)|חמץ|Levain (interdit à Pessah)|Lievitato (vietato a Pesach)|Квасное (запрещено на Песах)|1
+עני|1|ani|Pobre|Poor person|Pobre|עני|Pauvre|Povero|Бедный|1
+גר|1|ger|Convertido; estrangeiro residente|Convert; resident alien|Converso; extranjero residente|גר|Converti; étranger résident|Convertito; straniero residente|Прозелит; пришелец|1
+תלמיד|1|talmid|Aluno; discípulo|Student; disciple|Alumno; discípulo|תלמיד|Élève; disciple|Allievo; discepolo|Ученик|1
+תודה|1|toda|Oferenda de agradecimento|Thanksgiving offering|Ofrenda de acción de gracias|קרבן תודה|Sacrifice d’action de grâce|Sacrificio di ringraziamento|Благодарственная жертва|1
+איתא|2|ita|Existe; há|Exists; there is|Existe; hay|יש|Existe; il y a|Esiste; c’è|Существует|1
+לפיכך|1|lefichakh|Portanto; por isso|Therefore|Por lo tanto|לפיכך|Par conséquent|Perciò|Поэтому|1
+מין|1|min|Espécie; tipo; herege|Kind; species; heretic|Tipo; especie; hereje|מין|Espèce; hérétique|Specie; eretico|Вид; еретик|1
+ולד|2|valad|Cria; descendência|Offspring; newborn|Cría; descendencia|ולד|Petit; progéniture|Prole; piccolo|Потомство; приплод|1
+מוכר|1|mokher|Vendedor; vende|Seller; sells|Vendedor; vende|מוכר|Vendeur; vend|Venditore; vende|Продавец; продаёт|1
+איבעית|2|ibayt|Se quiseres|If you wish|Si quieres|אם תרצה|Si tu veux|Se vuoi|Если хочешь|2
+צבור|1|tzibur|Comunidade; público|Community; public|Comunidad; público|ציבור|Communauté; public|Comunità; pubblico|Община; общество|1
+מכר|1|makhar|Vendeu|Sold|Vendió|מכר|A vendu|Vendette|Продал|1
+שיעור|1|shi'ur|Medida; quantidade mínima|Measure; minimum amount|Medida; cantidad mínima|שיעור|Mesure; quantité minimale|Misura; quantità minima|Мера; минимальное количество|1
+עור|1|or|Pele; couro|Skin; hide|Piel; cuero|עור|Peau; cuir|Pelle; cuoio|Кожа|1
+שטר|1|shtar|Documento; contrato|Document; deed|Documento; escritura|שטר|Acte; document|Atto; documento|Документ|1
+מועלין|3|mo'alin|Cometem apropriação indevida de bens sagrados|Are guilty of misusing sacred property|Cometen apropiación indebida de lo sagrado|מועלים|Commettent un détournement de biens sacrés|Commettono appropriazione indebita di beni sacri|Совершают злоупотребление святыней|1
+עיקר|1|ikar|Principal; essencial|Main; essential|Principal; esencial|עיקר|Principal; essentiel|Principale; essenziale|Главное; основное|1
+שומר|1|shomer|Guarda; depositário|Guardian; bailee|Guardián; depositario|שומר|Gardien; dépositaire|Custode; depositario|Хранитель|1
+פר|1|par|Novilho; touro|Bull|Novillo; toro|פר|Taureau|Toro|Бык|1
+ביאה|1|bi'a|Entrada; relação conjugal|Entry; intercourse|Entrada; relación conyugal|ביאה|Entrée; rapport conjugal|Ingresso; rapporto coniugale|Вход; близость|1
+דומיא|3|dumya|Semelhante a|Similar to|Semejante a|דומה ל|Semblable à|Simile a|Подобно|1
+אדרבה|2|adraba|Pelo contrário|On the contrary|Al contrario|להפך|Au contraire|Al contrario|Напротив|1
+נאמן|2|ne'eman|Merece confiança; é crido|Is trusted; believed|Es creído; merece confianza|נאמן|Est cru; digne de confiance|È creduto; affidabile|Заслуживает доверия|1
+יהיב|2|yahiv|Dá|Gives|Da|נותן|Donne|Dà|Даёт|1
+שביעית|2|sheviit|Ano sabático (shemitá)|Sabbatical year|Año sabático (shemitá)|שביעית|Année sabbatique (chemita)|Anno sabbatico (shemittà)|Шмита|1
+מצורע|2|metzora|Leproso (portador de tzaraat)|Person with tzara'at|Leproso (con tzaraat)|מצורע|Lépreux (atteint de tsaraat)|Lebbroso (affetto da tzaraat)|Прокажённый (цараат)|1
+הדיוט|2|hedyot|Pessoa comum; leigo|Layman; ordinary person|Persona común; laico|הדיוט|Profane; homme ordinaire|Persona comune; laico|Простой человек|1
+מסייע|3|masayea|Apoia; reforça (uma opinião)|Supports (a view)|Apoya (una opinión)|תומך|Soutient (un avis)|Sostiene (un’opinione)|Подкрепляет (мнение)|1
+נדר|2|neder|Voto|Vow|Voto|נדר|Vœu|Voto|Обет|1
+מיהא|3|miha|Pelo menos|At least|Al menos|לפחות|Au moins|Almeno|По крайней мере|1
+קרן|1|keren|Capital; chifre|Principal; horn|Capital; cuerno|קרן|Capital; corne|Capitale; corno|Капитал; рог|1
+פטורין|2|peturin|Isentos|Exempt (pl.)|Exentos|פטורים|Exempts|Esenti|Освобождены|1
+אבר|2|ever|Membro; órgão|Limb; organ|Miembro; órgano|איבר|Membre; organe|Arto; organo|Орган; член|1
+רשע|1|rasha|Mau; ímpio|Wicked|Malvado; impío|רשע|Méchant|Malvagio|Нечестивец|1
+גנב|1|ganav|Ladrão|Thief|Ladrón|גנב|Voleur|Ladro|Вор|1
+מייתי|2|meitei|Traz; apresenta|Brings; cites|Trae; cita|מביא|Apporte; cite|Porta; cita|Приводит|1
+בקר|1|bakar|Gado bovino|Cattle|Ganado vacuno|בקר|Gros bétail|Bovini|Крупный рогатый скот|1
+מקצת|2|miktzat|Parte de|Part of|Parte de|מקצת|Une partie de|Parte di|Часть|1
+אתמר|3|itmar|Foi dito|It was said|Se dijo|נאמר|Il a été dit|Fu detto|Было сказано|1
+מוציא|1|motzi|Retira; tira para fora|Takes out; removes|Saca; retira|מוציא|Fait sortir|Fa uscire|Выводит|1
+חובה|1|chova|Obrigação|Obligation|Obligación|חובה|Obligation|Obbligo|Обязанность|1
+חצר|1|chatzer|Pátio|Courtyard|Patio|חצר|Cour|Cortile|Двор|1
+ראוי|2|ra'uy|Apto; digno|Fit; worthy|Apto; digno|ראוי|Apte; digne|Idoneo; degno|Годный; достойный|1
+קיימא|2|kayma|Permanece; está de pé|Stands; remains|Permanece|עומד|Demeure|Rimane|Остаётся|1
+ליתן|1|liten|Dar|To give|Dar|לתת|Donner|Dare|Дать|1
+מיחייב|2|michayev|É obrigado; é culpado|Is obligated; is liable|Está obligado; es culpable|מתחייב|Est obligé; est coupable|È obbligato; è colpevole|Обязан; виновен|1
+סוכה|1|suka|Tenda (de Sucot)|Sukkah (booth)|Sucá (cabaña)|סוכה|Souccah|Sukkà|Сукка|1
+סמוך|1|samukh|Perto; apoiado|Near; leaning|Cerca; apoyado|סמוך|Près de; appuyé|Vicino; appoggiato|Рядом; опираясь|1
+נמצא|1|nimtza|Acontece que; encontra-se|It turns out; is found|Resulta que; se encuentra|נמצא|Il se trouve que|Risulta che|Оказывается|1
+איזהו|1|eizehu|Qual é?|Who is…? Which is…?|¿Cuál es?|איזהו|Lequel est… ?|Quale è?|Кто такой? Какой?|1
+עץ|1|etz|Árvore; madeira|Tree; wood|Árbol; madera|עץ|Arbre; bois|Albero; legno|Дерево|1
+ממזר|2|mamzer|Mamzer (filho de relação proibida)|Mamzer (child of a forbidden union)|Mamzer (hijo de unión prohibida)|ממזר|Mamzer (enfant d’une union interdite)|Mamzer (figlio di unione vietata)|Мамзер|1
+אלמנה|1|almana|Viúva|Widow|Viuda|אלמנה|Veuve|Vedova|Вдова|1
+במזיד|2|bemezid|De propósito; intencionalmente|Intentionally|A propósito; intencionalmente|במזיד|Intentionnellement|Intenzionalmente|Умышленно|1
+בגדים|1|begadim|Roupas; vestes|Garments|Ropas; vestiduras|בגדים|Vêtements|Vesti|Одежда|1
+זכאי|2|zakai|Inocente; com direito a|Innocent; entitled|Inocente; con derecho a|זכאי|Innocent; ayant droit à|Innocente; avente diritto|Невиновный; имеющий право|1
+הדדי|2|hadadei|Um ao outro|Each other|El uno al otro|זה לזה|L’un à l’autre|L’un l’altro|Друг другу|1
+שמונה|1|shmone|Oito|Eight|Ocho|שמונה|Huit|Otto|Восемь|1
+בשוגג|2|bishgaga|Sem intenção; por engano|Unintentionally|Sin intención; por error|בשוגג|Involontairement|Involontariamente|Неумышленно|1
+בור|1|bor|Poço; cova|Pit|Pozo; foso|בור|Fosse; puits|Fossa; pozzo|Яма; колодец|1
+פיגול|3|pigul|Oferenda invalidada por intenção imprópria|Offering disqualified by improper intent|Ofrenda invalidada por intención indebida|פיגול|Offrande invalidée par intention illicite|Offerta invalidata da intenzione impropria|Жертва, испорченная неподобающим намерением|1
+לדידי|3|ledidi|Para mim; na minha opinião|To me; in my view|Para mí; en mi opinión|לדעתי|À mon avis|A mio avviso|По-моему|1
+עדות|1|edut|Testemunho|Testimony|Testimonio|עדות|Témoignage|Testimonianza|Свидетельство|1

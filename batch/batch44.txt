@@ -1,0 +1,579 @@
+גרשתני|1|gerashtani|Divorciaste-me|You divorced me|Me divorciaste|גירשתני|Tu m’as répudiée|Mi hai ripudiata|Ты развёлся со мной|3
+שבוייתא|2|shevuyta|Cativa|Captive (f.)|Cautiva|שבויה|Captive|Prigioniera|Пленница|3
+מזלזל|1|mezalzel|Despreza|Disparages|Desprecia|מזלזל|Méprise|Disprezza|Пренебрегает|3
+אוקמן|2|okman|Estabeleceu-as|Established them|Las estableció|העמידן|Les établit|Le stabilì|Установил их|3
+אסתן|2|istan|Vento norte|North wind|Viento norte|רוח צפונית|Vent du nord|Vento del nord|Северный ветер|3
+לאסוקינהו|2|le'asukinhu|Fazê-los subir|To raise them|Subirlos|להעלותם|Les faire monter|Farli salire|Поднять их|3
+זכורני|1|zechurani|Lembro-me|I remember|Recuerdo|זכורני|Je me souviens|Ricordo|Я помню|3
+הורהנה|1|hurhenah|Foi penhorada|Was pledged|Fue empeñada|הורהנה|Fut gagée|Fu impegnata|Была заложена|3
+נחבשה|1|nechbeshah|Foi presa|Was imprisoned|Fue encarcelada|נחבשה|Fut emprisonnée|Fu imprigionata|Была заключена|3
+אחוך|1|achucha|Teu irmão|Your brother|Tu hermano|אחיך|Ton frère|Tuo fratello|Твой брат|2
+תומה|1|tumah|Sua integridade|Her integrity|Su integridad|תומה|Son intégrité|La sua integrità|Её непорочность|3
+אימתיה|2|eimateih|Seu temor; quando?|His fear; when?|Su temor|אימתו|Sa crainte|Il suo timore|Страх перед ним|4
+מוליכים|1|molichim|Levam|Lead|Llevan|מוליכים|Conduisent|Conducono|Ведут|3
+צינים|1|tzinim|Frios; espinhos|Colds; thorns|Fríos|צינים|Froids|Freddi|Холода; колючки|3
+מיקנא|2|mikna|Adquirir|To acquire|Adquirir|לקנות|Acquérir|Acquistare|Приобрести|2
+לקיומה|1|lekiyumah|Para sua manutenção|For its fulfillment|Para su cumplimiento|לקיומה|Pour son maintien|Per il suo mantenimento|Для её исполнения|3
+רמוזי|2|remuzei|Insinuados|Hinted|Insinuados|רמוזים|Suggérés|Accennati|Намекнутые|3
+ונגפו|1|venagfu|E feriram|And struck|E hirieron|ונגפו|Et heurtèrent|E colpirono|И ударили|3
+מיקטיל|2|miktil|Ser morto|To be killed|Ser matado|להיהרג|Être tué|Essere ucciso|Быть убитым|2
+פלחו|2|palchu|Adoraram|They worshipped|Adoraron|עבדו|Adorèrent|Adorarono|Поклонялись|3
+לצלמא|2|letzalma|À imagem|To the image|A la imagen|לצלם|À l’image|All’immagine|Изображению|3
+חבורתא|2|chaburta|Grupo; contusão|Group; bruise|Grupo|חבורה|Groupe|Gruppo|Группа; синяк|3
+התראתו|1|hatra'ato|Sua advertência|His warning|Su advertencia|התראתו|Son avertissement|Il suo avvertimento|Его предупреждение|3
+שאלתה|1|she'elatah|Sua pergunta; seu empréstimo|Her question; loan|Su pregunta|שאלתה|Sa question|La sua domanda|Её вопрос; заём|3
+קיימה|1|kiyemah|Cumpriu-a|Fulfilled it|La cumplió|קיימה|L’accomplit|La adempì|Исполнил её|3
+ותפטריה|2|vetiftereih|E isentou-o|And exempted him|Y lo eximió|ותפטרנו|Et l’exempta|E lo esentò|И освободила его|2
+תבער|1|tiv'ar|Arderá|Will burn|Arderá|תבער|Brûlera|Brucerà|Будет гореть|3
+למומתים|1|lamumatim|Aos executados|To the executed|A los ejecutados|למומתים|Aux exécutés|Ai giustiziati|Казнённым|3
+ונתארסה|1|venit'arsah|E noivou|And became betrothed|Y se comprometió|ונתארסה|Et se fiança|E si fidanzò|И обручилась|2
+ונידחי|2|venidchei|E afastados|And pushed aside|Y desplazados|ונדחים|Et repoussés|E respinti|И отодвинутые|3
+דקנסיה|2|dekanseih|Que o multou|That fined him|Que lo multó|שקנסו|Qui le pénalisa|Che lo multò|Который оштрафовал его|3
+גבתה|1|gavtah|Cobrou (ela)|She collected|Cobró|גבתה|Elle perçut|Riscosse|Взыскала|4
+נתחייבתי|1|nitchayavti|Fiquei obrigado|I became liable|Me obligué|נתחייבתי|Je suis devenu redevable|Sono diventato obbligato|Я стал обязан|3
+ומודינא|2|umodina|E admito|And I admit|Y admito|ומודה אני|Et j’admets|E ammetto|И признаю|3
+להורישו|1|lehorisho|Fazê-lo herdar|To bequeath to him|Hacerle heredar|להורישו|Lui léguer|Lasciargli in eredità|Сделать его наследником|3
+איפרק|2|ifrak|Foi resgatado|Was redeemed|Fue rescatado|נפדה|Fut racheté|Fu riscattato|Был выкуплен|3
+ישאלו|1|yish'alu|Perguntarão|They will ask|Preguntarán|ישאלו|Demanderont|Chiederanno|Спросят|3
+ואוסיפית|2|ve'osifit|E acrescentaste|And you added|Y añadiste|והוספת|Et tu as ajouté|E hai aggiunto|И ты добавил|3
+לשיעבודיה|2|leshi'abudeih|Para sua hipoteca|For his lien|Para su gravamen|לשיעבודו|Pour son hypothèque|Per la sua ipoteca|Для его залога|3
+וענשו|1|ve'anshu|E multaram|And fined|Y multaron|וענשו|Et pénalisèrent|E multarono|И оштрафовали|3
+תשימון|1|tesimun|Poreis|You shall put|Pondréis|תשימו|Vous mettrez|Porrete|Положите|3
+נשואי|1|nesu'ei|Casados de|Married of|Casados de|נשואי|Mariés de|Sposati di|Женатые|3
+ואקרב|1|va'ekrav|E aproximei-me|And I approached|Y me acerqué|ואקרב|Et je m’approchai|E mi avvicinai|И я приблизился|3
+בתולי|1|betulei|Virgindade de|Virginity of|Virginidad de|בתולי|Virginité de|Verginità di|Девственность|3
+מסירתה|1|mesiratah|Sua entrega|Her handing over|Su entrega|מסירתה|Sa remise|La sua consegna|Её передача|2
+ניזונין|1|nizonin|São sustentados|Are maintained|Son mantenidos|ניזונים|Sont entretenus|Sono mantenuti|Получают содержание|3
+עישורא|2|isura|Décimo|Tenth|Décimo|עישור|Dixième|Decimo|Десятая часть|3
+ומלמדה|1|umelamdah|E ensina-a|And teaches her|Y le enseña|ומלמדה|Et lui enseigne|E le insegna|И учит её|2
+למיזן|2|lemizan|Sustentar|To maintain|Mantener|לזון|Entretenir|Mantenere|Содержать|3
+אהדרינך|2|ahadrinach|Devolvemos-te|We return you|Te devolvemos|נחזירך|Nous te rendons|Ti restituiamo|Мы вернём тебя|2
+למדינתך|1|limdinatcha|À tua província|To your province|A tu provincia|למדינתך|À ta province|Alla tua provincia|В твою страну|3
+המחוררין|1|hamechorarin|Os furados|The perforated|Los perforados|המחוררים|Les troués|I forati|Продырявленные|3
+שוכרתו|1|socharto|Contrata-o|Hires him|Lo contrata|שוכרתו|L’engage|Lo assume|Нанимает его|3
+כתיפה|2|ketifah|Seu ombro|Her shoulder|Su hombro|כתפה|Son épaule|La sua spalla|Её плечо|3
+שבייה|2|shevyeh|Capturou-o|Captured him|Lo capturó|שבאו|Le captura|Lo catturò|Пленил его|3
+דאדרה|2|de'adarah|De Adar|Of Adar|De Adar|של אדר|D’Adar|Di Adar|Адара|3
+איזילו|2|izilu|Ide|Go!|Id|לכו|Allez|Andate|Идите|2
+עצמינו|1|atzmeinu|Nós mesmos|Ourselves|Nosotros mismos|עצמנו|Nous-mêmes|Noi stessi|Мы сами|3
+ומבשרך|1|umibsarecha|E de tua carne|And from your flesh|Y de tu carne|ומבשרך|Et de ta chair|E dalla tua carne|И от плоти твоей|3
+תתעלם|1|tit'alem|Esquivar-te-ás|You will ignore|Te desentenderás|תתעלם|Tu te déroberas|Ignorerai|Уклонишься|3
+נוקבן|1|nokvan|Perfura-as; especifica-as|Pierces; specifies them|Las perfora|נוקבן|Les perce|Le fora|Пробивает; уточняет их|3
+אנסה|1|anasah|Violou-a; forçou-a|Raped; forced her|La forzó|אנסה|La força|La violentò|Изнасиловал её|3
+תטלי|1|titli|Tomarás (f.)|You will take (f.)|Tomarás|תיטלי|Tu prendras|Prenderai|Возьмёшь|2
+דאירסה|2|de'arsah|Que a noivou|That betrothed her|Que la comprometió|שאירסה|Qui la fiança|Che la fidanzò|Который обручил её|3
+כיחלה|1|kichalah|Pintou-a (kohl)|Applied kohl|Se pintó|כיחלה|Mit du khôl|Mise il kohl|Подвела сурьмой|4
+ופירכסה|1|ufirkesah|E enfeitou-se|And adorned herself|Y se acicaló|ופירכסה|Et se para|E si agghindò|И нарядилась|3
+בסנדלים|1|basandalim|Com sandálias|With sandals|Con sandalias|בסנדלים|Avec des sandales|Con i sandali|В сандалиях|3
+לאבוכון|2|la'avuchon|Ao vosso pai|To your father|A vuestro padre|לאביכם|À votre père|A vostro padre|Вашему отцу|2
+איקרבא|2|ikrava|Ofereceu|Offered|Ofreció|הקריב|Offrit|Offrì|Принёс|2
+חמרים|1|chamarim|Condutores de jumentos|Donkey drivers|Arrieros|חמרים|Âniers|Asinai|Погонщики ослов|2
+עשור|1|asor|Décimo; dez dias|Tenth; ten days|Décimo|עשור|Dixième|Decimo|Десятый; десять дней|2
+תביעה|1|tevi'ah|Reclamação|Claim|Reclamación|תביעה|Réclamation|Reclamo|Требование|2
+ימזגו|1|yimzegu|Misturarão|They will mix|Mezclarán|ימזגו|Mélangeront|Mescoleranno|Смешают|3
+מבשלת|1|mevashelet|Cozinha|Cooks|Cocina|מבשלת|Cuisine|Cucina|Варит|2
+מצעת|1|matza'at|Estende (cama)|Spreads|Tiende|מציעה|Fait le lit|Rifà|Стелет|2
+בקתדרא|1|bekatedra|Na cadeira|In the chair|En la silla|בקתדרה|Sur la chaise|Sulla sedia|В кресле|3
+גמלתו|1|gemalato|Retribuiu-o|Requited him|Lo retribuyó|גמלתו|Le rétribua|Lo ricambiò|Воздала ему|3
+אורחי|1|orchei|Caminhos de; hóspedes|Ways of; guests|Caminos de|אורחי|Chemins de|Vie di|Пути; гости|3
+מנחא|2|mencha|Repousa|Rests|Reposa|מונחת|Repose|Riposa|Лежит|2
+גרגלידי|1|gargelidei|Pedaços; migalhas|Morsels|Pedazos|פירורים|Morceaux|Pezzi|Кусочки|3
+מינסבת|2|minsevat|É casada|Is married|Se casa|נישאת|Est mariée|È sposata|Выходит замуж|3
+החמרים|1|hachamarim|Os condutores de jumentos|The donkey drivers|Los arrieros|החמרים|Les âniers|Gli asinai|Погонщики ослов|2
+בשברון|1|beshivaron|Com quebrantamento|With brokenness|Con quebranto|בשברון|Avec brisement|Con affranto|С сокрушением|3
+נאנח|1|ne'enach|Suspira|Sighs|Suspira|נאנח|Soupire|Sospira|Вздыхает|3
+וכהתה|1|vechahatah|E escureceu|And dimmed|Y se oscureció|וכהתה|Et s’obscurcit|E si offuscò|И потускнела|3
+תלכנה|1|telachnah|Irão (f.)|Will go (f.)|Irán|תלכנה|Iront|Andranno|Пойдут|2
+לידידו|1|lididio|Ao seu amado|To his beloved|A su amado|לידידו|À son bien-aimé|Al suo diletto|Своему возлюбленному|3
+מפנקי|2|mefanki|Mimados|Pampered|Mimados|מפונקים|Choyés|Viziati|Изнеженные|3
+אניח|1|aniach|Colocarei|I will place|Colocaré|אניח|Je poserai|Porrò|Положу|2
+יתיבו|2|yativu|Sentaram-se|They sat|Se sentaron|ישבו|S’assirent|Si sedettero|Сели|3
+תביאמו|1|tevi'emo|Trá-los-ás|You will bring them|Los traerás|תביאמו|Tu les amèneras|Li porterai|Приведёшь их|3
+ושכנתי|1|veshachanti|E habitarei|And I will dwell|Y habitaré|ושכנתי|Et je résiderai|E dimorerò|И буду обитать|3
+אדרה|2|adrah|Sobre ela|On it|Sobre ella|עליה|Sur elle|Su di essa|На неё|2
+שיבבתא|2|shivavta|Vizinha|Neighbor (f.)|Vecina|שכנה|Voisine|Vicina|Соседка|3
+נזכרת|1|nizkeret|Lembra-se; mencionada|Remembers; mentioned|Recuerda|נזכרת|Se souvient|Si ricorda|Вспоминает; упомянутая|3
+משועבד|1|meshu'abad|Hipotecado; escravizado|Encumbered; enslaved|Gravado|משועבד|Hypothéqué|Ipotecato|Заложенный; порабощённый|3
+בורכא|2|burcha|Bênção (?)|Blessing|Bendición|ברכה|Bénédiction|Benedizione|Благословение|4
+מוספא|2|musafa|Musaf|Musaf|Musaf|מוסף|Moussaf|Musaf|Мусаф|2
+קיטנית|1|kitnit|Leguminosa|Legume|Legumbre|קטנית|Légumineuse|Legume|Бобовое|3
+צמרי|1|tzamri|Minha lã|My wool|Mi lana|צמרי|Ma laine|La mia lana|Моя шерсть|3
+ופשתי|1|ufishti|E meu linho|And my flax|Y mi lino|ופשתי|Et mon lin|E il mio lino|И мой лён|3
+משתוקקת|1|mishtokeket|Anseia|Longs|Anhela|משתוקקת|Aspire|Brama|Жаждет|3
+וישכימו|1|vayashkimu|E madrugaram|And rose early|Y madrugaron|וישכימו|Et se levèrent tôt|E si alzarono presto|И встали рано|3
+גללי|1|gelalei|Esterco de|Dung of|Estiércol de|גללי|Fiente de|Sterco di|Помёт|3
+טלפי|1|tilfei|Cascos de|Hooves of|Pezuñas de|טלפי|Sabots de|Zoccoli di|Копыта|3
+משכחי|2|mashkechei|Encontram|Find|Encuentran|מוצאים|Trouvent|Trovano|Находят|2
+שוכרין|1|sochrin|Alugam; contratam|Rent; hire|Alquilan|שוכרים|Louent|Affittano|Нанимают|3
+מחסורו|1|machsoro|Sua necessidade|His need|Su necesidad|מחסורו|Son besoin|Il suo bisogno|Его нужда|2
+קאכילנא|2|ka'achilna|Estou comendo|I am eating|Estoy comiendo|אוכל אני|Je mange|Mangio|Я ем|3
+בעתם|1|be'itam|Em seu tempo|In their time|En su tiempo|בעתם|En leur temps|Al loro tempo|В их время|2
+העבט|1|ha'avet|O penhor|The pledge|La prenda|העבוט|Le gage|Il pegno|Залог|3
+אתונא|2|atuna|Forno|Furnace|Horno|כבשן|Four|Forno|Печь|3
+קלילי|2|kelilei|Leves|Light|Ligeros|קלים|Légers|Leggeri|Лёгкие|2
+מחאי|2|mecha'i|Bateram|Struck|Golpearon|הכו|Frappèrent|Colpirono|Ударили|3
+דמשועבד|2|demeshu'abad|Que está hipotecado|That is encumbered|Que está gravado|שמשועבד|Qui est hypothéqué|Che è ipotecato|Который заложен|3
+וקבילה|2|vekabilah|E recebeu-a|And received it|Y la recibió|וקיבלה|Et la reçut|E la ricevette|И принял её|3
+נדרנית|1|nadranit|Que faz votos|Vow-maker (f.)|Que hace votos|נדרנית|Faiseuse de vœux|Che fa voti|Дающая обеты|3
+פיר|1|pir|Poço; buraco|Pit|Pozo|פיר|Puits|Pozzo|Яма|2
+ולהגיד|1|ulehagid|E dizer|And to tell|Y decir|ולהגיד|Et dire|E dire|И сказать|3
+יקברוניה|2|yikbereunih|Sepultem-no|Let them bury him|Que lo entierren|יקברוהו|Qu’ils l’enterrent|Lo seppelliscano|Пусть похоронят его|3
+ידלוניה|2|yidleunih|Levantem-no|Let them lift him|Que lo levanten|יגביהוהו|Qu’ils le lèvent|Lo sollevino|Пусть поднимут его|3
+ונופצת|1|venofetzet|E bate (lã)|And beats|Y carda|ונופצת|Et bat|E batte|И треплет|4
+תשאיל|1|tash'il|Emprestarás|You will lend|Prestarás|תשאיל|Tu prêteras|Presterai|Одолжишь|3
+פילכה|1|pilchah|Seu fuso|Her spindle|Su huso|פלכה|Son fuseau|Il suo fuso|Её веретено|3
+ניכליה|2|nichleih|Comamo-lo|Let us eat it|Comámoslo|נאכלנו|Mangeons-le|Mangiamolo|Съедим его|2
+וניתנייה|2|venitneyeh|E ensinemo-lo|And let us teach it|Y enseñémoslo|ונשננו|Et enseignons-le|E insegniamolo|И выучим его|2
+קפידיה|2|kepideih|Sua ira|His anger|Su ira|קפידתו|Sa colère|La sua ira|Его гнев|3
+שישתוק|1|sheyishtok|Que se cale|That he be silent|Que calle|שישתוק|Qu’il se taise|Che taccia|Чтобы замолчал|3
+שיתכוונו|1|sheyitkavnu|Que tenham intenção|That they intend|Que tengan intención|שיתכוונו|Qu’ils aient l’intention|Che abbiano intenzione|Чтобы намеревались|3
+וריפא|1|verippe|E curou|And healed|Y curó|וריפא|Et guérit|E guarì|И исцелил|3
+נשבעו|1|nishbe'u|Juraram|They swore|Juraron|נשבעו|Jurèrent|Giurarono|Поклялись|3
+כורסיה|2|kurseih|Seu trono|His throne|Su trono|כסאו|Son trône|Il suo trono|Его престол|3
+טלפחי|2|telofchei|Lentilhas|Lentils|Lentejas|עדשים|Lentilles|Lenticchie|Чечевица|3
+מתחזיא|2|mitchazya|Parece|Appears|Parece|נראית|Paraît|Appare|Кажется|2
+ומראך|1|umar'ech|E tua aparência|And your appearance|Y tu aspecto|ומראך|Et ton aspect|E il tuo aspetto|И твой вид|3
+יכוננה|1|yechonenah|Estabelecê-la-á|Will establish it|La establecerá|יכוננה|L’établira|La stabilirà|Утвердит её|3
+נתארסה|1|nit'arsah|Foi noiva|Became betrothed|Se comprometió|נתארסה|Se fiança|Si fidanzò|Обручилась|2
+נקטעה|1|niktah|Foi amputada|Was amputated|Fue amputada|נקטעה|Fut amputée|Fu amputata|Была отрублена|3
+סבורה|1|sevurah|Pensa (ela)|Thinks (f.)|Cree|סבורה|Pense|Pensa|Полагает|2
+הקיזו|1|hikizu|Fizeram sangria|Let blood|Sangraron|הקיזו|Saignèrent|Salassarono|Пустили кровь|2
+ושימשו|1|veshimshu|E serviram|And served|Y sirvieron|ושימשו|Et servirent|E servirono|И служили|3
+נראתה|1|nir'atah|Foi vista; pareceu|Was seen|Fue vista|נראתה|Fut vue|Fu vista|Была видна|2
+שושביניה|1|shushvineha|Seus padrinhos|Her attendants|Sus padrinos|שושביניה|Ses garçons d’honneur|I suoi paraninfi|Её шаферы|3
+קיימתיה|2|kiyamteih|Cumpri-o|I fulfilled it|Lo cumplí|קיימתיו|Je l’ai accompli|L’ho adempiuto|Я исполнил его|3
+בושים|1|boshim|Envergonhados|Ashamed|Avergonzados|בושים|Honteux|Vergognosi|Пристыженные|3
+בזכותה|1|bizchutah|Por seu mérito|By her merit|Por su mérito|בזכותה|Par son mérite|Per suo merito|Её заслугой|3
+שתכתוב|1|shetichtov|Que escrevas|That you write|Que escribas|שתכתוב|Que tu écrives|Che tu scriva|Чтобы ты написал|2
+סליקת|2|salikat|Subiste|You went up|Subiste|עלית|Tu es monté|Sei salito|Ты поднялся|2
+לשלוחיה|2|lishlucheih|Ao seu enviado|To his agent|A su enviado|לשלוחו|À son mandataire|Al suo inviato|Его посланнику|3
+תפסוה|1|tefasuha|Agarraram-na|They seized her|La agarraron|תפסוה|La saisirent|La afferrarono|Схватили её|3
+קאקי|2|kakei|Canecos; pelicanos|Jugs; pelicans|Jarros|קאקים|Cruches|Brocche|Кружки; пеликаны|3
+קרענא|2|kar'ana|Rasgamos|We tore|Rasgamos|קרענו|Nous avons déchiré|Abbiamo strappato|Мы разорвали|3
+דציירי|2|detzayrei|Que pintam|That paint|Que pintan|שמציירים|Qui peignent|Che dipingono|Которые рисуют|3
+איגרשה|2|igarshah|Foi divorciada|Was divorced|Fue divorciada|נתגרשה|Fut répudiée|Fu ripudiata|Развелась|2
+יורשיך|1|yorshecha|Teus herdeiros|Your heirs|Tus herederos|יורשיך|Tes héritiers|I tuoi eredi|Твои наследники|3
+דמסקא|2|dimaska|De Damasco|Of Damascus|De Damasco|של דמשק|De Damas|Di Damasco|Дамасский|3
+מנכסיא|2|minichsaya|Dos bens|From the property|De los bienes|מהנכסים|Des biens|Dai beni|Из имущества|3
+מינהו|2|minhu|Dele|From him|De él|ממנו|De lui|Da lui|От него|2
+גטין|1|gitin|Cartas de divórcio|Divorce writs|Guitín|גיטין|Guittin|Ghittin|Разводные письма|2
+דיכרין|2|dichrin|Carneiros; machos|Rams; males|Carneros|אילים; זכרים|Béliers|Montoni|Бараны; самцы|3
+פייסינהו|2|paysinhu|Apaziguou-os|Appeased them|Los apaciguó|פייסם|Les apaisa|Li placò|Умиротворил их|3
+קטריף|2|katrif|Está se tornando treifá|Becomes terefa|Se vuelve terefá|נטרף|Devient terefa|Diventa terefà|Становится трефой|2
+שירש|1|sheyarash|Que herdou|That inherited|Que heredó|שירש|Qui hérita|Che ereditò|Который унаследовал|3
+אבון|2|abon|Nosso pai|Our father|Nuestro padre|אבינו|Notre père|Nostro padre|Наш отец|2
+חתמה|1|chatmah|Assinou-a; seu selo|Signed it; its seal|La firmó|חתמה|La signa|La firmò|Подписал её; её печать|וחתמה|2
+אישתדוף|2|ishtaduf|Foi crestado|Was blighted|Se tizonó|נשתדף|Fut brûlé|Fu bruciato|Опалился|3
+בדאוזיל|2|bede'azil|No que barateou|In what cheapened|En lo que abarató|במה שהוזל|Dans ce qui baissa|In ciò che ribassò|В подешевевшем|2
+מוזלי|2|muzlei|Baratos|Cheap|Baratos|זולים|Bon marché|Economici|Дешёвые|3
+שפיחתו|1|shepichatu|Que o diminuíram|That reduced it|Que lo redujeron|שפיחתו|Qui le réduisirent|Che lo ridussero|Которые уменьшили его|3
+חילקאי|2|chilka'i|Grão moído|Groats|Grano molido|גריסים|Gruaux|Semole|Крупа|3
+אמונתו|1|emunato|Sua fé; sua fidelidade|His faith|Su fe|אמונתו|Sa foi|La sua fede|Его вера|3
+יתבת|2|yatvat|Senta-se (ela)|She sits|Se sienta|יושבת|Elle est assise|Siede|Сидит|4
+הניחוני|1|hinichuni|Deixai-me|Leave me|Dejadme|הניחוני|Laissez-moi|Lasciatemi|Оставьте меня|3
+ילעוס|1|yil'os|Mastigará|Will chew|Masticará|ילעוס|Mâchera|Masticherà|Разжуёт|3
+במותי|1|bemoti|Em minha morte|At my death|A mi muerte|במותי|À ma mort|Alla mia morte|При моей смерти|3
+קריה|1|kiryah|Cidade|City|Ciudad|קריה|Cité|Città|Город|2
+לערסיה|2|le'arseih|Ao seu leito|To his bed|A su lecho|למיטתו|À son lit|Al suo letto|На его ложе|3
+תספדוני|1|tispeduni|Lamentar-me-eis|You will eulogize me|Me lloraréis|תספדוני|Vous me pleurerez|Mi compiangerete|Оплачете меня|3
+נהניתי|1|neheneiti|Beneficiei-me|I benefited|Me beneficié|נהניתי|J’ai profité|Ho tratto beneficio|Я воспользовался|3
+שתשלש|1|shetishalesh|Que se triplique|That it triple|Que se triplique|שתשלש|Qu’elle triple|Che si triplichi|Чтобы утроилась|3
+אמטאי|3|amita'i|Por minha causa|Because of me|Por mí|בשבילי|À cause de moi|Per causa mia|Из-за меня|2
+גוזרי|1|gozrei|Decretadores de|Decree-makers of|Decretadores de|גוזרי|Décréteurs de|Decretatori di|Постановляющие|2
+איסתירא|2|istira|Istira (moeda)|Istira|Istira|סלע|Istira|Istira|Истира|2
+מתרפא|1|mitrape|Cura-se|Is healed|Se cura|מתרפא|Guérit|Guarisce|Исцеляется|3
+יעור|1|ye'or|Despertará; cegará|Will awaken; blind|Despertará|יעור|S’éveillera|Si sveglierà|Пробудится; ослепит|1
+פקחים|1|pikchim|Sãos; que veem|Sane; seeing|Cuerdos|פיקחים|Sensés|Assennati|Зрячие; разумные|2
+שיילי|2|sheilei|Perguntaram|They asked|Preguntaron|שאלו|Demandèrent|Chiesero|Спросили|2
+ומגדלותיה|1|umigdeloteha|E suas torres|And its towers|Y sus torres|ומגדלותיה|Et ses tours|E le sue torri|И её башни|3
+אתפסה|2|atpesah|Consagrou-a (tefisá)|Consecrated it|La consagró|התפיסה|La consacra|La consacrò|Освятил её|2
+אינסובי|2|insuvei|Casar-se|To marry|Casarse|להינשא|Se marier|Sposarsi|Выйти замуж|2
+משתעבדא|2|mishta'bda|É hipotecada|Is encumbered|Se grava|משתעבדת|Est hypothéquée|È ipotecata|Закладывается|3
+פתריתו|2|patritu|Interpretastes|You interpreted|Interpretasteis|פתרתם|Vous avez interprété|Avete interpretato|Вы истолковали|3
+קליפתו|1|klipato|Sua casca|Its peel|Su cáscara|קליפתו|Son écorce|La sua buccia|Его кожура|בקליפתו|3
+אקנקנים|3|akankanim|Sobre os jarros|On the jugs|Sobre las jarras|על הקנקנים|Sur les cruches|Sulle brocche|На кувшины|3
+מטרתא|2|matarta|Guarda; prisão|Guard; prison|Guardia|משמרת|Garde|Guardia|Стража|3
+וליגבי|2|veligbei|E que cobre|And let him collect|Y que cobre|ויגבה|Et qu’il perçoive|E riscuota|И пусть взыщет|3
+קולטתו|1|koltato|Absorve-o|Absorbs it|Lo absorbe|קולטתו|L’absorbe|Lo assorbe|Впитывает его|3
+כותית|1|kutit|Cuteia|Cuthean woman|Cutea|כותית|Coutéenne|Cutea|Кутеянка|3
+מתיך|1|matich|Funde|Melts|Funde|מתיך|Fond|Fonde|Плавит|3
+הטריח|1|hitri'ach|Incomodou|Troubled|Molestó|הטריח|Dérangea|Disturbò|Утрудил|3
+אורות|1|orot|Luzes; ervas|Lights; herbs|Luces|אורות|Lumières|Luci|Огни; травы|2
+ירעש|1|yir'ash|Tremerá|Will quake|Temblará|ירעש|Tremblera|Tremerà|Сотрясётся|3
+אתונו|1|atono|Sua jumenta|His she-ass|Su asna|אתונו|Son ânesse|La sua asina|Его ослица|3
+אתונות|1|atonot|Jumentas|She-asses|Asnas|אתונות|Ânesses|Asine|Ослицы|3
+הינו|1|hainu|Isto é|That is|Es decir|היינו|C’est-à-dire|Cioè|То есть|2
+סמכוהו|1|semachuhu|Apoiaram-no; ordenaram-no|Supported; ordained him|Lo apoyaron|סמכוהו|L’appuyèrent|Lo appoggiarono|Поддержали; рукоположили его|3
+ליקנסיה|2|likneseih|Que o multe|Let him fine him|Que lo multe|יקנסנו|Qu’il le pénalise|Lo multi|Пусть оштрафует его|2
+בשוויו|1|beshavyo|Em seu valor|At its value|En su valor|בשוויו|À sa valeur|Al suo valore|По его стоимости|3
+קונסים|1|konsim|Multam|Fine|Multan|קונסים|Pénalisent|Multano|Штрафуют|3
+לפטומה|2|lefatumah|Para engordá-la|To fatten it|Para engordarla|לפטמה|Pour l’engraisser|Per ingrassarla|Чтобы откормить её|3
+למלויי|2|lemaluyei|Encher|To fill|Llenar|למלא|Remplir|Riempire|Наполнить|3
+תזכר|1|tizacher|Será lembrada|Will be remembered|Será recordada|תיזכר|Sera rappelée|Sarà ricordata|Будет помянута|3
+מיכחש|2|mikchash|Contradizer|To contradict|Contradecir|להכחיש|Contredire|Contraddire|Опровергнуть|3
+גיורתא|2|giyurta|Convertida|Convert (f.)|Conversa|גיורת|Convertie|Convertita|Прозелитка|3
+לאודנייהו|2|le'udnayhu|Aos seus ouvidos|To their ears|A sus oídos|לאוזניהם|À leurs oreilles|Alle loro orecchie|В их уши|3
+עודפין|1|odfin|Excedem|Exceed|Exceden|עודפים|Excèdent|Eccedono|Превышают|3
+לצקת|1|latzeket|Derramar|To pour|Verter|לצקת|Verser|Versare|Лить|3
+גיזבר|1|gizbar|Tesoureiro|Treasurer|Tesorero|גזבר|Trésorier|Tesoriere|Казначей|3
+בפרוטרוט|1|biprutrot|Em detalhe|In detail|En detalle|בפרוטרוט|En détail|In dettaglio|Подробно|3
+שריפו|1|sherifo|Sua queima|Its burning|Su quema|שריפתו|Sa combustion|La sua bruciatura|Его сожжение|3
+סדוקות|1|sedukot|Rachadas|Cracked|Agrietadas|סדוקות|Fendues|Incrinate|Треснувшие|3
+וקיפה|1|vekipah|E ensopado|And stew|Y guiso|וקיפה|Et ragoût|E stufato|И похлёбка|3
+בכוורתו|1|bekhavarto|Em sua colmeia|In his beehive|En su colmena|בכוורתו|Dans sa ruche|Nel suo alveare|В его улье|3
+חכמתא|2|chochmeta|Sabedoria|Wisdom|Sabiduría|חכמה|Sagesse|Saggezza|Мудрость|3
+דמדלו|2|demadlu|Que levantam|That raise|Que levantan|שמגביהים|Qui lèvent|Che sollevano|Которые поднимают|3
+דאוזיף|2|de'ozif|Que emprestou|That lent|Que prestó|שהלווה|Qui prêta|Che prestò|Который одолжил|3
+אוזיף|2|ozif|Emprestou|Lent|Prestó|הלווה|Prêta|Prestò|Одолжил|3
+אסיקו|2|asiku|Concluíram|They concluded|Concluyeron|הסיקו|Conclurent|Conclusero|Заключили|2
+כרוכו|1|kerucho|Enrolado nele|Wrapped in it|Envuelto|כרוכו|Enroulé|Avvolto|Обёрнутый|3
+אוכמתי|2|ukmatei|Pretas|Black (pl.)|Negras|שחורות|Noires|Nere|Чёрные|3
+חיוורתי|2|chivratei|Brancas|White (pl.)|Blancas|לבנות|Blanches|Bianche|Белые|3
+מליוה|1|malveh|Empréstimo|Loan|Préstamo|מלווה|Prêt|Prestito|Заём|3
+נימוס|1|nimus|Costume; lei|Custom; law|Costumbre|נימוס|Coutume|Usanza|Обычай; закон|3
+עורפו|1|orpo|Sua nuca|His nape|Su nuca|עורפו|Sa nuque|La sua nuca|Его затылок|3
+במגירה|1|bimgeirah|Com a serra|With the saw|Con la sierra|במגירה|Avec la scie|Con la sega|Пилой|2
+פודהו|1|podehu|Resgata-o|Redeems it|Lo redime|פודהו|Le rachète|Lo riscatta|Выкупает его|2
+דמרחינהו|2|demarchinhu|Que os alisou|That smoothed them|Que los alisó|שמירחם|Qui les lissa|Che li livellò|Который разровнял их|3
+כורחיך|1|korchach|Forçosamente|Perforce|Forzosamente|כורחך|Forcément|Per forza|Поневоле|3
+יתחמם|1|yitchamem|Aquecer-se-á|Will warm|Se calentará|יתחמם|Se réchauffera|Si riscalderà|Согреется|3
+כפנייתא|2|kafnayta|Tâmaras verdes|Unripe dates|Dátiles verdes|כפניות|Dattes vertes|Datteri acerbi|Незрелые финики|3
+שביח|2|shevich|Melhorado|Improved|Mejorado|משובח|Amélioré|Migliorato|Улучшенный|2
+טעית|1|ta'ita|Erraste|You erred|Erraste|טעית|Tu t’es trompé|Hai sbagliato|Ты ошибся|3
+חולבות|1|cholvot|Leiteiras|Milch|Lecheras|חולבות|Laitières|Lattifere|Дойные|3
+דמפילות|2|demapilot|Que abortam|That miscarry|Que abortan|שמפילות|Qui avortent|Che abortiscono|Которые выкидывают|3
+ניליף|2|nilif|Aprendamos|Let us learn|Aprendamos|נלמד|Apprenons|Impariamo|Выучим|2
+רעותא|2|re'uta|Vontade|Will; desire|Voluntad|רצון|Volonté|Volontà|Желание|2
+סקאין|1|saka'in|Sacos|Sacks|Sacos|שקים|Sacs|Sacchi|Мешки|3
+משיקו|1|mashiko|Junta-o|Joins it|Lo junta|משיקו|Le joint|Lo unisce|Соединяет его|3
+אשער|1|ashe'er|Estimarei|I will estimate|Estimaré|אשער|J’estimerai|Stimerò|Оценю|3
+מרחמת|2|merachamat|Amas (ela)|You love (f.)|Amas|אוהבת את|Tu aimes|Ami|Ты любишь|4
+רחים|2|rachim|Ama; amado|Loves; beloved|Ama|אוהב|Aime|Ama|Любит; любимый|2
+יבוקר|1|yevukar|Será examinado|Will be examined|Será examinado|יבוקר|Sera examiné|Sarà esaminato|Будет осмотрен|3
+קאסרה|2|ka'asrah|Está proibindo-a|Is forbidding it|La está prohibiendo|אוסרה|L’interdit|La proibisce|Запрещает её|3
+תמותו|1|tamutu|Morrereis|You shall die|Moriréis|תמותו|Vous mourrez|Morirete|Умрёте|2
+אארבעה|3|a'arba'ah|Sobre quatro|On four|Sobre cuatro|על ארבעה|Sur quatre|Su quattro|На четыре|2
+דמשתני|2|demishtanei|Que muda|That changes|Que cambia|שמשתנה|Qui change|Che cambia|Который меняется|3
+שעירבן|1|she'irvan|Que as misturou|That mixed them|Que las mezcló|שעירבן|Qui les mélangea|Che le mescolò|Который смешал их|3
+וחזירה|1|vachazirah|E porca|And sow|Y cerda|וחזירה|Et truie|E scrofa|И свинья|3
+איסרות|1|isurot|Proibições|Prohibitions|Prohibiciones|איסורים|Interdictions|Divieti|Запреты|3
+טירחיה|2|tircheih|Seu esforço|His trouble|Su esfuerzo|טורחו|Sa peine|La sua fatica|Его труд|3
+דלשקול|2|dilshkol|Que tome|That he take|Que tome|שייטול|Qu’il prenne|Che prenda|Чтобы взял|2
+עבודים|1|avudim|Curtidos|Tanned|Curtidos|עבודים|Tannés|Conciati|Выделанные|3
+וחכך|1|vechikech|E esfregou|And rubbed|Y frotó|וחיכך|Et frotta|E strofinò|И потёр|3
+לדודי|1|ledodi|Ao meu amado|To my beloved|A mi amado|לדודי|À mon bien-aimé|Al mio diletto|Возлюбленному моему|3
+ויגמר|1|veyigamer|E será concluído|And will be completed|Y se concluirá|וייגמר|Et sera achevé|E sarà completato|И завершится|2
+איזדבוני|2|izdabunei|Ser vendido|To be sold|Ser vendido|להימכר|Être vendu|Essere venduto|Быть проданным|2
+תיפדה|1|tipadeh|Será resgatada|Will be redeemed|Será redimida|תיפדה|Sera rachetée|Sarà riscattata|Будет выкуплена|3
+יגלנה|1|yegalenah|Revelá-la-á|Will reveal it|La revelará|יגלנה|La révélera|La rivelerà|Откроет её|3
+תרומתי|1|terumati|Minha terumá|My teruma|Mi terumá|תרומתי|Ma terouma|La mia terumà|Моя трума|3
+למישרייה|2|lemishreyeh|Permiti-lo|To permit it|Permitirlo|להתירו|Le permettre|Permetterlo|Разрешить его|2
+לטהורי|2|letahorei|Purificar|To purify|Purificar|לטהר|Purifier|Purificare|Очистить|3
+צורם|1|tzorem|Corta (orelha)|Slits (ear)|Corta|צורם|Fend|Fende|Надрезает|4
+שנתקווצה|1|shenitkavtzah|Que se encolheu|That shrank|Que se encogió|שנתקווצה|Qui se rétrécit|Che si restrinse|Которая съёжилась|3
+משחקין|1|mesachakin|Brincam|Play|Juegan|משחקים|Jouent|Giocano|Играют|3
+ללגימא|2|lelegima|Para um gole|For a mouthful|Para un sorbo|ללגימה|Pour une gorgée|Per un sorso|На глоток|3
+חילקנו|1|chilaknu|Dividimos|We divided|Dividimos|חילקנו|Nous avons partagé|Abbiamo diviso|Мы разделили|3
+שנסמית|1|shenismeit|Que ficou cega|That became blind|Que quedó ciega|שנסמית|Qui devint aveugle|Che divenne cieca|Которая ослепла|3
+ושנקטעה|1|veshenikte'ah|E que foi amputada|And that was amputated|Y que fue amputada|ושנקטעה|Et qui fut amputée|E che fu amputata|И которая отрублена|3
+ואכלנא|2|ve'achalna|E comemos|And we ate|Y comimos|ואכלנו|Et nous avons mangé|E abbiamo mangiato|И мы ели|2
+מיפרק|2|mifrak|Ser resgatado|To be redeemed|Ser rescatado|להיפדות|Être racheté|Essere riscattato|Быть выкупленным|2
+שנלקח|1|shenilkach|Que foi tomado|That was taken|Que fue tomado|שנלקח|Qui fut pris|Che fu preso|Который взят|2
+נירונית|1|neronit|Neroniana (moeda)|Neronian (coin)|Neroniana|נירונית|Néronienne|Neroniana|Нерониева (монета)|2
+לחליקה|1|lachalikah|À escorregadia|To the smooth|A la lisa|לחלקה|À la lisse|Alla liscia|К гладкой|3
+קפוצאי|2|kafutza'i|Saltadores (gafanhotos)|Jumpers|Saltadores|קופצים|Sauteurs|Saltatori|Прыгуны|4
+פנימיות|1|penimiyot|Interiores|Inner|Interiores|פנימיות|Intérieures|Interne|Внутренние|2
+לאיתנו|1|le'eitano|À sua força|To its strength|A su fuerza|לאיתנו|À sa force|Alla sua forza|К его силе|3
+דבוקה|1|devukah|Aderida|Attached|Adherida|דבוקה|Attachée|Attaccata|Прилепившаяся|3
+והכסול|1|vehakesul|E o quadril|And the hip|Y la cadera|והכסל|Et la hanche|E il fianco|И бедро|3
+כסול|1|kasul|Manco (quadril)|Hip-lame|Cojo de cadera|כסול|Boiteux de la hanche|Zoppo dell’anca|Хромой (бедро)|3
+לשונו|1|leshono|Sua língua|His tongue|Su lengua|לשונו|Sa langue|La sua lingua|Его язык|3
+בלום|1|balum|Fechado; refreado|Closed; restrained|Cerrado|בלום|Fermé|Chiuso|Закрытый; сдержанный|3
+ושהמית|1|veshehemit|E que matou|And that killed|Y que mató|ושהמית|Et qui tua|E che uccise|И который убил|3
+מילף|1|milaf|Fibra; ráfia|Bast|Fibra|מילף|Fibre|Fibra|Лыко|3
+הקרחנין|1|hakarchanin|Os calvos|The bald ones|Los calvos|הקרחנים|Les chauves|I calvi|Лысые|3
+גבינין|1|gevinin|Queijos|Cheeses|Quesos|גבינות|Fromages|Formaggi|Сыры|3
+אישתיור|2|ishtayur|Sobraram|Remained|Sobraron|נשתיירו|Restèrent|Rimasero|Остались|3
+איגומי|2|igumei|Juncos|Reeds|Juncos|אגמונים|Joncs|Giunchi|Камыши|3
+נכפה|1|nichpeh|Epiléptico; forçado|Epileptic; forced|Epiléptico|נכפה|Épileptique|Epilettico|Эпилептик; принуждённый|3
+נגדו|1|negdo|Diante dele|Opposite him|Frente a él|נגדו|Devant lui|Di fronte a lui|Напротив него|1
+כקליפת|3|kiklipat|Como a casca de|Like the peel of|Como la cáscara de|כקליפת|Comme l’écorce de|Come la buccia di|Как кожура|3
+מורכבות|1|murkavot|Enxertadas; compostas|Grafted; composite|Injertadas|מורכבות|Greffées|Innestate|Привитые; составные|3
+צירים|1|tzirim|Dores de parto; dobradiças|Labor pains; hinges|Dolores de parto|צירים|Contractions; gonds|Doglie; cardini|Схватки; петли|3
+יולדה|1|yoledah|Parturiente|Woman in childbirth|Parturienta|יולדת|Accouchée|Puerpera|Роженица|2
+צירי|1|tzirei|Dores de|Pains of|Dolores de|צירי|Douleurs de|Doglie di|Муки|3
+גיחור|1|gichor|Ruivo|Ruddy|Pelirrojo|גיחור|Roux|Rossiccio|Рыжий|3
+והמטמא|1|vehametamei|E o que torna impuro|And one who defiles|Y el que impurifica|והמטמא|Et celui qui souille|E chi contamina|И оскверняющий|3
+משבאת|1|mishebat|Desde que veio|Since she came|Desde que vino|משבאת|Depuis qu’elle est venue|Da quando venne|С тех пор как пришла|2
+פדחתו|1|padachto|Sua testa|His forehead|Su frente|פדחתו|Son front|La sua fronte|Его лоб|3
+אחמירו|2|achmiru|Foram rigorosos|They were strict|Fueron estrictos|החמירו|Furent stricts|Furono rigorosi|Устрожили|3
+דמזבנא|2|dimzabna|Que vende|That sells|Que vende|שמוכרת|Qui vend|Che vende|Которая продаёт|2
+מתקלי|2|matkalei|Pesos|Weights|Pesos|משקלים|Poids|Pesi|Веса|3
+לערבו|1|le'arvo|Misturá-lo|To mix it|Mezclarlo|לערבו|Le mélanger|Mescolarlo|Смешать его|3
+מאמצע|1|me'emtza|Do meio|From the middle|Del medio|מאמצע|Du milieu|Dal mezzo|Из середины|1
+ליתנינהו|2|letininhu|Que os dê|Let him give them|Que los dé|יתנם|Qu’il les donne|Li dia|Пусть даст их|2
+סיבכי|1|sivchei|Ramos entrelaçados|Thickets|Matorrales|סבכי|Fourrés|Boscaglie|Чащи|3
+ירדנא|2|yardena|Jordão; rio|Jordan; river|Jordán|ירדן|Jourdain|Giordano|Иордан; река|2
+בקרכם|1|bekarchem|Vosso gado|Your cattle|Vuestro ganado|בקרכם|Votre bétail|Il vostro bestiame|Ваш скот|3
+וצאנכם|1|vetzonchem|E vossos rebanhos|And your flocks|Y vuestros rebaños|וצאנכם|Et vos troupeaux|E le vostre greggi|И ваш мелкий скот|3
+ברתותא|2|bartuta|Filhas|Daughters|Hijas|בנות|Filles|Figlie|Дочери|2
+חזירין|1|chazirin|Porcos|Pigs|Cerdos|חזירים|Porcs|Maiali|Свиньи|3
+האלולין|1|ha'elulin|Os de Elul|Those of Elul|Los de Elul|האלוליים|Ceux d’Eloul|Quelli di Elul|Элульские|3
+המנויין|1|hamenuyin|Os contados (inscritos)|The registered|Los inscritos|המנויים|Les inscrits|Gli iscritti|Записанные|4
+דאיפטרו|2|de'ipteru|Que foram isentos|That were exempted|Que fueron eximidos|שנפטרו|Qui furent exemptés|Che furono esentati|Которые освобождены|2
+מנויים|1|menuyim|Contados; inscritos|Counted; registered|Inscritos|מנויים|Inscrits|Iscritti|Записанные|3
+יחשכו|1|yechshechu|Escurecerão|They will darken|Se oscurecerán|יחשכו|S’obscurciront|Si oscureranno|Потемнеют|3
+איננה|1|einenah|Não está (ela)|She is not|No está|איננה|Elle n’est pas|Non c’è|Её нет|2
+ותרכבנה|1|vatirkavnah|E montaram (f.)|And they rode (f.)|Y montaron|ותרכבנה|Et elles montèrent|E cavalcarono|И поехали верхом|3
+הגיעני|1|higi'ani|Chegou-me|Reached me|Me llegó|הגיעני|M’est parvenu|Mi è giunto|Дошло до меня|3
+וקטלוהו|2|veketluhu|E mataram-no|And killed him|Y lo mataron|והרגוהו|Et le tuèrent|E lo uccisero|И убили его|3
+ארבסר|2|arbesar|Quatorze|Fourteen|Catorce|ארבעה עשר|Quatorze|Quattordici|Четырнадцать|3
+גבלך|1|gevulcha|Teu limite|Your border|Tu límite|גבולך|Ta frontière|Il tuo confine|Твой предел|3
+ובמערות|1|uvime'arot|E nas cavernas|And in caves|Y en las cuevas|ובמערות|Et dans les grottes|E nelle grotte|И в пещерах|3
+ענייני|1|inyanei|Assuntos de|Matters of|Asuntos de|ענייני|Affaires de|Affari di|Дела|2
+מקשאות|1|miksha'ot|Pepinais|Cucumber fields|Pepinares|מקשאות|Champs de concombres|Campi di cetrioli|Огурцовые поля|3
+גלוסקא|1|gluska|Pão fino|Fine loaf|Pan fino|גלוסקה|Pain fin|Pane fine|Белый хлеб|3
+וניבטליה|2|venivtleih|E anulemo-lo|And let us annul it|Y anulémoslo|ונבטלנו|Et annulons-le|E annulliamolo|И отменим его|3
+ביעורא|2|bi'ura|Remoção|Removal|Eliminación|ביעור|Élimination|Eliminazione|Устранение|3
+דעיפושה|2|de'ipushah|De seu mofo|Of its mold|De su moho|של עיפושה|De sa moisissure|Della sua muffa|Её плесени|3
+מיקלקלא|2|mikalkela|Estraga-se|Is spoiled|Se estropea|מתקלקלת|Se gâte|Si guasta|Портится|3
+מחיפוש|1|mechipus|Da busca|From searching|De la búsqueda|מחיפוש|De la recherche|Dalla ricerca|От поиска|3
+וחיפוש|1|vechipus|E busca|And search|Y búsqueda|וחיפוש|Et recherche|E ricerca|И поиск|3
+ויחפש|1|veyechapes|E procurará|And will search|Y buscará|ויחפש|Et cherchera|E cercherà|И поищет|3
+אחפש|1|achapes|Procurarei|I will search|Buscaré|אחפש|Je chercherai|Cercherò|Поищу|3
+חפש|1|chapes|Procura|Search|Busca|חפש|Cherche|Cerca|Ищи|3
+בדיקנא|2|bedikna|Examino|I examine|Examino|בודק אני|J’examine|Esamino|Я проверяю|3
+אישתמש|2|ishtamesh|Usou|Used|Usó|השתמש|Utilisa|Usò|Использовал|3
+כמבוער|3|kimevu'ar|Como eliminado|As removed|Como eliminado|כמבוער|Comme éliminé|Come eliminato|Как устранённый|3
+אישתמיש|2|ishtamish|Usou|Used|Usó|השתמש|Utilisa|Usò|Воспользовался|3
+לזוק|1|lazuk|Grilhões; correntes|Fetters|Grilletes|לאזיקים|Aux fers|Ai ceppi|В оковы|3
+ושלפנים|1|veshelifnim|E o de dentro|And the inner|Y lo de dentro|ושלפנים|Et l’intérieur|E l’interno|И внутреннее|3
+חיצונות|1|chitzonot|Exteriores|Outer|Exteriores|חיצונות|Extérieures|Esterne|Внешние|2
+עליונות|1|elyonot|Superiores|Upper|Superiores|עליונות|Supérieures|Superiori|Верхние|2
+אכלום|3|akelum|Sobre qualquer coisa|On anything|Sobre algo|על כלום|Sur quoi que ce soit|Su qualcosa|На что-либо|2
+מצנעא|2|matzna|Esconde; guarda|Hides; stores|Guarda|מצניעה|Met de côté|Ripone|Прячет|3
+נשאלו|1|nish'alu|Foram perguntados|Were asked|Fueron preguntados|נשאלו|Furent interrogés|Furono interrogati|Были спрошены|2
+קידור|1|kidur|Perfuração|Drilling|Perforación|קידור|Forage|Foratura|Сверление|3
+מבערין|1|meva'arin|Eliminam|Remove|Eliminan|מבערים|Éliminent|Eliminano|Устраняют|3
+מבצבץ|1|mevatzbetz|Desponta|Protrudes|Asoma|מבצבץ|Pointe|Spunta|Выступает|3
+מנבלתם|1|minivlatam|De suas carcaças|From their carcasses|De sus cadáveres|מנבלתם|De leurs charognes|Dalle loro carogne|От их падали|3
+בכנפו|1|bichnafo|Em sua aba|In his skirt|En su borde|בכנפו|Dans son pan|Nel suo lembo|В его поле|3
+עלולין|1|alulin|Suscetíveis|Liable|Susceptibles|עלולים|Susceptibles|Suscettibili|Подверженные|2
+רוקין|1|rukin|Salivas|Spittles|Salivas|רוקים|Crachats|Sputi|Плевки|3
+הנמצאים|1|hanimtza'im|Os encontrados|Those found|Los encontrados|הנמצאים|Ceux trouvés|Quelli trovati|Находящиеся|2
+גזייתא|2|gazyata|Tosquias|Shearings|Esquilas|גיזות|Tontes|Tosature|Стрижки|3
+למימנא|2|lemimna|Contar|To count|Contar|למנות|Compter|Contare|Считать|3
+נשרוף|1|nisrof|Queimemos|Let us burn|Quememos|נשרוף|Brûlons|Bruciamo|Сожжём|3
+יסיק|1|yasik|Aquecerá|Will heat|Calentará|יסיק|Chauffera|Riscalderà|Растопит|3
+ליתהני|2|leithanei|Que se beneficie|Let him benefit|Que se beneficie|ייהנה|Qu’il profite|Ne tragga beneficio|Пусть воспользуется|2
+תשליכון|1|tashlichun|Lançareis|You shall cast|Arrojaréis|תשליכו|Vous jetterez|Getterete|Бросите|3
+וגידה|1|vegidah|E seu tendão|And its sinew|Y su tendón|וגידה|Et son tendon|E il suo tendine|И её жила|3
+יצבע|1|yitzba|Tingirá|Will dye|Teñirá|יצבע|Teindra|Tingerà|Окрасит|3
+ידליק|1|yadlik|Acenderá|Will kindle|Encenderá|ידליק|Allumera|Accenderà|Зажжёт|3
+שתינק|1|shetinak|Que mame|That it suckle|Que mame|שתינק|Qu’il tète|Che succhi|Чтобы сосал|3
+שוטחה|1|shotchah|Estende-a|Spreads it|La extiende|שוטחה|L’étend|La stende|Расстилает её|3
+סדנא|2|sadna|Bigorna; tronco|Anvil; block|Yunque|סדן|Enclume|Incudine|Наковальня; колода|3
+טש|1|tash|Escondido|Hidden|Escondido|טש|Caché|Nascosto|Спрятанный|2
+שיסיק|1|sheyasik|Que aqueça|That he heat|Que caliente|שיסיק|Qu’il chauffe|Che riscaldi|Чтобы растопил|3
+לאישתמושי|2|le'ishtamushei|Usar|To use|Usar|להשתמש|Utiliser|Usare|Пользоваться|3
+דאבוכון|2|de'avuchon|De vosso pai|Of your father|De vuestro padre|של אביכם|De votre père|Di vostro padre|Вашего отца|2
+מסיכרא|2|misichra|Da represa|From the dam|De la presa|מהסכר|Du barrage|Dalla diga|Из запруды|3
+פקידי|1|pekidei|Oficiais de|Officials of|Oficiales de|פקידי|Officiers de|Funzionari di|Чиновники|3
+מיבלע|2|mivla|Ser absorvido|To be absorbed|Absorberse|להיבלע|Être absorbé|Essere assorbito|Поглотиться|3
+איטמו|2|itmu|Tornaram-se impuros|Became impure|Se impurificaron|נטמאו|Devinrent impurs|Divennero impuri|Осквернились|2
+בשליקתא|2|bishlikta|No cozido|In the boiled|En lo hervido|בשליקה|Dans le bouilli|Nel bollito|В варёном|3
+ומאיסתא|2|um'isata|E repugnante|And repulsive|Y repugnante|ומאוסה|Et répugnante|E ripugnante|И отвратительная|3
+ושתלן|1|veshatlan|E plantou-as|And planted them|Y las plantó|ושתלן|Et les planta|E le piantò|И посадил их|3
+דמרצי|2|demaratzei|Que aceitam|That accept|Que aceptan|שמרצים|Qui agréent|Che gradiscono|Которые принимают|3
+שיצניתא|2|shitzanita|Pequeno peixe|Small fish|Pececillo|דג קטן|Petit poisson|Pesciolino|Рыбка|3
+מקטפין|1|mekatfin|Colhem|Pick|Cosechan|מקטפים|Cueillent|Colgono|Срывают|3
+אשישה|1|ashishah|Bolo de passas|Raisin cake|Torta de pasas|אשישה|Gâteau de raisins|Focaccia d’uva|Изюмная лепёшка|3
+והאיסקריטין|1|veha'iskritin|E os bolos (de mel)|And the honey cakes|Y las tortas|והאיסקריטין|Et les gâteaux|E le focacce|И медовые лепёшки|4
+הרתיח|1|hirti'ach|Ferveu|Boiled|Hirvió|הרתיח|Fit bouillir|Fece bollire|Вскипятил|3
+החליטה|1|hachalitah|Escaldou (massa)|Scalded (dough)|Escaldó|החליטה|Ébouillanta|Scottò|Обварила|4
+ואפאו|1|va'afa'o|E cozeu-o|And baked it|Y lo horneó|ואפאו|Et le cuisit|E lo cosse|И испёк его|3
+עריסתיכם|1|arisoteichem|Vossas massas|Your dough|Vuestras masas|עריסותיכם|Vos pâtes|Le vostre paste|Ваше тесто|3
+עולשי|1|ulshei|Endívias de|Endives of|Endivias de|עולשי|Endives de|Indivie di|Цикорий|3
+מכסיפין|1|machsifin|Envergonham; prateiam|Shame; silver|Avergüenzan|מכסיפים|Font honte|Svergognano|Позорят; серебрят|3
+נזרעין|1|nizra'in|São semeados|Are sown|Se siembran|נזרעים|Sont semés|Sono seminati|Засеваются|3
+קדרא|2|kidra|Panela|Pot|Olla|קדרה|Marmite|Pentola|Горшок|3
+שורן|1|shoran|Seu boi; sua fileira|Their ox; row|Su buey|שורן|Leur bœuf|Il loro bue|Их бык; ряд|3
+לתתי|2|letatei|Para baixo|Downward|Hacia abajo|למטה|En bas|In basso|Вниз|3
+בחסיסי|1|bechasisei|Em brotos|In sprouts|En brotes|בחסיסי|Dans les pousses|Nei germogli|В ростках|3
+דקוו|2|dekavu|Que esperam; endureceram|That wait|Que esperan|שקוו|Qui attendent|Che aspettano|Которые ждут|3
+בפפוניא|1|befaponya|Em Papunia|In Papunya|En Papunia|בפפוניא|À Papounia|A Papunia|В Папунии|3
+צבעים|1|tzeva'im|Cores; tintureiros|Colors; dyers|Colores|צבעים|Couleurs|Colori|Цвета; красильщики|2
+נאמרים|1|ne'emarim|São ditos|Are said|Se dicen|נאמרים|Sont dits|Sono detti|Говорятся|2
+וטחני|1|vetachanei|E moedores de|And grinders of|Y molineros de|וטוחני|Et meuniers de|E mugnai di|И мельники|3
+פרורא|2|perura|Migalha|Crumb|Miga|פירור|Miette|Briciola|Крошка|3
+לפרקן|1|lefarkan|Desmontá-las|To dismantle them|Desmontarlas|לפרקן|Les démonter|Smontarle|Разобрать их|3
+תערובות|1|ta'arovot|Misturas|Mixtures|Mezclas|תערובות|Mélanges|Miscugli|Смеси|3
+שבסידקי|1|shebisidkei|Que nas fendas de|That in the cracks of|Que en las grietas de|שבסדקי|Qui dans les fentes de|Che nelle fessure di|Что в щелях|3
+קילתא|2|kilta|Cesto|Basket|Cesta|סל|Panier|Cesto|Корзина|2
+חמירתא|2|chamirta|Fermentada|Leavened|Fermentada|חמוצה|Levée|Lievitata|Заквашенная|2
+החמיצה|1|hechmitzah|Fermentou|Became leavened|Fermentó|החמיצה|Fermenta|Lievitò|Заквасилась|2
+גלאי|2|gala'i|Revelaram|Revealed|Revelaron|גילו|Révélèrent|Rivelarono|Открыли|3
+נושך|1|noshech|Morde|Bites|Muerde|נושך|Mord|Morde|Кусает|3
+שבוזזין|1|shebozezin|Que saqueiam|That plunder|Que saquean|שבוזזים|Qui pillent|Che saccheggiano|Которые грабят|3
+אזלין|2|azlin|Vão|Go|Van|הולכים|Vont|Vanno|Идут|2
+ניכלה|2|nichlah|Comamo-la|Let us eat it|Comámosla|נאכלנה|Mangeons-la|Mangiamola|Съедим её|2
+דאייתרא|2|de'aytera|Que sobrou|That remained|Que sobró|שנותרה|Qui resta|Che rimase|Которая осталась|3
+בטלני|2|batlanei|Ociosos|Idlers|Ociosos|בטלנים|Oisifs|Oziosi|Бездельники|3
+אשמתא|2|ashmata|Culpa|Guilt|Culpa|אשמה|Culpabilité|Colpa|Вина|3
+גדילה|1|gedilah|Crescimento; franja|Growth; fringe|Crecimiento|גדילה|Croissance|Crescita|Рост; кисть|3
+וסודרן|1|vesudran|E seus lenços|And their scarves|Y sus pañuelos|וסודרן|Et leurs foulards|E i loro fazzoletti|И их платки|3
+ינון|1|yinon|Inon (nome do Messias)|Yinon|Yinón|ינון|Yinon|Yinon|Йинон|2
+ליבראות|1|livra'ot|Libras|Pounds|Libras|ליטרות|Livres|Libbre|Фунты|3
+ומשלימות|1|umashlimot|E completam|And complete|Y completan|ומשלימות|Et complètent|E completano|И дополняют|3
+צימרא|2|tzimra|Lã|Wool|Lana|צמר|Laine|Lana|Шерсть|3
+לישיבתה|1|lishivatah|Para seu assento|For her sitting|Para su asiento|לישיבתה|Pour son siège|Per il suo sedere|Для её сидения|3
+מפנן|1|mefanan|Esvazia-as|Clears them|Las vacía|מפנן|Les vide|Le sgombra|Освобождает их|3
+רפואות|1|refu'ot|Curas; remédios|Remedies|Remedios|רפואות|Remèdes|Rimedi|Лекарства|3
+ועבדיהן|1|ve'avdeihen|E seus servos|And their servants|Y sus siervos|ועבדיהן|Et leurs serviteurs|E i loro servi|И их рабы|2
+נרבאי|2|narba'i|De Narbe (?)|Of Narbe|De Narbe|נרבאי|De Narbe|Di Narbe|Из Нарбы|4
+לימיניה|2|limineih|À sua direita|To his right|A su derecha|לימינו|À sa droite|Alla sua destra|Справа от него|3
+מעכבתו|1|me'akavto|Impede-o|Prevents him|Lo impide|מעכבתו|L’empêche|Lo impedisce|Задерживает его|3
+פוסלו|1|poslo|Desqualifica-o|Disqualifies it|Lo invalida|פוסלו|L’invalide|Lo squalifica|Делает его негодным|2
+למנויין|1|lamenuyin|Aos inscritos|To the registered|A los inscritos|למנויים|Aux inscrits|Agli iscritti|Записанным|3
+שיתכפרו|1|sheyitkapru|Que sejam expiados|That they be atoned|Que sean expiados|שיתכפרו|Qu’ils soient expiés|Che siano espiati|Чтобы искупились|2
+קפריך|2|kafrich|Tua aldeia|Your village|Tu aldea|כפרך|Ton village|Il tuo villaggio|Твоя деревня|3
+רבוותא|2|ravvata|Mestres; grandes|Masters; great|Maestros|רבנים|Maîtres|Maestri|Учителя; великие|2
+אהקטרה|3|ahaktarah|Sobre a queima|On the burning|Sobre la quema|על הקטרה|Sur la combustion|Sulla bruciatura|На воскурение|3
+והקטירן|1|vehiktiran|E queimou-as|And burned them|Y las quemó|והקטירן|Et les fit fumer|E le bruciò|И воскурил их|2
+וצלו|1|vetzalu|E assaram|And roasted|Y asaron|וצלו|Et rôtirent|E arrostirono|И зажарили|3
+חלביו|1|chalavav|Suas gorduras|Its fats|Sus grasas|חלביו|Ses graisses|I suoi grassi|Его туки|3
+משתפיך|2|mishtapich|É derramado|Is spilled|Se derrama|נשפך|Est versé|È versato|Проливается|3
+מטושטשין|1|metushtashin|Borrados|Blurred|Borrosos|מטושטשים|Brouillés|Sfocati|Смазанные|3
+הרכבתו|1|harkavato|Sua montagem; seu enxerto|His mounting; grafting|Su injerto|הרכבתו|Sa greffe|Il suo innesto|Его посадка; прививка|3
+תדחה|1|tidcheh|Afastará|Will push aside|Desplazará|תדחה|Repoussera|Respingerà|Отодвинет|3
+נתעלמה|1|nit'almah|Ocultou-se|Was hidden|Se ocultó|נתעלמה|Fut cachée|Fu nascosta|Скрылась|3
+ומקדישה|1|umakdishah|E consagra-a|And consecrates it|Y la consagra|ומקדישה|Et la consacre|E la consacra|И посвящает её|3
+ושוחטה|1|veshochatah|E abate-a|And slaughters it|Y la sacrifica|ושוחטה|Et l’abat|E la macella|И режет её|2
+ירדת|1|yaradta|Desceste|You descended|Bajaste|ירדת|Tu es descendu|Sei sceso|Ты спустился|3
+משתלח|1|mishtale'ach|É enviado|Is sent|Es enviado|משתלח|Est envoyé|È mandato|Отсылается|1
+עיילתיה|2|ayalteih|Introduziste-o|You brought it in|Lo introdujiste|הכנסתו|Tu l’as introduit|L’hai introdotto|Ты ввёл его|2
+מיחוי|2|michuyei|Ser visto; mostrar|To be seen|Ser visto|להיראות|Être vu|Essere visto|Показаться|2
+שפט|1|shafat|Julgou|Judged|Juzgó|שפט|Jugea|Giudicò|Судил|2
+התשבי|1|hatishbi|O tisbita|The Tishbite|El tisbita|התשבי|Le Tishbite|Il Tisbita|Фесвитянин|3
+צאנכם|1|tzonchem|Vossos rebanhos|Your flocks|Vuestros rebaños|צאנכם|Vos troupeaux|Le vostre greggi|Ваш мелкий скот|3
+חגיגות|1|chagigot|Ofertas festivas|Festal offerings|Ofrendas festivas|חגיגות|Sacrifices de fête|Sacrifici festivi|Праздничные жертвы|3
+חונאי|2|chuna'i|De Chuna (?)|Of Huna|De Huna|חונאי|De Houna|Di Huna|Хунайский|4
+נקובתו|1|nekuvato|Sua perfuração|Its perforation|Su perforación|נקובתו|Sa perforation|La sua perforazione|Его прободение|3
+האסכלא|1|ha'askela|A grelha|The grill|La parrilla|האסכלה|Le gril|La griglia|Решётка|3
+דייבי|2|daybei|Derretem|Melt|Se derriten|נמסים|Fondent|Si sciolgono|Тают|3
+חתכיה|2|chatkeih|Cortou-o|Cut it|Lo cortó|חתכו|Le coupa|Lo tagliò|Разрезал его|3
+ומלחיה|2|umalcheih|E salgou-o|And salted it|Y lo saló|ומלחו|Et le sala|E lo salò|И посолил его|3
+בגפסיס|1|begafsis|Com gesso|With gypsum|Con yeso|בגבס|Avec du gypse|Con gesso|Гипсом|3
+שריפות|1|serefot|Queimas|Burnings|Quemas|שריפות|Incendies|Incendi|Пожары|3
+אשאין|3|asha'in|Sobre o que não|On what not|Sobre lo que no|על שאין|Sur ce qui n’est pas|Su ciò che non|На то, чего нет|2
+דאקדמיה|2|de'akdemeih|Que o antecipou|That preceded it|Que lo adelantó|שהקדימו|Qui le devança|Che lo precedette|Который опередил его|3
+איזדריק|2|izdarik|Foi aspergido|Was sprinkled|Fue rociado|נזרק|Fut aspergé|Fu asperso|Был окроплён|3
+משלימות|1|mashlimot|Completam|Complete|Completan|משלימות|Complètent|Completano|Дополняют|3
+ומשכניה|1|umishkaneha|E suas moradas|And its dwellings|Y sus moradas|ומשכנותיה|Et ses demeures|E le sue dimore|И её жилища|3
+מדחיא|2|midchiya|É afastada|Is pushed aside|Se desplaza|נדחית|Est repoussée|È respinta|Отодвигается|2
+בחצרותיהן|1|bechatzroteihen|Em seus pátios|In their courtyards|En sus patios|בחצרותיהן|Dans leurs cours|Nei loro cortili|В их дворах|3
+לקמחיה|2|lekimcheih|Para sua farinha|For its flour|Para su harina|לקמחו|Pour sa farine|Per la sua farina|Для его муки|3
+בנגררין|1|benigrarin|Nos arrastados|In the dragged|En los arrastrados|בנגררים|Dans les traînés|Nei trascinati|В тянущихся|3
+יעקרו|1|ye'akru|Arrancarão|They will uproot|Arrancarán|יעקרו|Déracineront|Sradicheranno|Вырвут|3
+אפוטרופסין|1|apotropsin|Tutores|Guardians|Tutores|אפוטרופסים|Tuteurs|Tutori|Опекуны|3
+ושדים|1|veshedim|E demônios|And demons|Y demonios|ושדים|Et démons|E demoni|И бесы|3
+בנעוריהם|1|bin'ureihem|Em sua juventude|In their youth|En su juventud|בנעוריהם|Dans leur jeunesse|Nella loro giovinezza|В их юности|3
+ורחמתי|1|verichamti|E terei misericórdia|And I will have mercy|Y tendré misericordia|ורחמתי|Et j’aurai pitié|E avrò pietà|И помилую|3
+תלשן|1|telashan|Arrancou-as|Plucked them|Las arrancó|תלשן|Les arracha|Le strappò|Сорвал их|3
+דאיזריק|2|de'izrik|Que foi aspergido|That was sprinkled|Que fue rociado|שנזרק|Qui fut aspergé|Che fu asperso|Который был окроплён|3
+לזרזן|1|lezarzan|Estimulá-los|To urge them|Estimularlos|לזרזן|Les stimuler|Stimolarli|Поторопить их|3
+סיבולת|1|sibolet|Espiga|Ear of grain|Espiga|שיבולת|Épi|Spiga|Колос|3
+קנסוהו|1|kenasuhu|Multaram-no|They fined him|Lo multaron|קנסוהו|Le pénalisèrent|Lo multarono|Оштрафовали его|3
+מוקמינא|2|mokmina|Estabeleço|I establish|Establezco|מעמיד אני|J’établis|Stabilisco|Я устанавливаю|3
+וזרקינן|2|vezarkinan|E aspergimos|And we sprinkle|Y rociamos|וזורקים|Et nous aspergeons|E aspergiamo|И окропляем|3
+שהמריד|1|shehimrid|Que incitou à rebelião|That incited rebellion|Que incitó a rebelión|שהמריד|Qui fit révolter|Che fece ribellare|Который поднял мятеж|3
+בשיפולי|1|beshipulei|Na base de; na barra de|At the base of|En la base de|בשיפולי|Au bas de|In fondo a|Внизу|3
+בכלליה|2|bichlaleih|Em sua generalidade|In its general rule|En su generalidad|בכללו|Dans sa généralité|Nella sua generalità|В его общем|3
+בפרטיה|2|bifrateih|Em seus detalhes|In its details|En sus detalles|בפרטו|Dans ses détails|Nei suoi dettagli|В его частном|3
+מזבחות|1|mizbechot|Altares|Altars|Altares|מזבחות|Autels|Altari|Жертвенники|2
+אפרש|1|efrosh|Estenderei; separar-me-ei|I will spread; withdraw|Extenderé|אפרוש|J’étendrai|Stenderò|Распростру; отделюсь|2
+איקלעי|2|ikla'i|Chegou por acaso|Happened by|Llegó por casualidad|נזדמן|Survint|Capitò|Случайно оказался|3
+נפסיק|1|nafsik|Interrompamos|Let us stop|Interrumpamos|נפסיק|Interrompons|Interrompiamo|Прервём|3
+יקנ|1|yikn|Adquira (abrev.)|Acquire (abbr.)|Adquiera|יקנה|Acquière|Acquisti|Приобретёт|4
+אבשמים|3|abesamim|Sobre especiarias|On spices|Sobre especias|על בשמים|Sur les aromates|Sulle spezie|На благовония|3
+דעתייכו|2|da'taychu|Vossa opinião|Your opinion|Vuestra opinión|דעתכם|Votre avis|La vostra opinione|Ваше мнение|3
+לחתימתן|1|lachatimatan|À sua assinatura|To their signature|A su firma|לחתימתן|À leur signature|Alla loro firma|К их подписи|3
+איסתכל|2|istakel|Olhou|Looked|Miró|הסתכל|Regarda|Guardò|Посмотрел|3
+ויבדל|1|veyibadel|E separar-se-á|And will separate|Y se separará|וייבדל|Et se séparera|E si separerà|И отделится|3
+זוכרהו|1|zochrehu|Lembra-o|Remember it|Recuérdalo|זוכרהו|Souviens-t’en|Ricordalo|Помни его|3
+אייתינא|2|aytina|Trago|I bring|Traigo|מביא אני|J’apporte|Porto|Я приношу|2
+טוות|1|tavat|Fiou (ela)|She spun|Hiló|טוותה|Elle fila|Filò|Пряла|4
+פרקדן|1|perakdan|De costas (deitado)|Lying on back|Boca arriba|פרקדן|Sur le dos|Supino|На спине|4
+בשוליא|2|beshulya|Na base|At the bottom|En la base|בשוליים|Au fond|In fondo|Внизу|3
+וישאלו|1|veyish'alu|E perguntarão|And they will ask|Y preguntarán|וישאלו|Et demanderont|E chiederanno|И спросят|3
+לוגא|2|luga|Log (medida)|Log|Log|לוג|Log|Log|Лог|4
+אצבעים|1|etzba'im|Dedos|Fingers|Dedos|אצבעות|Doigts|Dita|Пальцы|3
+רתחנא|2|ratchana|Irascível|Hot-tempered|Iracundo|רתחן|Colérique|Iracondo|Вспыльчивый|3
+מוחין|1|mochin|Cérebros|Brains|Cerebros|מוחות|Cerveaux|Cervelli|Мозги|3
+מזדהר|2|mizdahar|Toma cuidado|Is careful|Tiene cuidado|נזהר|Prend garde|Sta attento|Остерегается|3
+ממצעין|1|mematz'in|Colocam no meio|Place in the middle|Ponen en medio|ממצעים|Mettent au milieu|Mettono in mezzo|Ставят посередине|2
+ונפסיק|1|venafsik|E interrompamos|And let us stop|E interrumpamos|ונפסיק|Et interrompons|E interrompiamo|И прервём|3
+אגירדא|3|agirda|Sobre a casca (arranhada)|On the scraping|Sobre el raspado|על הגרידה|Sur le raclage|Sulla raschiatura|На соскоб|4
+דפסעי|2|dephas'ei|Que pisam|That step|Que pisan|שפוסעים|Qui marchent|Che camminano|Которые ступают|3
+טוליה|2|tuleih|Sua sombra|Its shadow|Su sombra|צילו|Son ombre|La sua ombra|Его тень|3
+נפשיך|2|nafshich|Tu mesmo|Yourself|Tú mismo|עצמך|Toi-même|Te stesso|Ты сам|3
+איגרי|2|igrei|Provocou|Provoked|Provocó|התגרה|Provoqua|Provocò|Задирал|3
+גרמידא|2|garmida|Côvado|Cubit|Codo|אמה|Coudée|Cubito|Локоть|3
+חוצב|1|chotzev|Talha; cortador|Hews; quarrier|Talla|חוצב|Taille|Taglia|Высекает; каменотёс|3
+יחולל|1|yechulal|Será profanado|Will be profaned|Será profanado|יחולל|Sera profané|Sarà profanato|Будет осквернён|3
+אילות|1|ayalot|Corças|Hinds|Ciervas|אילות|Biches|Cerve|Лани|3
+נישדי|2|nishdei|Lancemos|Let us throw|Arrojemos|נשליך|Jetons|Gettiamo|Бросим|2
+ובחורף|1|uvachoref|E no inverno|And in winter|Y en invierno|ובחורף|Et en hiver|E d’inverno|И зимой|3
+מלמדך|1|melamedcha|Teu mestre|Your teacher|Tu maestro|מלמדך|Ton maître|Il tuo maestro|Твой учитель|3
+הילני|1|hilani|Helena|Helena|Helena|הילני|Hélène|Elena|Елена|3
+דינך|1|dinecha|Teu juízo|Your judgment|Tu juicio|דינך|Ton jugement|Il tuo giudizio|Твой суд|3
+ניגרא|2|nigra|Canal|Channel|Canal|נגר|Canal|Canale|Канал|3
+מחתנה|1|mechatnah|Do seu genro|From her son-in-law|De su yerno|מחתנה|De son gendre|Da suo genero|От её зятя|2
+לרבנא|2|lerabbana|Ao nosso mestre|To our master|A nuestro maestro|לרבנו|À notre maître|Al nostro maestro|Нашему учителю|2
+תזכור|1|tizkor|Lembrarás|You will remember|Recordarás|תזכור|Tu te souviendras|Ricorderai|Вспомнишь|3
+ישועה|1|yeshu'ah|Salvação|Salvation|Salvación|ישועה|Salut|Salvezza|Спасение|3
+אחסר|1|echsar|Faltar-me-á|I will lack|Me faltará|אחסר|Je manquerai|Mi mancherà|Буду нуждаться|3
+גליו|1|galav|Suas ondas|Its waves|Sus olas|גליו|Ses vagues|Le sue onde|Его волны|3
+להשליכו|1|lehashlicho|Lançá-lo|To throw it|Arrojarlo|להשליכו|Le jeter|Gettarlo|Бросить его|3
+קריעת|1|keri'at|Rasgar de|Tearing of|Rasgadura de|קריעת|Déchirure de|Strappo di|Разрывание|2
+פלוט|1|palut|Expelido|Expelled|Expulsado|פלוט|Expulsé|Espulso|Извергнутый|3
+ערבונך|1|eravonech|Teu penhor|Your pledge|Tu prenda|ערבונך|Ton gage|Il tuo pegno|Твой залог|3
+דלותי|1|daloti|Fui abatido|I was brought low|Fui abatido|דלותי|J’ai été abaissé|Fui abbattuto|Я изнемог|2
+יהושיע|1|yehoshi'a|Salvará|Will save|Salvará|יושיע|Sauvera|Salverà|Спасёт|3
+געור|1|ge'or|Repreende|Rebuke|Reprende|גער|Réprimande|Rimprovera|Запрети|3
+פיזר|1|pizer|Espalhou|Scattered|Esparció|פיזר|Dispersa|Disperse|Рассеял|3
+יאצר|1|ye'atzer|Será armazenado|Will be stored|Será guardado|ייאצר|Sera amassé|Sarà accumulato|Будет припасено|3
+וכשעלו|1|ucheshe'alu|E quando subiram|And when they went up|Y cuando subieron|וכשעלו|Et quand ils montèrent|E quando salirono|И когда поднялись|2
+העלוהו|1|he'eluhu|Fizeram-no subir|They brought him up|Lo subieron|העלוהו|Le firent monter|Lo fecero salire|Подняли его|2
+זרח|1|zarach|Brilhou|Shone|Brilló|זרח|Brilla|Brillò|Воссиял|3
+כשדיים|1|kasdim|Caldeus|Chaldeans|Caldeos|כשדים|Chaldéens|Caldei|Халдеи|3
+הטמין|1|hitmin|Escondeu|Hid|Escondió|הטמין|Cacha|Nascose|Спрятал|3
+אקלידי|1|aklidei|Chaves de|Keys of|Llaves de|מפתחות|Clés de|Chiavi di|Ключи|3
+נתנמנמו|1|nitnamnemu|Cochilaram|They dozed|Dormitaron|נתנמנמו|Somnolèrent|Sonnecchiarono|Задремали|3
+נרדמו|1|nirdemu|Adormeceram|They fell asleep|Se durmieron|נרדמו|S’endormirent|Si addormentarono|Уснули|3
+נמנם|1|nimnem|Cochilou|Dozed|Dormitó|נמנם|Somnola|Sonnecchiò|Задремал|3
+דחנקינון|2|dechankinon|Que os estrangulam|That strangle them|Que los estrangulan|שחונקים אותם|Qui les étranglent|Che li strangolano|Которые душат их|3
+קלטוה|1|kelatuha|Acolheram-no|They received him|Lo acogieron|קלטוהו|L’accueillirent|Lo accolsero|Приняли его|3
+שקיעה|1|shki'ah|Pôr do sol; afundamento|Sunset; sinking|Ocaso|שקיעה|Coucher du soleil|Tramonto|Закат; погружение|3
+יפטור|1|yiftor|Isentará|Will exempt|Eximirá|יפטור|Exemptera|Esenterà|Освободит|2
+שריפתה|1|serefatah|Sua queima|Its burning|Su quema|שריפתה|Sa combustion|La sua bruciatura|Её сожжение|2
+הגזברים|1|hagizbarim|Os tesoureiros|The treasurers|Los tesoreros|הגזברים|Les trésoriers|I tesorieri|Казначеи|3
+להעלותן|1|leha'alotan|Fazê-las subir|To bring them up|Subirlas|להעלותן|Les faire monter|Farle salire|Поднять их|3
+ואימוריה|1|ve'imureha|E suas partes do altar|And its sacrificial parts|Y sus partes|ואמוריה|Et ses parties|E le sue parti|И её жертвенные части|3
+הנותרים|1|hanotarim|Os restantes|The remaining|Los restantes|הנותרים|Les restants|I rimanenti|Оставшиеся|3
+שיענו|1|sheya'anu|Que respondam|That they answer|Que respondan|שיענו|Qu’ils répondent|Che rispondano|Чтобы ответили|3
+טבית|2|tavit|Afundaste|You sank|Te hundiste|טבעת|Tu as coulé|Sei affondato|Ты утонул|3
+תמליון|1|tamlayon|Tamlion (bolsa?)|Tamlion|Tamlión|תמליון|Tamlion|Tamlion|Тамлион|2
+ומלמלא|2|umalmela|E musselina|And muslin|Y muselina|ומלמלה|Et mousseline|E mussola|И муслин|3
+הנייתו|1|hana'ato|Seu benefício|His benefit|Su beneficio|הנאתו|Son profit|Il suo beneficio|Его польза|3
+לילפו|2|lilfu|Que aprendam|Let them learn|Que aprendan|ילמדו|Qu’ils apprennent|Imparino|Пусть выучат|2
+ליבעו|2|liv'u|Que peçam|Let them ask|Que pidan|יבקשו|Qu’ils demandent|Chiedano|Пусть просят|2
+למעטו|1|lema'ato|Excluí-lo|To exclude it|Excluirlo|למעטו|L’exclure|Escluderlo|Исключить его|3
+בקעי|2|bak'ei|Fendem|Split|Parten|בוקעים|Fendent|Spaccano|Раскалывают|3
+מיערבא|2|mi'arva|É misturada|Is mixed|Se mezcla|מתערבת|Est mélangée|È mescolata|Смешивается|3
+אצרכיה|2|atzrecheih|Exigiu-o|Required it|Lo requirió|הצריכו|L’exigea|Lo richiese|Потребовал его|3
+שרטון|1|sirton|Recife; banco de areia|Shoal|Banco de arena|שרטון|Banc de sable|Secca|Мель|3
+מישתרו|2|mishtaru|São permitidos|Are permitted|Se permiten|מותרים|Sont permis|Sono permessi|Разрешаются|2
+אטרחוה|2|atrichuha|Incomodaram-no|Troubled him|Lo molestaron|הטריחוהו|Le dérangèrent|Lo disturbarono|Утрудили его|3
+ואצבעיים|1|ve'etzba'ayim|E dois dedos|And two fingers|Y dos dedos|ואצבעיים|Et deux doigts|E due dita|И два пальца|2
+פליגין|2|peligin|Discordam|They disagree|Discrepan|חולקים|Divergent|Dissentono|Расходятся|2

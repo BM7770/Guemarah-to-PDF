@@ -1,0 +1,628 @@
+כורין|1|korin|Kor (medidas)|Kors (measures)|Kor (medidas)|כורים|Kors|Kor|Коры (меры)|2
+מסתלק|1|mistalek|Retira-se; afasta-se|Withdraws|Se retira|מסתלק|Se retire|Si ritira|Удаляется|ומסתלק|2
+חשיד|2|chashid|Suspeito|Suspected|Sospechoso|חשוד|Suspect|Sospetto|Подозреваемый|2
+מקיף|1|makif|Rodeia; empresta a crédito|Surrounds; extends credit|Rodea|מקיף|Entoure|Circonda|Окружает; даёт в кредит|2
+בסופה|1|besofah|No seu fim|At its end|Al final|בסופה|À sa fin|Alla sua fine|В её конце|2
+אורתא|2|urta|Noite; entardecer|Evening|Noche|ערב|Soir|Sera|Вечер|1
+הגזלה|1|hagezelah|O roubo (objeto roubado)|The stolen item|Lo robado|הגזלה|L’objet volé|L’oggetto rubato|Награбленное|2
+זריז|1|zariz|Diligente|Diligent|Diligente|זריז|Diligent|Diligente|Усердный|2
+המולק|1|hamolek|O que faz melicá|One who nips (a bird)|El que hace meliká|המולק|Celui qui fait la meliqa|Chi fa la melikà|Совершающий мелику|2
+נתחלף|1|nitchalef|Foi trocado|Was exchanged|Fue cambiado|נתחלף|Fut échangé|Fu scambiato|Подменился|2
+חליץ|2|chalitz|Faz chalitsá|Performs chalitza|Hace jalitsá|חולץ|Fait la ‘halitsa|Fa chalitzà|Совершает халицу|2
+נפתח|1|niftach|Abriu-se|Was opened|Se abrió|נפתח|S’ouvrit|Si aprì|Открылся|2
+מחשבות|1|machshavot|Pensamentos; intenções|Thoughts; intentions|Pensamientos|מחשבות|Pensées|Pensieri|Мысли|2
+פקעה|1|pak'ah|Expirou; rompeu-se|Lapsed; burst|Caducó|פקעה|Expira|Decadde|Истекла; лопнула|2
+אויב|1|oyev|Inimigo|Enemy|Enemigo|אויב|Ennemi|Nemico|Враг|2
+ממיתין|1|memitin|Executam|They execute|Ejecutan|ממיתים|Exécutent|Giustiziano|Казнят|2
+דיהה|1|deheh|Desbotado|Faded|Desteñido|דיהה|Pâle|Sbiadito|Бледный|2
+חצרה|1|chatzerah|Seu pátio (dela)|Her courtyard|Su patio|חצרה|Sa cour|Il suo cortile|Её двор|2
+תעזב|1|ta'azov|Abandonarás|You shall leave|Abandonarás|תעזוב|Tu abandonneras|Abbandonerai|Оставишь|2
+הלויתני|1|hilvitani|Emprestaste-me|You lent me|Me prestaste|הלוויתני|Tu m’as prêté|Mi hai prestato|Ты мне одолжил|2
+באגי|2|ba'agei|Vales; campos|Valleys; fields|Valles|בקעות|Vallées|Valli|Долины|2
+גידים|1|gidim|Tendões|Sinews|Tendones|גידים|Tendons|Tendini|Жилы|2
+קטטה|1|ketatah|Briga|Quarrel|Riña|קטטה|Querelle|Lite|Ссора|2
+אזמניה|2|azmeneih|Convidou-o|Invited him|Lo invitó|הזמינו|L’invita|Lo invitò|Пригласил его|2
+נטה|1|natah|Inclinou-se; estendeu|Leaned; stretched|Se inclinó|נטה|Pencha|Si inclinò|Наклонился|2
+יבמי|1|yevami|Meu cunhado (levirato)|My levir|Mi cuñado|יבמי|Mon lévir|Mio levir|Мой деверь|2
+אשו|1|isho|Seu fogo|His fire|Su fuego|אשו|Son feu|Il suo fuoco|Его огонь|2
+שינו|1|shino; shinu|Seu dente; mudaram|His tooth; they changed|Su diente; cambiaron|שינו|Sa dent; changèrent|Il suo dente; cambiarono|Его зуб; изменили|2
+קנהו|1|kanahu|Adquiriu-o|Acquired it|Lo adquirió|קנאו|L’acquit|Lo acquistò|Приобрёл его|2
+הגרגרת|1|hagargeret|A traqueia|The windpipe|La tráquea|הגרגרת|La trachée|La trachea|Трахея|2
+ישאו|1|yis'u|Carregarão; casarão|They will carry; marry|Cargarán|ישאו|Porteront|Porteranno|Понесут; женятся|2
+תיסברא|3|tisbera|E tu pensas (assim)? — introduz objeção|Do you really think so?|¿Y crees eso?|והאם תסבור כך?|Et le penses-tu ?|E lo credi?|А ты так думаешь?|ותיסברא|2
+תיקשי|3|tikshei|Que seja difícil (objeção)|Let it be difficult|Que sea difícil|תהיה קשה|Que ce soit difficile|Sia difficile|Пусть будет трудно|2
+תניהו|2|tenihu|Ensina-o; é um tanna|Teach it|Enséñalo|שנה אותו|Enseigne-le|Insegnalo|Научи этому|2
+תרם|1|taram|Separou terumá|Separated teruma|Separó terumá|תרם|Préleva|Prelevò|Отделил труму|1
+אשים|1|asim|Porei|I will place|Pondré|אשים|Je mettrai|Porrò|Положу|1
+קובע|1|kove'a|Fixa; determina|Fixes; determines|Fija|קובע|Fixe|Fissa|Устанавливает|2
+נתכפר|1|nitkaper|Foi expiado|Was atoned|Fue expiado|נתכפר|Fut expié|Fu espiato|Искупился|2
+דאקדיש|2|de'akdish|Que consagrou|That consecrated|Que consagró|שהקדיש|Qui consacra|Che consacrò|Который посвятил|2
+נחתא|2|nachta|Desce (ela)|Descends (f.)|Desciende|יורדת|Descend|Scende|Спускается|2
+נחלק|1|nechlak|Foi dividido; discordou|Was divided; disagreed|Se dividió|נחלק|Fut divisé|Fu diviso|Разделился; разошёлся|2
+שאובין|1|she'uvin|Tirados (água tirada)|Drawn (water)|Sacados|שאובים|Puisées|Attinte|Черпанные|2
+נוהגות|1|nohagot|Aplicam-se; costumam (f.)|Apply; customarily (f.)|Se aplican|נוהגות|S’appliquent|Si applicano|Применяются|2
+אבלו|1|evlo|Seu luto|His mourning|Su duelo|אבלו|Son deuil|Il suo lutto|Его траур|2
+תנה|1|tenah|Dá; ensina-a|Give; teach it|Da; enséñala|תנה|Donne|Da’|Дай|1
+נתתה|1|natatah|E darás|And you shall give|Y darás|ונתתה|Et tu donneras|E darai|И дашь|ונתתה|1
+עליונים|1|elyonim|Superiores|Upper ones|Superiores|עליונים|Supérieurs|Superiori|Высшие|2
+לבלתי|1|levilti|Para não|So as not|Para no|לבלתי|Pour ne pas|Per non|Чтобы не|2
+כלם|1|kulam|Todos eles|All of them|Todos ellos|כולם|Tous|Tutti|Все они|2
+תנופת|1|tenufat|Balanceio de|Waving of|Mecimiento de|תנופת|Balancement de|Agitazione di|Возмахивание|ותנופת|2
+יגדל|1|yigdal; yegadel|Crescerá; criará|Will grow; will raise|Crecerá|יגדל|Grandira|Crescerà|Вырастет; вырастит|2
+עיברה|1|ibrah|Intercalou-a; engravidou-a|Intercalated it|La intercaló|עיברה|L’intercala|La intercalò|Сделал високосным|2
+יהוידע|1|yehoyada|Yehoyada (Joiada)|Yehoyada (Jehoiada)|Joiada|יהוידע|Yehoyada|Ioiada|Иодай|2
+גליא|2|galya|É revelada; é conhecida|Is revealed|Es revelada|גלויה|Est révélée|È rivelata|Явна|2
+מציא|2|matzya|Pode|Can|Puede|יכולה|Peut|Può|Может|2
+ולדותיהן|1|valdoteihen|Suas crias|Their offspring|Sus crías|ולדותיהן|Leurs petits|I loro piccoli|Их детёныши|2
+סלתות|1|slatot|Farinhas finas|Fine flours|Harinas finas|סלתות|Fleurs de farine|Fiori di farina|Тонкие муки|וסלתות|2
+ביצת|1|beitzat|Ovo de|Egg of|Huevo de|ביצת|Œuf de|Uovo di|Яйцо|2
+מחרימין|1|machrimin|Consagram (cherem)|They devote|Consagran|מחרימים|Vouent|Votano|Посвящают|2
+כלאי|1|kil'ei|Misturas proibidas de|Forbidden mixtures of|Mezclas prohibidas de|כלאי|Mélanges interdits de|Miscugli proibiti di|Смешения|וכלאי;כלאי הכרם|1
+דליקה|1|deleikah|Incêndio|Fire|Incendio|דליקה|Incendie|Incendio|Пожар|2
+דווקא|2|davka|Precisamente|Precisely|Precisamente|דווקא|Précisément|Precisamente|Именно|2
+נביאי|1|nevi'ei|Profetas de|Prophets of|Profetas de|נביאי|Prophètes de|Profeti di|Пророки|2
+טבחי|2|tabachei|Açougueiros|Butchers|Carniceros|טבחים|Bouchers|Macellai|Мясники|2
+מטפחות|1|mitpachot|Lenços; panos|Kerchiefs; cloths|Pañuelos|מטפחות|Mouchoirs|Fazzoletti|Платки|2
+הערים|1|he'arim|As cidades; usou astúcia|The cities; acted cunningly|Las ciudades|הערים|Les villes|Le città|Города; схитрил|2
+פוריא|2|purya|Cama|Bed|Cama|מיטה|Lit|Letto|Кровать|2
+יון|1|yavan|Grécia|Greece|Grecia|יוון|Grèce|Grecia|Греция|2
+מכולהו|2|mikulhu|De todos eles|From all of them|De todos ellos|מכולם|De tous|Da tutti|Из всех них|2
+ערים|1|arim|Cidades|Cities|Ciudades|ערים|Villes|Città|Города|2
+מסורת|1|masoret|Tradição (texto escrito)|Tradition (written text)|Tradición|מסורת|Tradition|Tradizione|Масора (предание)|2
+ישעיהו|1|yesha'yahu|Isaías|Isaiah|Isaías|ישעיהו|Isaïe|Isaia|Исаия|2
+להיטיב|1|leheitiv|Fazer o bem|To do good|Hacer el bien|להיטיב|Faire du bien|Fare il bene|Делать добро|2
+וישם|1|vayasem|E pôs|And he placed|Y puso|וישם|Et il mit|E pose|И положил|2
+למלאות|1|lemalot|Encher; completar|To fill; complete|Llenar|למלאות|Remplir|Riempire|Наполнить|2
+תשכב|1|tishkav|Deitar-te-ás|You shall lie|Te acostarás|תשכב|Tu te coucheras|Ti coricherai|Ляжешь|2
+זבוב|1|zevuv|Mosca|Fly|Mosca|זבוב|Mouche|Mosca|Муха|2
+תל|1|tel|Colina; ruína|Mound|Colina|תל|Colline|Collina|Холм|1
+נתנבאו|1|nitnabe'u|Profetizaram|They prophesied|Profetizaron|נתנבאו|Prophétisèrent|Profetizzarono|Пророчествовали|2
+כפלים|1|kiflayim|O dobro|Double|El doble|כפליים|Le double|Il doppio|Вдвое|2
+נתמלא|1|nitmale|Encheu-se|Became full|Se llenó|נתמלא|Se remplit|Si riempì|Наполнился|2
+נתקיימה|1|nitkaymah|Cumpriu-se|Was fulfilled|Se cumplió|נתקיימה|S’accomplit|Si avverò|Исполнилось|2
+פתילות|1|ptilot|Pavios|Wicks|Mechas|פתילות|Mèches|Stoppini|Фитили|2
+אווזא|2|avaza|Ganso|Goose|Ganso|אווז|Oie|Oca|Гусь|2
+אזלה|2|azlah|Foi (ela)|She went|Fue|הלכה|Elle alla|Andò|Пошла|1
+כושי|1|kushi|Etíope|Ethiopian|Etíope|כושי|Éthiopien|Etiope|Кушит|2
+ברח|1|barach|Fugiu|Fled|Huyó|ברח|S’enfuit|Fuggì|Бежал|2
+דאיקני|2|de'ikni|Que foi adquirido|That was acquired|Que se adquirió|שנקנה|Qui fut acquis|Che fu acquisito|Который приобретён|2
+דעתייהו|2|da'atayhu|Sua mente (deles)|Their mind|Su mente|דעתם|Leur esprit|La loro mente|Их ум|2
+נברך|1|nevarech|Abençoemos|Let us bless|Bendigamos|נברך|Bénissons|Benediciamo|Благословим|2
+החיצונים|1|hachitzonim|Os exteriores|The outer ones|Los exteriores|החיצונים|Les extérieurs|Gli esterni|Внешние|2
+קלון|1|kalon|Desonra|Disgrace|Deshonra|קלון|Honte|Vergogna|Позор|2
+מיטמאין|1|mitam'in|Tornam-se impuros|Become impure|Se vuelven impuros|מיטמאים|Deviennent impurs|Diventano impuri|Оскверняются|2
+ישהה|1|yeshaheh|Demorará|Will delay|Demorará|ישהה|Tardera|Indugerà|Задержится|2
+חבלים|1|chavalim|Cordas; dores|Ropes; pains|Cuerdas; dolores|חבלים|Cordes; douleurs|Corde; dolori|Верёвки; муки|2
+מובטח|1|muvtach|Assegurado; garantido|Assured|Asegurado|מובטח|Assuré|Garantito|Обещано; уверен|2
+צורכו|1|tzorko|Sua necessidade|His need|Su necesidad|צורכו|Son besoin|Il suo bisogno|Его нужда|2
+עמלק|1|amalek|Amalec|Amalek|Amalec|עמלק|Amalec|Amalek|Амалек|2
+מחר|1|machar|Amanhã|Tomorrow|Mañana|מחר|Demain|Domani|Завтра|2
+מלק|1|malak|Fez melicá|Nipped (the neck)|Hizo meliká|מלק|Fit la meliqa|Fece melikà|Совершил мелику|2
+מיצה|1|mitzah|Espremeu (sangue)|Drained (blood)|Exprimió|מיצה|Exprima|Spremette|Выжал|2
+מותרה|1|motarah|Seu excedente|Its surplus|Su excedente|מותרה|Son surplus|Il suo avanzo|Её излишек|2
+מסכתא|2|masechta|Tratado|Tractate|Tratado|מסכת|Traité|Trattato|Трактат|2
+הקטיר|1|hiktir|Queimou (no altar)|Burned (on the altar)|Quemó|הקטיר|Fit fumer|Bruciò|Воскурил|1
+גודל|1|godel; gudal|Tamanho; polegar|Size; thumb|Tamaño; pulgar|גודל|Taille; pouce|Grandezza; pollice|Величина; большой палец|2
+יתיר|2|yatir|Supérfluo; extra|Superfluous|Superfluo|יתר|Superflu|Superfluo|Лишний|2
+להזות|1|lehazot|Aspergir|To sprinkle|Rociar|להזות|Asperger|Aspergere|Окропить|2
+מרובות|1|merubot|Numerosas|Numerous (f.)|Numerosas|מרובות|Nombreuses|Numerose|Многочисленные|2
+למיהוי|2|lemehevei|Ser; tornar-se|To be; become|Ser|להיות|Être|Essere|Быть|3
+אבוד|1|avud|Perdido|Lost|Perdido|אבוד|Perdu|Perduto|Потерянный|2
+הזאות|1|haza'ot|Aspersões|Sprinklings|Aspersiones|הזאות|Aspersions|Aspersioni|Кропления|2
+חזור|1|chazor|Volta!|Return!|¡Vuelve!|חזור|Reviens !|Torna!|Вернись!|1
+שתוק|1|shtok|Cala-te!|Be silent!|¡Calla!|שתוק|Tais-toi !|Taci!|Молчи!|2
+נזדמנה|1|nizdamnah|Apresentou-se (por acaso)|Happened to come|Se presentó|נזדמנה|Se présenta|Capitò|Подвернулась|2
+אוכלו|1|ochlo|Come-o|Eats it|Lo come|אוכלו|Le mange|Lo mangia|Ест его|ואוכלו|1
+שיטין|1|shitin|Linhas|Lines|Líneas|שיטין|Lignes|Righe|Строки|2
+הניחה|1|hinichah|Deixou-a|Left it|La dejó|הניחה|La laissa|La lasciò|Оставил её|והניחה|1
+קושרין|1|koshrin|Atam|They tie|Atan|קושרים|Attachent|Legano|Завязывают|2
+פדה|1|padoh|Resgatar (certamente)|Surely redeem|Redimir|פדה|Racheter|Riscattare|Выкупить|2
+גדיל|1|gedil|Cordão; franja|Cord; fringe|Cordón|גדיל|Cordon|Cordone|Шнур|2
+מיחייבא|2|michayva|Torna-se culpada|Becomes liable|Se hace culpable|מתחייבת|Devient coupable|Diventa colpevole|Становится виновной|2
+המול|1|himol|Circuncidar-se|To be circumcised|Circuncidarse|הימול|Être circoncis|Essere circonciso|Быть обрезанным|2
+כמותך|1|kemotcha|Como tu|Like you|Como tú|כמותך|Comme toi|Come te|Как ты|2
+תהיינה|1|tihyenah|Serão (f.)|They shall be (f.)|Serán|תהיינה|Seront|Saranno|Будут|2
+מקולקלין|1|mekulkalin|Estragados|Spoiled|Estropeados|מקולקלים|Abîmés|Guasti|Испорченные|2
+יביאנו|1|yevi'enu|Trá-lo-á|Will bring it|Lo traerá|יביאנו|L’apportera|Lo porterà|Принесёт его|2
+לחודייהו|2|lechudayhu|Sozinhos|By themselves|Solos|לבדם|Seuls|Da soli|Одни|2
+חכמת|1|chochmat|Sabedoria de|Wisdom of|Sabiduría de|חכמת|Sagesse de|Saggezza di|Мудрость|2
+ממחרת|1|mimacharat|No dia seguinte|On the morrow|Al día siguiente|ממחרת|Le lendemain|L’indomani|Наутро|2
+עיכול|1|ikul|Digestão|Digestion|Digestión|עיכול|Digestion|Digestione|Переваривание|2
+עציץ|1|atzitz|Vaso de flores|Flowerpot|Maceta|עציץ|Pot de fleurs|Vaso|Горшок|2
+שתחשך|1|shetechshach|Que escureça|That it get dark|Que oscurezca|שתחשך|Qu’il fasse nuit|Che faccia buio|Чтобы стемнело|2
+מדבריות|1|midbariyot|Do deserto (animais)|Desert (animals)|Del desierto|מדבריות|Du désert|Del deserto|Пустынные|2
+גרה|1|gerah|Ruminação; gerá (moeda)|Cud; gerah (coin)|Rumia|גרה|Rumination|Ruminazione|Жвачка; гера|2
+זורה|1|zoreh|Joeira|Winnows|Aventa|זורה|Vanne|Vaglia|Веет|וזורה|2
+סך|1|sach|Unta; soma|Anoints; sum|Unta; suma|סך|Oint; somme|Unge; somma|Умащает; сумма|2
+לדבריכם|1|lediverechem|Segundo vossas palavras|According to your words|Según vuestras palabras|לדבריכם|Selon vos paroles|Secondo le vostre parole|По-вашему|2
+יחסר|1|yechsar|Faltará|Will lack|Faltará|יחסר|Manquera|Mancherà|Будет недоставать|2
+יינן|1|yeinan|Seu vinho|Their wine|Su vino|יינם|Leur vin|Il loro vino|Их вино|2
+וידוי|1|viduy|Confissão|Confession|Confesión|וידוי|Confession|Confessione|Исповедь|2
+כחך|1|kochacha|Tua força|Your strength|Tu fuerza|כוחך|Ta force|La tua forza|Твоя сила|2
+ביסנא|2|bisna|Banco; plataforma|Bench|Banco|ספסל|Banc|Panca|Скамья|2
+העמידו|1|he'emidu|Estabeleceram; interpretaram|They established|Establecieron|העמידו|Établirent|Stabilirono|Поставили|2
+גורל|1|goral|Sorte; sorteio|Lot|Suerte|גורל|Sort|Sorte|Жребий|2
+לעלם|1|le'olam|Para sempre|Forever|Para siempre|לעולם|Pour toujours|Per sempre|Навек|2
+הקפת|1|hakafat|Rodeio de; crédito de|Circling of|Vuelta de|הקפת|Tour de|Giro di|Обход|2
+רשעה|1|rish'ah|Maldade|Wickedness|Maldad|רשעה|Méchanceté|Malvagità|Нечестие|2
+הגדה|1|haggadah|Agadá; narrativa|Aggada; narrative|Agadá|הגדה|Aggada|Aggadà|Агада|2
+פרדס|1|pardes|Pomar|Orchard|Huerto|פרדס|Verger|Frutteto|Сад|2
+סימניה|1|simaneha|Seus sinais|Its signs|Sus señales|סימניה|Ses signes|I suoi segni|Её признаки|2
+קדירות|1|kedeirot|Panelas|Pots|Ollas|קדרות|Marmites|Pentole|Горшки|2
+יולדות|1|yoldot|Parturientes|Women who gave birth|Parturientas|יולדות|Accouchées|Puerpere|Роженицы|ויולדות|1
+כיתות|1|kitot|Grupos; classes|Groups; classes|Grupos|כיתות|Groupes|Gruppi|Группы|2
+חולים|1|cholim|Doentes|Sick people|Enfermos|חולים|Malades|Malati|Больные|2
+רנה|1|rinah|Júbilo; canto|Joyful song|Júbilo|רינה|Chant joyeux|Canto gioioso|Ликование|2
+קופתו|1|kupato|Seu cesto|His basket|Su cesta|קופתו|Son panier|Il suo cesto|Его корзина|2
+דכוליה|2|dechuleih|De todo ele|Of all of it|De todo|של כולו|De tout|Di tutto|Всего|2
+ארוס|1|arus|Noivo|Betrothed man|Prometido|ארוס|Fiancé|Fidanzato|Жених (обручённый)|2
+המוקף|1|hamukaf|O cercado|The enclosed|Lo cercado|המוקף|L’entouré|Il recintato|Окружённый|2
+ידבר|1|yedaber|Falará|Will speak|Hablará|ידבר|Parlera|Parlerà|Будет говорить|2
+לשונם|1|leshonam|Sua língua|Their language|Su lengua|לשונם|Leur langue|La loro lingua|Их язык|2
+נהג|1|nahag|Costumou; conduziu|Practiced; drove|Acostumbró|נהג|Avait coutume|Usava|Обычно делал; вёл|2
+אבוא|1|avo|Virei|I will come|Vendré|אבוא|Je viendrai|Verrò|Приду|2
+דכיפורי|2|dechipurei|De Kipur|Of Yom Kippur|De Kipur|של כיפור|De Kippour|Di Kippur|Йом Кипура|דכפורי|2
+אדידיה|2|adideih|Sobre ele mesmo|On himself|Sobre sí|על עצמו|Sur lui-même|Su se stesso|На себя|2
+לייא|2|laya|Cauda gorda|Fat tail|Cola grasa|אליה|Queue grasse|Coda grassa|Курдюк|2
+יעמיד|1|ya'amid|Estabelecerá; colocará|Will set up|Establecerá|יעמיד|Établira|Stabilirà|Поставит|2
+פטיש|1|patish|Martelo|Hammer|Martillo|פטיש|Marteau|Martello|Молот|2
+קפצה|1|kaftzah|Pulou (ela)|She jumped|Saltó|קפצה|Elle sauta|Saltò|Прыгнула|2
+תקן|1|tiken|Instituiu; consertou|Instituted; repaired|Instituyó|תיקן|Institua|Istituì|Установил|2
+יישן|1|yishan|Dormirá|Will sleep|Dormirá|יישן|Dormira|Dormirà|Будет спать|2
+קרניו|1|karnav|Seus chifres|Its horns|Sus cuernos|קרניו|Ses cornes|Le sue corna|Его рога|2
+סיכך|1|sikech|Cobriu (sucá)|Roofed|Cubrió|סיכך|Couvrit|Coprì|Покрыл|וסיכך|2
+ביטלו|1|bitlo|Anulou-o|Annulled it|Lo anuló|ביטלו|L’annula|Lo annullò|Отменил его|2
+איצטבא|2|itztaba|Banco|Bench|Banco|ספסל|Banc|Panca|Скамья|2
+רמון|1|rimon|Romã|Pomegranate|Granada|רימון|Grenade|Melagrana|Гранат|2
+פרוכת|1|parochet|Cortina|Curtain|Cortina|פרוכת|Rideau|Cortina|Завеса|2
+עבות|1|avot|Grossas; cordas|Thick; ropes|Gruesas|עבות|Épaisses|Spesse|Толстые; канаты|2
+יחידאה|2|yechida'ah|Individual; solitário|Individual|Individual|יחיד|Individu|Individuo|Одиночка|2
+קבעו|1|kav'o|Fixou-o|Fixed it|Lo fijó|קבעו|Le fixa|Lo fissò|Установил его|2
+פוקקין|1|pokkin|Tapam|They plug|Tapan|פוקקים|Bouchent|Tappano|Затыкают|2
+אשגח|2|ashgach|Prestou atenção|Paid attention|Prestó atención|השגיח|Fit attention|Badò|Обратил внимание|2
+אדשמואל|3|adishmuel|Sobre (a opinião de) Shmuel|On Shmuel|Sobre Shmuel|על שמואל|Sur Chmouel|Su Shmuel|На Шмуэля|2
+אעלה|1|e'eleh|Subirei|I will go up|Subiré|אעלה|Je monterai|Salirò|Поднимусь|2
+שמשי|1|shamashei|Servidores de|Attendants of|Servidores de|שמשי|Serviteurs de|Servitori di|Служители|2
+הסך|1|hasach|O que unta|One who anoints|El que unta|הסך|Celui qui oint|Chi unge|Умащающий|2
+הוצאת|1|hotza'at|Retirada de; transporte de|Taking out of; carrying of|Sacada de|הוצאת|Sortie de|Uscita di|Вынос|1
+ישי|1|yishai|Jessé|Jesse|Isaí|ישי|Jessé|Iesse|Иессей|2
+משמרתו|1|mishmarto|Seu turno|His watch|Su turno|משמרתו|Sa garde|Il suo turno|Его череда|2
+ישמעו|1|yishme'u|Ouvirão|They will hear|Oirán|ישמעו|Entendront|Udranno|Услышат|2
+עיילא|2|ayla|Entra (ela)|Enters (f.)|Entra|נכנסת|Entre|Entra|Входит|2
+יעידו|1|ya'idu|Testemunharão|They will testify|Testificarán|יעידו|Témoigneront|Testimonieranno|Засвидетельствуют|ויעידו|2
+תקופת|1|tekufat|Estação de|Season of|Estación de|תקופת|Saison de|Stagione di|Сезон|בתקופת|2
+שיחה|1|sichah|Conversa|Conversation|Conversación|שיחה|Conversation|Conversazione|Беседа|2
+גמורים|1|gemurim|Completos|Complete|Completos|גמורים|Complets|Completi|Полные|2
+שעי|2|sha'ei|Conversa; conta|Talks|Habla|מספר|Parle|Parla|Беседует|2
+נחלות|1|nachalot|Heranças|Inheritances|Herencias|נחלות|Héritages|Eredità|Наследия|2
+בסיס|1|basis|Base|Base|Base|בסיס|Base|Base|Основание|2
+לזלזולי|2|lezilzulei|Desprezar|To disparage|Despreciar|לזלזל|Dénigrer|Disprezzare|Пренебречь|2
+שדו|2|shadu|Lançaram|They threw|Arrojaron|זרקו|Jetèrent|Gettarono|Бросили|2
+בישולי|1|bishulei|Cozidos de|Cooked foods of|Cocidos de|בישולי|Cuissons de|Cotture di|Варёное|בישולי עכו״ם|2
+שוח|1|shu'ach|Encurvado|Bent|Encorvado|שוח|Courbé|Curvo|Согнутый|2
+רהיט|2|rahit|Corre|Runs|Corre|רץ|Court|Corre|Бежит|2
+נזירא|2|nezira|Nazir|Nazirite|Nazir|נזיר|Nazir|Nazireo|Назорей|2
+תבונה|1|tevunah|Entendimento|Understanding|Entendimiento|תבונה|Intelligence|Intelligenza|Разумение|2
+בריות|1|briyot|Criaturas; pessoas|Creatures; people|Criaturas|בריות|Créatures|Creature|Создания|1
+אריסא|2|arisa|Meeiro|Sharecropper|Aparcero|אריס|Métayer|Mezzadro|Арендатор-издольщик|2
+קשת|1|keshet|Arco; arco-íris|Bow; rainbow|Arco; arco iris|קשת|Arc; arc-en-ciel|Arco; arcobaleno|Лук; радуга|2
+אהלא|2|ahala|Tenda|Tent|Tienda|אוהל|Tente|Tenda|Шатёр|2
+רבתי|1|rabati|Grande (f.)|Great (f.)|Grande|רבתי|Grande|Grande|Великая|2
+שפוד|1|shapud|Espeto|Spit|Asador|שפוד|Broche|Spiedo|Вертел|2
+חביל|2|chavil|Ferido; destruído|Injured|Herido|חבול|Blessé|Ferito|Ранен|2
+אחרנייתא|2|achraniyata|Outra (f.)|Another (f.)|Otra|אחרת|Une autre|Un’altra|Другая|2
+צידן|1|tzidan|Sidon|Sidon|Sidón|צידון|Sidon|Sidone|Сидон|בצידן|2
+נשתברו|1|nishtabru|Quebraram-se|Were broken|Se rompieron|נשתברו|Se brisèrent|Si ruppero|Разбились|2
+גנזו|1|gnazo|Guardou-o (escondeu)|Stored it away|Lo guardó|גנזו|Le cacha|Lo ripose|Спрятал его|2
+צלוחיתו|1|tzelochito|Seu frasco|His flask|Su frasco|צלוחיתו|Sa fiole|La sua fiala|Его сосуд|2
+בורו|1|boro|Seu poço|His pit|Su pozo|בורו|Sa fosse|Il suo pozzo|Его яма|2
+טביל|2|tavil|Imergiu-se|Immersed|Se sumergió|טבל|S’immergea|Si immerse|Окунулся|2
+עלן|2|alan|Sobre nós|On us|Sobre nosotros|עלינו|Sur nous|Su di noi|На нас|2
+טהרותיו|1|teharotav|Seus alimentos puros|His pure items|Sus cosas puras|טהרותיו|Ses choses pures|Le sue cose pure|Его чистые вещи|2
+רביתא|2|ravita|Juros|Interest|Interés|ריבית|Intérêt|Interesse|Проценты|2
+מגעו|1|maga'o|Seu contato|His touch|Su contacto|מגעו|Son contact|Il suo contatto|Его касание|2
+חילוק|1|chiluk|Distinção; divisão|Distinction|Distinción|חילוק|Distinction|Distinzione|Различие|2
+העלמות|1|he'elemot|Esquecimentos|Lapses of awareness|Olvidos|העלמות|Oublis|Dimenticanze|Забвения|2
+חטאתי|1|chatati|Pequei; minha oferenda de pecado|I sinned; my sin offering|Pequé|חטאתי|J’ai péché|Ho peccato|Я согрешил|2
+תלויין|1|teluyin|Dependentes; pendurados|Dependent; hanging|Dependientes|תלויים|Dépendants|Dipendenti|Зависимы|2
+יכנסו|1|yikanesu|Entrarão|They will enter|Entrarán|ייכנסו|Entreront|Entreranno|Войдут|2
+הדד|1|hadad|Hadad (o seio; contraparte)|Opposite (counterpart)|Opuesto|הנגדי|Opposé|Opposto|Противоположный|2
+נשיו|1|nashav|Suas esposas|His wives|Sus esposas|נשיו|Ses femmes|Le sue mogli|Его жёны|2
+נחומי|1|nechumi|Nechumi (nome)|Nechumi|Nejumí|נחומי|Né’houmi|Nechumi|Нехуми|2
+שתכנס|1|shetikanes|Que entre (ela)|That she enter|Que entre|שתיכנס|Qu’elle entre|Che entri|Чтобы вошла|2
+מקלקל|1|mekalkel|Estraga|Spoils|Estropea|מקלקל|Abîme|Guasta|Портит|2
+הטחול|1|hatechol|O baço|The spleen|El bazo|הטחול|La rate|La milza|Селезёнка|2
+שהוזמו|1|shehuzamu|Que foram desmentidos (testemunhas)|That were refuted (witnesses)|Que fueron refutados|שהוזמו|Qui furent démentis|Che furono smentiti|Которые изобличены|2
+עשהו|1|asahu|Fê-lo|Made it|Lo hizo|עשאו|Le fit|Lo fece|Сделал его|ועשהו|2
+תשמישתיה|2|tashmishteih|Seu uso|His use|Su uso|תשמישו|Son usage|Il suo uso|Его использование|2
+להבחין|1|lehavchin|Distinguir|To distinguish|Distinguir|להבחין|Distinguer|Distinguere|Различать|2
+זן|1|zan|Sustenta|Sustains|Sustenta|זן|Nourrit|Nutre|Питает|2
+פקידה|1|pekidah|Depósito; verificação|Deposit; examination|Depósito|פקידה|Dépôt|Deposito|Вклад; проверка|ומפקידה|2
+קצץ|1|katzatz|Cortou|Cut off|Cortó|קצץ|Coupa|Tagliò|Срезал|2
+גרופה|1|grufah|Varrida (de brasas)|Swept (of coals)|Barrida|גרופה|Balayée|Spazzata|Выметенная|2
+קטומה|1|ketumah|Coberta (de cinzas)|Covered (with ashes)|Cubierta|קטומה|Couverte|Coperta|Присыпанная|וקטומה|2
+פתילה|1|ptilah|Pavio|Wick|Mecha|פתילה|Mèche|Stoppino|Фитиль|2
+מביאים|1|mevi'im|Trazem|They bring|Traen|מביאים|Apportent|Portano|Приносят|1
+חבריא|2|chavraya|Os colegas (estudiosos)|The colleagues|Los colegas|החברים|Les collègues|I colleghi|Товарищи|2
+תכבה|1|tichbeh|Apagar-se-á|Will go out|Se apagará|תכבה|S’éteindra|Si spegnerà|Погаснет|2
+למוד|1|lamud|Acostumado; aprendido|Accustomed|Acostumbrado|למוד|Habitué|Abituato|Привычный|2
+זרות|1|zarut|Estranheza (não sacerdote)|Being a non-priest|Extrañeza|זרות|Étrangeté|Estraneità|Посторонность|1
+טיהר|1|tiher|Purificou|Purified|Purificó|טיהר|Purifia|Purificò|Очистил|2
+צרכו|1|tzorko|Sua necessidade|His need|Su necesidad|צרכו|Son besoin|Il suo bisogno|Его нужда|2
+כיסין|1|kisin|Bolsas|Purses|Bolsas|כיסים|Bourses|Borse|Кошельки|2
+הושע|1|hoshe'a|Oseias|Hosea|Oseas|הושע|Osée|Osea|Осия|2
+צרויה|1|tzeruyah|Tseruyá|Zeruiah|Sarvia|צרויה|Tserouya|Zeruia|Церуя|2
+קפידא|2|kefida|Rigor; irritação|Strictness; irritation|Rigor|קפידה|Rigueur|Rigore|Строгость|2
+טווי|1|tavuy|Fiado|Spun|Hilado|טווי|Filé|Filato|Прядёный|2
+הוית|2|havit|Eras|You were|Eras|היית|Tu étais|Eri|Ты был|2
+אפרוחים|1|efrochim|Filhotes|Chicks|Polluelos|אפרוחים|Poussins|Pulcini|Птенцы|2
+נהורא|2|nehora|Luz|Light|Luz|אור|Lumière|Luce|Свет|2
+רמונים|1|rimonim|Romãs|Pomegranates|Granadas|רימונים|Grenades|Melagrane|Гранаты|2
+ישבי|1|yoshvei|Habitantes de|Inhabitants of|Habitantes de|יושבי|Habitants de|Abitanti di|Жители|2
+נלך|1|nelech|Vamos|Let us go|Vamos|נלך|Allons|Andiamo|Пойдём|2
+צפורן|1|tziporen|Unha; cravo|Nail; clove|Uña; clavo|ציפורן|Ongle; clou de girofle|Unghia; chiodo di garofano|Ноготь; гвоздика|2
+פסקא|2|piska|Seção; parágrafo|Section; paragraph|Sección|פסקה|Section|Sezione|Раздел|2
+הרמתי|1|haramati|O ramatita (Samuel)|The Ramathite|El ramatita|הרמתי|Le Ramatite|Il Ramatita|Раматаим|2
+מתיבתא|2|metivta|Academia|Academy|Academia|ישיבה|Académie|Accademia|Академия|2
+בהדך|2|bahadach|Contigo|With you|Contigo|עמך|Avec toi|Con te|С тобой|2
+כתיפו|1|ktefo|Seu ombro|His shoulder|Su hombro|כתפו|Son épaule|La sua spalla|Его плечо|2
+מסאניה|2|mesaneih|Seus sapatos|His shoes|Sus zapatos|נעליו|Ses chaussures|Le sue scarpe|Его обувь|2
+הדות|1|hadut|O nó (da tsitsit)|The knot|El nudo|הנוי|Le nœud|Il nodo|Узел|2
+חותכין|1|chotchin|Cortam|They cut|Cortan|חותכים|Coupent|Tagliano|Режут|2
+ערלות|1|orlut|Estado de incircunciso|Uncircumcision|Incircuncisión|ערלות|Incirconcision|Incirconcisione|Необрезанность|2
+יליד|1|yelid|Nascido em|Born in|Nacido en|יליד|Né à|Nato a|Уроженец|2
+ימיה|1|yameha|Seus dias|Her days|Sus días|ימיה|Ses jours|I suoi giorni|Её дни|1
+שיבדיל|1|sheyavdil|Que separe|That he separate|Que separe|שיבדיל|Qu’il sépare|Che separi|Чтобы отделил|2
+גריס|1|garis|Fava; grão partido|Bean; split grain|Haba|גריס|Fève|Fava|Боб|1
+כונסה|1|konsah|Casa-se com ela|Marries her|Se casa con ella|כונסה|L’épouse|La sposa|Берёт её в жёны|2
+אניס|2|anis|Coagido|Coerced|Coaccionado|אנוס|Contraint|Costretto|Принуждён|2
+מינסבא|2|minasva|Casar-se (ela)|To marry (f.)|Casarse|להינשא|Se marier|Sposarsi|Выйти замуж|ומינסבא|2
+תבוא|1|tavo|Virá; entrará|Will come|Vendrá|תבוא|Viendra|Verrà|Придёт|2
+מנפח|1|menape'ach|Sopra; incha|Blows; inflates|Sopla|מנפח|Souffle|Soffia|Раздувает|2
+הוגנת|1|hogenet|Digna; apropriada|Proper (f.)|Digna|הוגנת|Digne|Degna|Достойная|2
+קטלינן|2|katlinan|Matamos; executamos|We execute|Ejecutamos|הורגים|Nous exécutons|Giustiziamo|Казним|2
+בעמיתו|1|ba'amito|Em seu próximo|With his fellow|Con su prójimo|בעמיתו|Envers son prochain|Verso il prossimo|С ближним|2
+תקחו|1|tikchu|Tomareis|You shall take|Tomaréis|תקחו|Vous prendrez|Prenderete|Возьмёте|2
+מקרבך|1|mikirbecha|Do teu meio|From your midst|De en medio de ti|מקרבך|Du milieu de toi|Di mezzo a te|Из твоей среды|2
+קידושיה|1|kidusheha|Seu desposório|Her betrothal|Sus desposorios|קידושיה|Ses fiançailles|Il suo fidanzamento|Её обручение|2
+מציאתה|1|metzi'atah|Seu achado|Her find|Su hallazgo|מציאתה|Sa trouvaille|Il suo ritrovamento|Её находка|במציאתה|2
+מעקה|1|ma'akeh|Parapeito|Parapet|Parapeto|מעקה|Parapet|Parapetto|Ограда (на крыше)|2
+ידועין|1|yedu'in|Conhecidos|Known|Conocidos|ידועים|Connus|Noti|Известные|2
+אריס|1|aris|Meeiro|Sharecropper|Aparcero|אריס|Métayer|Mezzadro|Арендатор|2
+יורשיה|1|yorsheha|Seus herdeiros|Her heirs|Sus herederos|יורשיה|Ses héritiers|I suoi eredi|Её наследники|2
+תפרע|1|tipara|Será cobrada|Will be collected|Se cobrará|תיפרע|Sera perçue|Sarà riscossa|Будет взыскана|2
+שטרו|1|shtaro|Seu documento|His document|Su documento|שטרו|Son acte|Il suo atto|Его документ|2
+שיירא|2|shayara|Caravana|Caravan|Caravana|שיירה|Caravane|Carovana|Караван|2
+הרכינס|1|harkinas|Harkinas (Dossa ben Harkinas)|Harkinas|Harkinás|הרכינס|Harkinas|Harkinas|Харкинас|2
+ביכרה|1|bikrah|Deu à luz pela primeira vez|Gave birth for the first time|Primeriza|ביכרה|Mit bas pour la première fois|Partorì per la prima volta|Родила впервые|2
+ילדו|1|yaldu|Deram à luz|They gave birth|Dieron a luz|ילדו|Accouchèrent|Partorirono|Родили|וילדו|1
+הפסיד|1|hifsid|Perdeu|Lost|Perdió|הפסיד|Perdit|Perse|Потерял|2
+פקועה|1|pekuah|Feto retirado do animal abatido|Fetus from a slaughtered animal|Feto de animal sacrificado|פקועה|Fœtus d’animal abattu|Feto di animale macellato|Плод зарезанного животного|בן פקועה|2
+נקבים|1|nekavim|Orifícios|Orifices|Orificios|נקבים|Orifices|Orifizi|Отверстия|2
+כילוד|1|kiyalud|Como recém-nascido|Like a newborn|Como recién nacido|כילוד|Comme un nouveau-né|Come un neonato|Как новорождённый|2
+יכיר|1|yakir|Reconhecerá|Will recognize|Reconocerá|יכיר|Reconnaîtra|Riconoscerà|Признает|2
+להזימה|1|lahazimah|Desmenti-la (testemunho)|To refute it|Refutarla|להזימה|La démentir|Smentirla|Изобличить её|2
+מצויות|1|metzuyot|Comuns|Common (f.)|Comunes|מצויות|Fréquentes|Frequenti|Распространённые|2
+בדד|1|badad|Sozinho|Alone|Solo|בדד|Seul|Solo|Одиноко|2
+נפשותיכם|1|nafshoteichem|Vossas almas|Your souls|Vuestras almas|נפשותיכם|Vos âmes|Le vostre anime|Ваши души|2
+מורא|1|mora|Temor; reverência|Fear; reverence|Temor|מורא|Crainte|Timore|Благоговение|2
+ינשאו|1|yinas'u|Casar-se-ão|They will marry|Se casarán|יינשאו|Se marieront|Si sposeranno|Выйдут замуж|2
+שומרין|1|shomrin|Guardam|They guard|Guardan|שומרים|Gardent|Custodiscono|Охраняют|2
+מצאתה|1|metzatah|Encontrou-a|Found it|La encontró|מצאתה|L’a trouvée|L’ha trovata|Нашёл её|ומצאתה|2
+נגזל|1|nigzal|Foi roubado; a vítima|Was robbed; the victim|Fue robado|נגזל|Fut volé|Fu derubato|Ограбленный|2
+גומרין|1|gomrin|Completam|They complete|Completan|גומרים|Achèvent|Completano|Завершают|2
+נטר|2|netar|Guardou|Guarded|Guardó|שמר|Garda|Custodì|Сторожил|2
+מוכיחות|1|mochichot|Provam (f.)|Prove (f.)|Prueban|מוכיחות|Prouvent|Dimostrano|Доказывают|2
+נערכין|1|ne'erachin|São avaliados|Are assessed|Son valuados|נערכים|Sont évalués|Sono valutati|Оцениваются|2
+עצר|1|atzar|Reteve; deteve|Held back|Detuvo|עצר|Retint|Trattenne|Удержал|ועצר|2
+בשפתיו|1|bisfatav|Com seus lábios|With his lips|Con sus labios|בשפתיו|De ses lèvres|Con le sue labbra|Устами|2
+אאיסור|3|a'isur|Sobre a proibição|On the prohibition|Sobre la prohibición|על איסור|Sur l’interdit|Sul divieto|На запрет|2
+חלוצתו|1|chalutzato|Sua chalutsá|His chalutza|Su jalutsá|חלוצתו|Sa ‘haloutsa|La sua chalutzà|Его халуца|2
+תשלומיו|1|tashlumav|Seus pagamentos|His payments|Sus pagos|תשלומיו|Ses paiements|I suoi pagamenti|Его выплаты|2
+ממונך|1|mamoncha|Teu dinheiro|Your money|Tu dinero|ממונך|Ton argent|Il tuo denaro|Твои деньги|וממונך|2
+הוזק|1|huzak|Foi danificado|Was damaged|Fue dañado|הוזק|Fut endommagé|Fu danneggiato|Пострадал|2
+יירש|1|yirash|Herdará|Will inherit|Heredará|יירש|Héritera|Erediterà|Унаследует|2
+אואין|2|o'in|Ou|Or|O|או|Ou|O|Или|2
+גאולת|1|ge'ulat|Redenção de|Redemption of|Redención de|גאולת|Rachat de|Riscatto di|Выкуп|2
+להכותו|1|lehakoto|Golpeá-lo|To strike him|Golpearlo|להכותו|Le frapper|Colpirlo|Ударить его|2
+מלשלח|1|mileshale'ach|De enviar|From sending|De enviar|מלשלח|D’envoyer|Dal mandare|От отсылки|2
+זיבתה|1|zivatah|Seu fluxo|Her flux|Su flujo|זיבתה|Son écoulement|Il suo flusso|Её истечение|2
+שהעריך|1|she'he'erich|Que avaliou|That assessed|Que valuó|שהעריך|Qui évalua|Che valutò|Который оценил|2
+ממיר|1|memir|Substitui|Substitutes|Sustituye|ממיר|Substitue|Sostituisce|Заменяет|2
+קמבעיא|2|kamiba'ya|Pergunta-se|It is asked|Se pregunta|נשאלת|On demande|Si chiede|Спрашивается|2
+תקלל|1|tekalel|Amaldiçoarás|You shall curse|Maldecirás|תקלל|Tu maudiras|Maledirai|Проклянёшь|2
+תמורתו|1|temurato|Seu substituto|Its substitute|Su sustituto|תמורתו|Son substitut|Il suo sostituto|Его замена|2
+חרוץ|1|charutz|Diligente; fosso|Diligent; ditch|Diligente|חרוץ|Diligent|Diligente|Усердный; ров|2
+נצטוו|1|nitztavu|Foram ordenados|Were commanded|Fueron ordenados|נצטוו|Reçurent l’ordre|Furono comandati|Получили повеление|2
+שנתערבה|1|shenitarvah|Que se misturou|That became mixed|Que se mezcló|שנתערבה|Qui s’est mélangée|Che si mescolò|Которая смешалась|2
+גזבר|1|gizbar|Tesoureiro (do Templo)|Treasurer|Tesorero|גזבר|Trésorier|Tesoriere|Казначей|2
+יקדיש|1|yakdish|Consagrará|Will consecrate|Consagrará|יקדיש|Consacrera|Consacrerà|Посвятит|2
+תשיג|1|tasig|Alcançará|Will afford|Alcanzará|תשיג|Atteindra|Raggiungerà|Достанет|2
+הלין|2|halein|Estes|These|Estos|אלה|Ceux-ci|Questi|Эти|2
+חוני|1|choni|Choni (o desenhador de círculos)|Choni (the Circle-Drawer)|Joní|חוני|Honi|Choni|Хони|2
+מיגמר|2|migmar|Aprender|To learn|Aprender|ללמוד|Apprendre|Imparare|Учиться|1
+בבואה|1|bavu'ah|Reflexo|Reflection|Reflejo|בבואה|Reflet|Riflesso|Отражение|2
+ליחזי|2|lechezei|Que veja|Let him see|Que vea|יראה|Qu’il voie|Veda|Пусть увидит|וליחזי|2
+להאכילן|1|leha'achilan|Dá-las de comer|To feed them|Alimentarlas|להאכילן|Les nourrir|Nutrirle|Накормить их|2
+אקראי|3|akra'i|Sobre o versículo|On the verse|Sobre el versículo|על הפסוק|Sur le verset|Sul versetto|К стиху|2
+קבלו|1|kiblu|Receberam; aceitaram|They received|Recibieron|קיבלו|Reçurent|Ricevettero|Приняли|1
+הקדשות|1|hekdeshot|Consagrações|Consecrations|Consagraciones|הקדשות|Consécrations|Consacrazioni|Посвящения|2
+שמם|1|shemam|Seu nome|Their name|Su nombre|שמם|Leur nom|Il loro nome|Их имя|2
+נוגח|1|nogeach|Chifra|Gores|Cornea|נוגח|Encorne|Incorna|Бодает|2
+הוצרך|1|hutzrach|Foi necessário|Was needed|Fue necesario|הוצרך|Fut nécessaire|Fu necessario|Понадобилось|2
+תשתרי|2|tishtrei|Será permitida|Will be permitted|Será permitida|תותר|Sera permise|Sarà permessa|Будет разрешена|2
+פנוי|1|panuy|Livre; solteiro|Free; unmarried|Libre; soltero|פנוי|Libre|Libero|Свободный|2
+תקבר|1|tikaver|Será enterrada|Will be buried|Será enterrada|תיקבר|Sera enterrée|Sarà sepolta|Будет похоронена|2
+זמנם|1|zmanam|Seu tempo|Their time|Su tiempo|זמנם|Leur temps|Il loro tempo|Их время|2
+כתיקנן|1|ketikunan|Conforme sua ordem|In their proper order|Debidamente|כתיקונן|Selon leur ordre|Secondo il loro ordine|Как положено|2
+מוקפין|1|mukafin|Cercados (de muralha)|Walled|Amurallados|מוקפים|Entourés|Recintati|Окружённые|2
+בקעת|1|bik'at|Vale de|Valley of|Valle de|בקעת|Vallée de|Valle di|Долина|בבקעת|2
+תרגומא|2|targuma|Tradução; explicação|Translation; explanation|Traducción|תרגום|Traduction|Traduzione|Перевод; толкование|2
+גרמידי|2|garmidei|Côvados|Cubits|Codos|אמות|Coudées|Cubiti|Локти|2
+סמכו|1|samchu|Apoiaram-se|They relied|Se apoyaron|סמכו|S’appuyèrent|Si appoggiarono|Опирались|2
+צבא|1|tzava|Exército|Army|Ejército|צבא|Armée|Esercito|Войско|2
+הוקף|1|hukaf|Foi cercado|Was enclosed|Fue rodeado|הוקף|Fut entouré|Fu recintato|Был окружён|2
+חרבו|1|charbo|Sua espada|His sword|Su espada|חרבו|Son épée|La sua spada|Его меч|2
+לוא|1|lo|Não (grafia plena)|Not|No|לא|Non|Non|Не|2
+פרשתא|2|parashta|Seção|Section|Sección|פרשה|Section|Sezione|Раздел|2
+מגילת|1|megilat|Rolo de|Scroll of|Rollo de|מגילת|Rouleau de|Rotolo di|Свиток|במגילת|2
+ישבה|1|yashvah|Sentou-se (ela)|She sat|Se sentó|ישבה|Elle s’assit|Sedette|Села|וישבה|2
+חלונות|1|chalonot|Janelas|Windows|Ventanas|חלונות|Fenêtres|Finestre|Окна|2
+נגה|1|nogah|Brilho; Vênus|Brightness; Venus|Brillo|נוגה|Éclat|Splendore|Сияние|2
+הכניסן|1|hichnisan|Introduziu-os|Brought them in|Los introdujo|הכניסם|Les fit entrer|Li fece entrare|Внёс их|והכניסן|2
+אורך|1|orech|Comprimento|Length|Longitud|אורך|Longueur|Lunghezza|Длина|2
+מתרגמינן|2|metargeminan|Traduzimos|We translate|Traducimos|מתרגמים|Nous traduisons|Traduciamo|Переводим|ומתרגמינן|2
+התחתונים|1|hatachtonim|Os inferiores|The lower ones|Los inferiores|התחתונים|Les inférieurs|Gli inferiori|Нижние|2
+אתנו|1|itanu|Conosco|With us|Con nosotros|איתנו|Avec nous|Con noi|С нами|2
+מואב|1|mo'av|Moab|Moab|Moab|מואב|Moab|Moab|Моав|ומואב|1
+המור|1|hamor|A mirra|The myrrh|La mirra|המור|La myrrhe|La mirra|Мирра|2
+חיקו|1|cheiko|Seu colo|His bosom|Su regazo|חיקו|Son giron|Il suo grembo|Его лоно|בחיקו|2
+מסתפינא|2|mistapeina|Tenho medo|I am afraid|Tengo miedo|אני מפחד|J’ai peur|Ho paura|Я боюсь|2
+קרני|1|karnei|Chifres de; raios de|Horns of; rays of|Cuernos de|קרני|Cornes de|Corna di|Рога; лучи|2
+שמייהו|2|shemayhu|Seus nomes|Their names|Sus nombres|שמותיהם|Leurs noms|I loro nomi|Их имена|2
+מירתת|2|mirtat|Treme; teme|Trembles; fears|Tiembla|רועד; ירא|Tremble|Trema|Трепещет|2
+יכילנא|2|yachilna|Posso|I can|Puedo|יכול אני|Je peux|Posso|Я могу|2
+אליכם|1|aleichem|A vós|To you|A vosotros|אליכם|Vers vous|A voi|К вам|2
+נוחה|1|nochah|Confortável; agradável|Comfortable|Cómoda|נוחה|Commode|Comoda|Удобная|2
+תפלתי|1|tefilati|Minha oração|My prayer|Mi oración|תפילתי|Ma prière|La mia preghiera|Моя молитва|2
+תהלה|1|tehilah|Louvor|Praise|Alabanza|תהילה|Louange|Lode|Хвала|2
+פסקי|1|piskei|Decisões de; seções de|Rulings of; sections of|Decisiones de|פסקי|Décisions de|Decisioni di|Решения|2
+תהלים|1|tehilim|Salmos|Psalms|Salmos|תהילים|Psaumes|Salmi|Псалмы|2
+רצפה|1|ritzpah|Piso|Floor|Piso|רצפה|Sol|Pavimento|Пол|2
+בארצכם|1|be'artzechem|Em vossa terra|In your land|En vuestra tierra|בארצכם|Dans votre pays|Nella vostra terra|В вашей земле|2
+מתרגם|1|metargem|Traduz; intérprete|Translates; interpreter|Traduce|מתרגם|Traduit|Traduce|Переводит; толмач|ומתרגם|2
+קביע|2|kavia|Fixo|Fixed|Fijo|קבוע|Fixe|Fisso|Постоянный|2
+אמא|2|ima|Mãe|Mother|Madre|אם|Mère|Madre|Мать|2
+יהושפט|1|yehoshafat|Josafá|Jehoshaphat|Josafat|יהושפט|Josaphat|Giosafat|Иосафат|2
+צנא|2|tzana|Cesto|Basket|Cesta|סל|Panier|Cesto|Корзина|2
+תורות|1|torot|Leis; ensinamentos|Laws; teachings|Leyes|תורות|Lois|Leggi|Учения; законы|2
+נתקיימו|1|nitkaymu|Cumpriram-se|Were fulfilled|Se cumplieron|נתקיימו|S’accomplirent|Si avverarono|Исполнились|2
+שתכלה|1|shetichleh|Que acabe|That it end|Que termine|שתכלה|Qu’elle finisse|Che finisca|Чтобы кончилась|2
+חריבה|1|charevah|Arruinada; seca|Ruined; dry|Arruinada|חרבה|Ruinée|Rovinata|Разрушенная|2
+הוייה|1|havayah|Existência|Being|Existencia|הוויה|Existence|Esistenza|Бытие|2
+לחים|1|lachim|Úmidos|Moist|Húmedos|לחים|Humides|Umidi|Влажные|2
+יצק|1|yatzak|Derramou (azeite)|Poured|Vertió|יצק|Versa|Versò|Влил|2
+נשנית|1|nishneit|É ensinada (repetida)|Is taught|Se enseña|נשנית|Est enseignée|È insegnata|Учится|1
+הושיט|1|hoshit|Estendeu|Extended|Extendió|הושיט|Tendit|Tese|Протянул|2
+סימא|1|sime|Cegou|Blinded|Cegó|סימא|Aveugla|Accecò|Ослепил|2
+אמאן|3|aman|Sobre quem?|On whom?|¿Sobre quién?|על מי|Sur qui ?|Su chi?|На кого?|2
+פסלתו|1|pesalto|Sua desqualificação|Its disqualification|Su invalidez|פסולתו|Son invalidité|La sua squalifica|Его негодность|2
+גובהה|1|govhah|Sua altura|Its height|Su altura|גובהה|Sa hauteur|La sua altezza|Её высота|2
+קושר|1|kosher|Ata|Ties|Ata|קושר|Attache|Lega|Завязывает|2
+דף|1|daf|Folha; tábua|Page; board|Hoja; tabla|דף|Page; planche|Pagina; asse|Лист; доска|2
+יעשנה|1|ya'asenah|Fá-la-á|Will make it|La hará|יעשנה|La fera|La farà|Сделает её|2
+קלף|1|klaf|Pergaminho|Parchment|Pergamino|קלף|Parchemin|Pergamena|Пергамент|2
+להניחה|1|lehanichah|Colocá-la|To place it|Colocarla|להניחה|La poser|Posarla|Положить её|2
+פצימין|1|patzimin|Batentes (da porta)|Doorposts|Jambas|פצימים|Montants|Stipiti|Косяки|2
+גדילים|1|gedilim|Franjas|Fringes|Flecos|גדילים|Franges|Frange|Кисти|2
+חייביה|2|chaivei|Tornou-o culpado|Held him liable|Lo condenó|חייבו|Le condamna|Lo condannò|Обязал его|2
+שמענא|2|shem'ana|Ouvi|I heard|Oí|שמעתי|J’ai entendu|Ho sentito|Я слышал|2
+ארמאי|2|armai|Arameu; gentio|Aramean; gentile|Arameo; gentil|ארמי; נכרי|Araméen; non-juif|Arameo; gentile|Арамей; иноверец|2
+כותיים|1|kutiyim|Cuteus (samaritanos)|Cutheans|Cuteos|כותים|Couthéens|Cutei|Кутим|2
+הוציאה|1|hotzi'ah|Tirou; gastou (ela)|Took out; spent|Sacó|הוציאה|Sortit|Tolse|Вынесла|2
+סותרין|1|sotrin|Demolem; contradizem|They demolish; contradict|Demuelen|סותרים|Démolissent|Demoliscono|Разрушают; противоречат|2
+מיפשט|2|mifshat|Resolver; despir|To resolve; strip|Resolver|לפשוט|Résoudre|Risolvere|Разрешить|2
+משלמי|2|meshalmei|Pagam|They pay|Pagan|משלמים|Paient|Pagano|Платят|2
+מחנכין|1|mechanchin|Educam; inauguram|They train; dedicate|Educan|מחנכים|Éduquent|Educano|Воспитывают; освящают|2
+ניטלת|1|nitelet|É tomada|Is taken|Es tomada|ניטלת|Est prise|È presa|Берётся|2
+תשחט|1|tishchat|Abaterás|You shall slaughter|Sacrificarás|תשחט|Tu abattras|Macellerai|Зарежешь|2
+איתעביד|2|ita'avid|Foi feito|Was done|Fue hecho|נעשה|Fut fait|Fu fatto|Было сделано|2
+חרמש|1|chermesh|Foice|Sickle|Hoz|חרמש|Faucille|Falce|Серп|3
+קרפיפות|1|karpeifot|Recintos|Enclosures|Recintos|קרפיפות|Enclos|Recinti|Ограды|2
+הנף|1|henef|Balanceio|Waving|Mecimiento|הנף|Balancement|Agitazione|Возмахивание|2
+תקין|2|takin|Instituiu|Instituted|Instituyó|תיקן|Institua|Istituì|Установил|2
+חביבה|1|chavivah|Querida|Dear|Querida|חביבה|Chère|Cara|Любимая|2
+להזיר|1|lehazir|Fazer nazir|To make a nazirite|Hacer nazir|להזיר|Rendre nazir|Rendere nazireo|Сделать назореем|2
+נודרין|1|nodrin|Fazem votos|They vow|Hacen votos|נודרים|Font vœu|Fanno voto|Дают обеты|2
+חריפא|2|charifa|Perspicaz; afiado|Sharp|Agudo|חריף|Perspicace|Acuto|Острый|2
+חטי|1|chitei|Trigos de|Wheat of|Trigo de|חיטי|Blé de|Frumento di|Пшеница|2
+ביכורי|1|bikurei|Primícias de|First fruits of|Primicias de|ביכורי|Prémices de|Primizie di|Первинки|2
+סניפין|1|snifin|Acréscimos (tiras)|Attachments|Añadidos|סניפים|Ajouts|Aggiunte|Пристёжки|2
+האיך|1|ha'ich|Como?|How?|¿Cómo?|האיך|Comment ?|Come?|Как?|1
+קבולי|2|kabulei|Receber|To receive|Recibir|לקבל|Recevoir|Ricevere|Принимать|2
+פלגיה|2|palgeih|Sua metade|Its half|Su mitad|חציו|Sa moitié|La sua metà|Его половина|1
+עבדיך|1|avadecha|Teus servos|Your servants|Tus siervos|עבדיך|Tes serviteurs|I tuoi servi|Твои рабы|2
+מקרעין|1|mekar'in|Rasgam|They tear|Rasgan|מקרעים|Déchirent|Strappano|Рвут|2
+נשמתו|1|nishmato|Sua alma|His soul|Su alma|נשמתו|Son âme|La sua anima|Его душа|2
+צום|1|tzom|Jejum|Fast|Ayuno|צום|Jeûne|Digiuno|Пост|2
+פרידה|1|peridah|Separação; pombo jovem|Separation; young dove|Separación|פרידה|Séparation|Separazione|Разлука; голубка|2
+מסתפקא|2|mistapka|Está em dúvida|Is in doubt|Duda|מסתפק|Doute|Dubita|Сомневается|2
+אכולה|2|achulah|Sobre toda ela|On all of it|Sobre toda|על כולה|Sur toute|Su tutta|На всю|2
+הזיד|1|hezid|Agiu intencionalmente|Acted intentionally|Actuó intencionadamente|הזיד|Agit délibérément|Agì intenzionalmente|Поступил умышленно|2
+לצלות|1|litzlot|Assar|To roast|Asar|לצלות|Rôtir|Arrostire|Жарить|2
+קונו|1|kono|Seu Criador; seu dono|His Maker; his owner|Su Creador|קונו|Son Créateur|Il suo Creatore|Его Творец|2
+טפילה|1|tefeilah|Secundária|Secondary|Secundaria|טפלה|Secondaire|Secondaria|Второстепенная|2
+תעשינה|1|te'asenah|Serão feitas|Will be done|Serán hechas|תיעשינה|Seront faites|Saranno fatte|Будут сделаны|2
+פלט|1|palat|Expeliu; absorveu de volta|Expelled|Expulsó|פלט|Rejeta|Espulse|Выбросил|2
+זרעה|1|zar'ah|Sua semente (dela)|Her seed|Su semilla|זרעה|Sa semence|Il suo seme|Её семя|2
+נתלה|1|nitlah|Foi pendurado; dependeu|Was hung; depended|Fue colgado|נתלה|Fut pendu|Fu appeso|Повешен|2
+צואת|1|tzo'at|Excremento de|Excrement of|Excremento de|צואת|Excréments de|Escrementi di|Испражнения|2
+קבור|1|kavur|Enterrado|Buried|Enterrado|קבור|Enterré|Sepolto|Погребённый|2
+פעור|1|pe'or|Peor (idolatria)|Peor (idolatry)|Peor|פעור|Péor|Peor|Пеор|2
+עשיתם|1|asitem|Fizestes|You did|Hicisteis|עשיתם|Vous avez fait|Avete fatto|Вы сделали|2
+פילי|2|pilei|Elefantes; fendas|Elephants; cracks|Elefantes|פילים|Éléphants|Elefanti|Слоны; щели|2
+מחריב|1|machariv|Destrói|Destroys|Destruye|מחריב|Détruit|Distrugge|Разрушает|2
+מעליותא|2|ma'aliyuta|Qualidade; mérito|Quality; merit|Mérito|מעלה|Qualité|Pregio|Достоинство|2
+זמרי|1|zimri|Zimri|Zimri|Zimri|זמרי|Zimri|Zimri|Зимри|2
+משוחרר|1|meshuchrar|Liberto|Freed|Liberado|משוחרר|Affranchi|Liberato|Освобождённый|2
+הפסידה|1|hifsidah|Perdeu (ela)|She lost|Perdió|הפסידה|Elle perdit|Perse|Потеряла|2
+מתעברת|1|mitaberet|Engravida|Conceives|Concibe|מתעברת|Conçoit|Concepisce|Беременеет|2
+כתפיו|1|ktefav|Seus ombros|His shoulders|Sus hombros|כתפיו|Ses épaules|Le sue spalle|Его плечи|2
+סלקי|2|salkei|Sobem|They go up|Suben|עולים|Montent|Salgono|Поднимаются|1
+לווייה|1|levayah|Acompanhamento; funeral|Escort; funeral|Acompañamiento|לוויה|Escorte; funérailles|Scorta; funerale|Сопровождение; похороны|4
+ענו|1|anu|Responderam|They answered|Respondieron|ענו|Répondirent|Risposero|Ответили|2
+עשינו|1|asinu|Fizemos|We did|Hicimos|עשינו|Nous avons fait|Abbiamo fatto|Мы сделали|2
+נוטע|1|note'a|Planta|Plants|Planta|נוטע|Plante|Pianta|Сажает|1
+מאהיל|1|ma'ahil|Cobre (impureza de tenda)|Overshadows (tent impurity)|Cubre|מאהיל|Recouvre|Copre|Осеняет|2
+שופטיך|1|shoftecha|Teus juízes|Your judges|Tus jueces|שופטיך|Tes juges|I tuoi giudici|Твои судьи|ושופטיך|2
+קופיץ|1|kofitz|Cutelo|Cleaver|Cuchilla|קופיץ|Couperet|Mannaia|Секач|בקופיץ|2
+פוסלות|1|poslot|Desqualificam (f.)|Disqualify (f.)|Invalidan|פוסלות|Invalident|Squalificano|Делают негодным|2
+מובהק|1|muvhak|Principal; evidente|Primary; distinct|Principal|מובהק|Principal|Principale|Главный; явный|2
+שתשרה|1|shetishreh|Que repouse; que embeba|That it rest; soak|Que repose|שתשרה|Qu’elle repose|Che riposi|Чтобы пребывала|2
+סלו|1|salo|Seu cesto|His basket|Su cesta|סלו|Son panier|Il suo cesto|Его корзина|בסלו|2
+ראות|1|re'ot|Ver; visão|Seeing|Ver|ראות|Voir|Vedere|Видеть|1
+אפל|1|afel|Escuro; tardio|Dark; late|Oscuro|אפל|Sombre|Scuro|Тёмный; поздний|2
+עירי|1|iri|Minha cidade|My city|Mi ciudad|עירי|Ma ville|La mia città|Мой город|2
+כסתות|1|kesatot|Almofadas|Cushions|Cojines|כסתות|Coussins|Cuscini|Подушки|וכסתות|2
+סככה|1|sikechah|Cobriu-a|Covered it|La cubrió|סככה|La couvrit|La coprì|Покрыл её|2
+שיעורן|1|shi'uran|Sua medida|Their measure|Su medida|שיעורן|Leur mesure|La loro misura|Их мера|2
+יבשה|1|yabashah|Terra seca; seca (f.)|Dry land; dry|Tierra seca|יבשה|Terre ferme|Terraferma|Суша; сухая|2
+נסר|1|neser|Tábua|Plank|Tabla|נסר|Planche|Asse|Доска|2
+נופו|1|nofo|Seus ramos|Its branches|Sus ramas|נופו|Ses branches|I suoi rami|Его ветви|2
+ספינתו|1|sefinato|Seu navio|His ship|Su barco|ספינתו|Son navire|La sua nave|Его корабль|2
+הרהר|1|hirher|Pensou; refletiu|Thought|Pensó|הרהר|Réfléchit|Rifletté|Помыслил|1
+קנייה|2|kanyeih|Adquiriu-o|Acquired it|Lo adquirió|קנאו|L’acquit|Lo acquistò|Приобрёл его|2
+ארעתא|2|ar'ata|Terras|Lands|Tierras|ארצות|Terres|Terre|Земли|2
+נתגלה|1|nitgalah|Revelou-se|Was revealed|Se reveló|נתגלה|Se révéla|Si rivelò|Открылся|ונתגלה|2
+מסור|1|masur|Entregue; delator|Handed over; informer|Entregado; delator|מסור|Livré; délateur|Consegnato; delatore|Переданный; доносчик|1
+תקיעות|1|tekiot|Toques (do shofar)|Blasts (of the shofar)|Toques|תקיעות|Sonneries|Suoni|Трубления|2
+פתיחת|1|petichat|Abertura de|Opening of|Apertura de|פתיחת|Ouverture de|Apertura di|Открытие|לפתיחת|2
+סימנך|3|simanach|E teu sinal mnemônico|And your mnemonic|Y tu mnemotecnia|וסימנך|Et ton moyen mnémotechnique|E il tuo segno|И твой знак|וסימנך|2
+מתרפאין|1|mitrape'in|Curam-se|They are healed|Se curan|מתרפאים|Se soignent|Si curano|Лечатся|2
+ראשונות|1|rishonot|Primeiras|First (f. pl.)|Primeras|ראשונות|Premières|Prime|Первые|1
+ייטב|1|yitav|Será bom|Will be good|Será bueno|ייטב|Sera bon|Sarà bene|Будет хорошо|2
+פרעון|1|pera'on|Pagamento|Repayment|Pago|פירעון|Remboursement|Rimborso|Уплата|2
+דייקי|2|daykei|Deduzem (do texto)|They infer|Deducen|מדייקים|Déduisent|Deducono|Выводят из текста|2
+דנו|1|danu|Julgaram; deduziram|They judged; inferred|Juzgaron|דנו|Jugèrent|Giudicarono|Судили; вывели|2
+מאוחר|1|me'uchar|Posterior; tardio|Later; late|Posterior|מאוחר|Tardif|Posteriore|Поздний|2
+לעילא|2|le'eila|Acima|Above|Arriba|למעלה|En haut|Sopra|Наверху|2
+קרון|1|karon|Carroça|Wagon|Carro|קרון|Chariot|Carro|Повозка|בקרון|2
+אוצרות|1|otzarot|Tesouros|Treasures|Tesoros|אוצרות|Trésors|Tesori|Сокровища|2
+ניצול|1|nitzol|Foi salvo|Was saved|Se salvó|ניצל|Fut sauvé|Fu salvato|Спасся|2
+אילמלי|1|ilmalei|Se não fosse|Were it not|Si no fuera|אלמלא|Si ce n’était|Se non fosse|Если бы не|2
+ילמוד|1|yilmod|Aprenderá|Will learn|Aprenderá|ילמד|Apprendra|Imparerà|Выучит|2
+צבע|1|tzeva|Cor; tinta|Color; dye|Color; tinte|צבע|Couleur|Colore|Цвет; краска|2
+סוריא|2|surya|Síria|Syria|Siria|סוריה|Syrie|Siria|Сирия|בסוריא|2
+גמירנא|2|gemirna|Aprendi (tenho tradição)|I learned|Aprendí|למדתי|J’ai appris|Ho imparato|Я учил|2
+לבש|1|lavash|Vestiu|Wore|Vistió|לבש|Revêtit|Indossò|Надел|ולבש|2
+אומד|1|omed|Estimativa|Estimate|Estimación|אומד|Estimation|Stima|Оценка|2
+כוזא|2|kuza|Jarro|Jug|Jarra|כד|Cruche|Brocca|Кувшин|2
+לישתרי|2|lishtrei|Que seja permitido|Let it be permitted|Que se permita|יותר|Qu’il soit permis|Sia permesso|Пусть будет разрешено|2
+חזקתן|1|chezkatan|Sua presunção|Their presumption|Su presunción|חזקתן|Leur présomption|La loro presunzione|Их презумпция|בחזקתן|2
+לחתום|1|lachtom|Assinar; selar|To sign; seal|Firmar|לחתום|Signer|Firmare|Подписать|2
+פרכינן|2|parchinan|Refutamos|We refute|Refutamos|מקשים|Nous réfutons|Confutiamo|Опровергаем|2
+שקלינהו|2|shaklinhu|Tomou-os|Took them|Los tomó|לקחם|Les prit|Li prese|Взял их|2
+עובדיה|1|ovadyah|Obadias|Obadiah|Abdías|עובדיה|Abdias|Abdia|Авдий|2
+רקק|1|rekak|Charco|Puddle|Charco|רקק|Flaque|Pozzanghera|Лужа|2
+נתפס|1|nitpas|Foi apanhado|Was caught|Fue atrapado|נתפס|Fut pris|Fu preso|Пойман|2
+מחוברין|1|mechubarin|Ligados|Attached|Unidos|מחוברים|Attachés|Attaccati|Соединённые|2
+משמר|1|meshamer|Guarda|Guards|Guarda|משמר|Garde|Custodisce|Охраняет|ומשמר|1
+שמירת|1|shmirat|Guarda de|Keeping of|Guarda de|שמירת|Garde de|Custodia di|Соблюдение|2
+מיתחזי|2|mitchazei|Parece|Appears|Parece|נראה|Paraît|Sembra|Кажется|2
+הפרש|1|hefresh|Diferença|Difference|Diferencia|הפרש|Différence|Differenza|Разница|2
+אורו|1|oro|Sua luz|His light|Su luz|אורו|Sa lumière|La sua luce|Его свет|2
+תלד|1|teled|Dará à luz|Will give birth|Dará a luz|תלד|Enfantera|Partorirà|Родит|1
+נפדתה|1|nifdatah|Foi resgatada|Was redeemed|Fue redimida|נפדתה|Fut rachetée|Fu riscattata|Выкуплена|2
+בעלתי|1|ba'alti|Coabitei|I had relations|Cohabité|בעלתי|J’ai eu rapport|Ho avuto rapporti|Я вступил в связь|2
+אפקיה|2|apkeih|Tirou-o|Took it out|Lo sacó|הוציאו|Le sortit|Lo tolse|Вынес его|דאפקיה|1
+הרוג|1|harug|Morto (assassinado)|Slain|Muerto|הרוג|Tué|Ucciso|Убитый|2
+כפרתן|1|kaparatan|Sua expiação|Their atonement|Su expiación|כפרתן|Leur expiation|La loro espiazione|Их искупление|2
+מעיל|1|me'il|Manto|Robe|Manto|מעיל|Manteau|Mantello|Мантия|2
+חיוב|1|chiyuv|Obrigação; culpa|Obligation; liability|Obligación|חיוב|Obligation|Obbligo|Обязанность|לחיוב|1
+כורא|2|kora|Kor (medida)|Kor (measure)|Kor|כור|Kor|Kor|Кор|2
+מתנתא|2|matanta|Presente|Gift|Regalo|מתנה|Cadeau|Dono|Подарок|2
+קערה|1|ke'arah|Tigela|Bowl|Cuenco|קערה|Bol|Ciotola|Миска|2
+לסוחטו|1|lesochato|Espremê-lo|To squeeze it|Exprimirlo|לסוחטו|Le presser|Spremerlo|Выжать его|2
+קשים|1|kashim|Difíceis; duros|Hard; difficult|Duros|קשים|Durs|Duri|Трудные; жёсткие|2
+מסרו|1|masro|Entregou-o|Handed it over|Lo entregó|מסרו|Le livra|Lo consegnò|Передал его|1
+מעשרות|1|ma'asrot|Dízimos|Tithes|Diezmos|מעשרות|Dîmes|Decime|Десятины|ומעשרות|1
+גפת|1|gefet|Bagaço (de azeitona)|Olive refuse|Orujo|גפת|Grignons|Sansa|Жмых|בגפת|2
+בישולו|1|bishulo|Seu cozimento|Its cooking|Su cocción|בישולו|Sa cuisson|La sua cottura|Его варка|3
+חוליות|1|chulyot|Vértebras; elos|Vertebrae; links|Vértebras|חוליות|Vertèbres|Vertebre|Позвонки|2
+לטלטלן|1|letaltelan|Movê-los|To move them|Moverlos|לטלטלן|Les déplacer|Spostarli|Передвигать их|2
+דפרזלא|2|defarzla|De ferro|Of iron|De hierro|של ברזל|De fer|Di ferro|Железный|פרזלא|2
+תענוג|1|ta'anug|Prazer|Delight|Placer|תענוג|Délice|Piacere|Наслаждение|2
+שרים|1|sarim|Príncipes; ministros|Princes; ministers|Príncipes|שרים|Princes|Principi|Князья|2
+חבלה|1|chavalah|Ferimento|Injury|Lesión|חבלה|Blessure|Lesione|Увечье|2
+אוריה|1|uriyah|Urias|Uriah|Urías|אוריה|Urie|Uria|Урия|2
+למיפק|2|lemifak|Sair|To go out|Salir|לצאת|Sortir|Uscire|Выйти|2
+אפנויי|2|ifnuyei|Ser livre (para analogia)|Being free (for analogy)|Estar libre|מופנה|Libre|Libero|Свободный (для вывода)|2
+מוך|1|moch|Algodão; tampão|Cotton; wad|Algodón|מוך|Coton|Bambagia|Вата; тампон|במוך|2
+פתו|1|pito|Seu pão|His bread|Su pan|פיתו|Son pain|Il suo pane|Его хлеб|1
+שיבבותיה|2|shivavuteih|Sua vizinhança|His neighborhood|Su vecindad|שכנותו|Son voisinage|Il suo vicinato|Его соседство|בשיבבותיה|2
+תרווד|1|tarvad|Concha (colher)|Ladle|Cucharón|תרווד|Louche|Mestolo|Черпак|3
+תורי|2|torei|Bois|Oxen|Bueyes|שוורים|Bœufs|Buoi|Волы|2
+אפוקי|2|apukei|Excluir|To exclude|Excluir|להוציא|Exclure|Escludere|Исключить|1
+איגרא|2|igra|Telhado|Roof|Techo|גג|Toit|Tetto|Крыша|לאיגרא|2
+שייליה|2|shayleih|Perguntou-lhe|Asked him|Le preguntó|שאלו|Lui demanda|Gli chiese|Спросил его|2
+תבר|2|tavar|Quebrou|Broke|Rompió|שבר|Brisa|Ruppe|Сломал|2
+תשמש|1|teshamesh|Servirá; usará|Will serve; use|Servirá|תשמש|Servira|Servirà|Будет служить|2
+נתרפא|1|nitrapei|Curou-se|Was healed|Se curó|נתרפא|Fut guéri|Guarì|Исцелился|2
+מאניה|2|maneih|Seus utensílios; suas roupas|His vessels; his garments|Sus utensilios|כליו; בגדיו|Ses ustensiles|I suoi utensili|Его вещи|2
+חידקא|2|chidka|Espinheiro|Thornbush|Espino|קוץ|Ronce|Rovo|Терновник|2
+מרפא|1|marpe|Cura|Healing|Curación|מרפא|Guérison|Guarigione|Исцеление|2
+נפדו|1|nifdu|Foram resgatados|Were redeemed|Fueron redimidos|נפדו|Furent rachetés|Furono riscattati|Выкуплены|2
+תרנגולתא|2|tarnegolta|Galinha|Hen|Gallina|תרנגולת|Poule|Gallina|Курица|2
+שחיטתה|1|shechitatah|Seu abate|Its slaughter|Su sacrificio|שחיטתה|Son abattage|La sua macellazione|Её убой|2
+אכלינן|2|achlinan|Comemos|We eat|Comemos|אוכלים|Nous mangeons|Mangiamo|Мы едим|2
+חתנו|1|chatano|Seu genro|His son-in-law|Su yerno|חתנו|Son gendre|Suo genero|Его зять|1
+לחמך|1|lachmecha|Teu pão|Your bread|Tu pan|לחמך|Ton pain|Il tuo pane|Твой хлеб|2
+מקור|1|makor|Fonte|Source|Fuente|מקור|Source|Fonte|Источник|2
+הזן|1|hazan|Que sustenta|Who sustains|Que sustenta|הזן|Qui nourrit|Che nutre|Питающий|2
+ראוה|1|ra'uha|Viram-na|They saw her|La vieron|ראוה|La virent|La videro|Увидели её|2
+תאני|2|tenei|Figos|Figs|Higos|תאנים|Figues|Fichi|Смоквы|2
+לויתי|1|laviti|Pedi emprestado|I borrowed|Pedí prestado|לוויתי|J’ai emprunté|Ho preso in prestito|Я занял|2
+דררא|2|derara|Razão; fundamento|Basis|Fundamento|יסוד|Fondement|Fondamento|Основание|3
+הייתם|1|heyitem|Fostes|You were|Fuisteis|הייתם|Vous étiez|Eravate|Вы были|2
+נתגייר|1|nitgayer|Converteu-se|Converted|Se convirtió|נתגייר|Se convertit|Si convertì|Обратился (в иудаизм)|ונתגייר|2
+מזונותיה|1|mezonoteha|Seu sustento|Her maintenance|Su manutención|מזונותיה|Son entretien|Il suo mantenimento|Её содержание|במזונותיה|2
+לפוטרו|1|lefotro|Isentá-lo|To exempt him|Eximirlo|לפוטרו|L’exempter|Esentarlo|Освободить его|2
+הוחזקו|1|huchzeku|Foram estabelecidos (presunção)|Were established|Fueron establecidos|הוחזקו|Furent établis|Furono stabiliti|Установлены|2
+גרשה|1|gershah|Divorciou-a|Divorced her|Se divorció de ella|גרשה|La divorça|La ripudiò|Развёлся с ней|וגרשה|2
+נשבית|1|nishbeit|Foi capturada|Was captured|Fue capturada|נשבתה|Fut capturée|Fu catturata|Взята в плен|2
+אייקר|2|iyakar|Encareceu|Became expensive|Se encareció|התייקר|Renchérit|Rincarò|Подорожало|2
+הלואתו|1|halva'ato|Seu empréstimo|His loan|Su préstamo|הלוואתו|Son prêt|Il suo prestito|Его заём|2
+שליחותיה|2|shlichuteih|Sua missão|His agency|Su mandato|שליחותו|Son mandat|Il suo mandato|Его поручение|2
+זביניה|2|zevineih|Sua compra; vendeu-o|His purchase|Su compra|קנייתו|Son achat|Il suo acquisto|Его покупка|2
+אפוטרופיא|1|apotropya|Tutela|Guardianship|Tutela|אפוטרופסות|Tutelle|Tutela|Опека|3
+פשרה|1|pesharah|Acordo; compromisso|Compromise|Compromiso|פשרה|Compromis|Compromesso|Компромисс|2
+קורטוב|1|kortov|Kortov (medida mínima)|Kortov (minimal measure)|Kortov|קורטוב|Kortov|Kortov|Кортов|2
+אבטינס|1|avtinas|Avtinas (casa do incenso)|Avtinas (incense house)|Avtinás|אבטינס|Avtinas|Avtinas|Авитнас|2
+אפוטרופא|1|apotropa|Tutor|Guardian|Tutor|אפוטרופוס|Tuteur|Tutore|Опекун|2
+חזנהו|2|chazanhu|Viu-os|Saw them|Los vio|ראם|Les vit|Li vide|Увидел их|2
+קריין|1|keraiyn|Leituras; poluções|Readings; emissions|Lecturas|קריין|Lectures|Letture|Чтения|2
+שהפקידו|1|shehifkidu|Que depositaram|That deposited|Que depositaron|שהפקידו|Qui déposèrent|Che depositarono|Которые сдали на хранение|2
+מכפרא|2|mechapra|Expia|Atones|Expía|מכפרת|Expie|Espia|Искупает|2
+זיכה|1|zikah|Fez adquirir; absolveu|Conferred; acquitted|Absolvió|זיכה|Fit acquérir; acquitta|Fece acquisire; assolse|Передал; оправдал|2
+מבליעו|1|mavli'o|Absorve-o|Absorbs it|Lo absorbe|מבליעו|L’absorbe|Lo assorbe|Поглощает его|2
+תתאי|2|tata'ei|Inferiores|Lower ones|Inferiores|תחתונים|Inférieurs|Inferiori|Нижние|1
+חסרונן|1|chesronan|Sua falta|Their lack|Su falta|חסרונן|Leur manque|La loro mancanza|Их недостаток|2
+זג|1|zag|Casca (da uva)|Grape skin|Hollejo|זג|Peau de raisin|Buccia|Кожица винограда|2
+מאדך|1|me'odecha|Teus bens; tua força|Your means; your might|Tus bienes|מאודך|Tes biens|I tuoi beni|Твоё достояние|2
+חנות|1|chanut|Loja|Shop|Tienda|חנות|Boutique|Negozio|Лавка|2
+שמשו|1|shamasho|Seu servo; seu sol|His attendant; his sun|Su sirviente|שמשו|Son serviteur|Il suo servitore|Его служитель|2
+הריעו|1|heri'u|Tocaram (alarme)|They sounded|Tocaron|הריעו|Sonnèrent|Suonarono|Протрубили|2
+חגיגת|1|chagigat|Oferenda festiva de|Festival offering of|Ofrenda festiva de|חגיגת|Offrande de fête de|Offerta festiva di|Праздничная жертва|2
+המחתה|1|hamachtah|A pá (de brasas)|The fire pan|La paleta|המחתה|La pelle|La paletta|Совок|2
+דיינינן|2|dayninan|Julgamos|We judge|Juzgamos|דנים|Nous jugeons|Giudichiamo|Судим|2
+יקלל|1|yekalel|Amaldiçoará|Will curse|Maldecirá|יקלל|Maudira|Maledirà|Проклянёт|2
+הכנענים|1|hakena'anim|Os cananeus|The Canaanites|Los cananeos|הכנענים|Les Cananéens|I Cananei|Ханаанеи|2
+תכא|2|taka|Mesa|Table|Mesa|שולחן|Table|Tavola|Стол|2
+הסיבה|1|hasibah|Reclinação; a causa|Reclining; the cause|Reclinación; la causa|הסבה; הסיבה|Accoudement|Reclinazione|Возлежание; причина|2
+מיכה|1|michah|Miqueias|Micah|Miqueas|מיכה|Michée|Michea|Михей|2
+ניתנין|1|nitanin|São aspergidos (dados)|Are placed (sprinkled)|Se rocían|ניתנים|Sont aspergés|Sono aspersi|Кропятся|בניתנין|1
+גוזמא|2|guzma|Exagero|Exaggeration|Exageración|גוזמה|Exagération|Esagerazione|Преувеличение|2
+ליחשוב|2|lichshov|Que conte; que considere|Let him count|Que cuente|יחשוב|Qu’il compte|Conti|Пусть считает|וליחשוב|2
+ארבה|1|arbeh|Gafanhoto|Locust|Langosta|ארבה|Sauterelle|Locusta|Саранча|2
+חותכה|1|chotchah|Corta-a|Cuts it|La corta|חותכה|La coupe|La taglia|Режет её|2
+מיגז|2|migaz|Cortar; tosquiar|To cut; shear|Cortar|לגזוז|Tondre|Tosare|Стричь|2

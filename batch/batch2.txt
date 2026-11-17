@@ -1,0 +1,137 @@
+על|1|al|Sobre; a respeito de; contra|On; about; against|Sobre; acerca de; contra|על; לגבי|Sur; à propos de; contre|Su; riguardo a; contro|На; о; против|1
+את|1|et|Com; (marca o objeto direto)|With; (direct-object marker)|Con; (marca el objeto directo)|את; עם|Avec; (marque du complément d’objet)|Con; (segna l’oggetto diretto)|С; (показатель прямого дополнения)|1
+לו|1|lo|Para ele; a ele|To him|A él; le|לו|À lui|A lui|Ему|1
+לה|1|lah|Para ela; a ela|To her|A ella; le|לה|À elle|A lei|Ей|1
+של|1|shel|De; pertencente a|Of; belonging to|De; perteneciente a|של|De; appartenant à|Di; appartenente a|Принадлежащий|1
+כי|1|ki|Porque; quando; pois|Because; when; for|Porque; cuando|כי|Parce que; quand|Perché; quando|Потому что; когда|1
+זה|1|zeh|Este; isto|This|Este; esto|זה|Celui-ci; ceci|Questo|Этот|1
+מה|1|mah|O quê; que|What|Qué|מה|Que; quoi|Che cosa|Что|1
+עד|1|ad|Até|Until|Hasta|עד|Jusqu’à|Fino a|До|1
+היא|1|hi|Ela é; ela|She; it is|Ella es; ella|היא|Elle est|Ella è; essa|Она|1
+מן|1|min|De; a partir de|From|De; desde|מן|De; depuis|Da|Из; от|1
+בין|1|bein|Entre|Between|Entre|בין|Entre|Tra|Между|1
+בית|1|bayit|Casa; Templo|House; Temple|Casa; Templo|בית|Maison; Temple|Casa; Tempio|Дом; Храм|1
+דבר|1|davar|Coisa; palavra; assunto|Thing; word; matter|Cosa; palabra; asunto|דבר|Chose; parole; affaire|Cosa; parola; questione|Вещь; слово; дело|1
+אחת|1|achat|Uma (feminino)|One (feminine)|Una (femenino)|אחת|Une|Una|Одна|1
+שני|1|sheni|Dois; segundo|Two; second|Dos; segundo|שני|Deux; deuxième|Due; secondo|Два; второй|1
+היה|1|hayah|Era; foi; havia|Was; there was|Era; fue; hubo|היה|Était; il y avait|Era; ci fu|Был|1
+אחר|1|acher|Outro; depois de|Another; after|Otro; después de|אחר|Autre; après|Altro; dopo|Другой; после|1
+מפני|1|mipnei|Por causa de; diante de|Because of; before|A causa de; ante|מפני|À cause de; devant|A causa di; davanti a|Из-за; перед|1
+כיון|2|keivan|Visto que; uma vez que|Since; once|Dado que; una vez que|כיוון ש|Puisque; dès que|Poiché; una volta che|Раз; поскольку|1
+יש|1|yesh|Há; existe|There is|Hay; existe|יש|Il y a|C’è; esiste|Есть|1
+קאמר|2|kamar|Diz; quer dizer|Says; means|Dice; quiere decir|אומר|Dit; veut dire|Dice; intende|Говорит; имеет в виду|1
+דמי|2|dami|É semelhante; parece|Is similar; resembles|Es similar; se parece|דומה|Est semblable|È simile|Подобен|1
+מר|2|mar|Mestre; senhor (tratamento respeitoso)|Master; sir (respectful address)|Maestro; señor|אדון; מר|Maître; monsieur|Maestro; signore|Учитель; господин|1
+דין|1|din|Lei; julgamento|Law; judgment|Ley; juicio|דין|Loi; jugement|Legge; giudizio|Закон; суд|1
+כך|1|kakh|Assim|So; thus|Así|כך|Ainsi|Così|Так|1
+אשר|1|asher|Que; o qual|Which; that|Que; el cual|אשר|Qui; lequel|Che; il quale|Который|1
+אני|1|ani|Eu|I|Yo|אני|Je|Io|Я|1
+כן|1|ken|Sim; assim|Yes; so|Sí; así|כן|Oui; ainsi|Sì; così|Да; так|1
+אותו|1|oto|Ele; isso (objeto)|Him; it|Lo; a él|אותו|Lui; le|Lo; lui|Его|1
+מעשה|1|ma'aseh|Ato; caso; incidente|Deed; incident|Acto; caso; incidente|מעשה|Acte; incident|Atto; caso|Дело; случай|1
+מקום|1|makom|Lugar|Place|Lugar|מקום|Lieu|Luogo|Место|1
+בעל|1|ba'al|Dono; marido|Owner; husband|Dueño; marido|בעל|Propriétaire; mari|Proprietario; marito|Хозяин; муж|1
+שתי|1|shtei|Duas|Two (f.)|Dos (f.)|שתי|Deux (f.)|Due (f.)|Две|1
+אלו|1|elu|Estes; estas|These|Estos; estas|אלו|Ceux-ci|Questi|Эти|1
+חד|2|chad|Um|One|Uno|אחד|Un|Uno|Один|1
+איש|1|ish|Homem; pessoa|Man; person|Hombre; persona|איש|Homme; personne|Uomo; persona|Человек; мужчина|1
+לפני|1|lifnei|Diante de; antes de|Before|Ante; antes de|לפני|Devant; avant|Davanti a; prima di|Перед; до|1
+אשה|1|isha|Mulher; esposa|Woman; wife|Mujer; esposa|אשה|Femme; épouse|Donna; moglie|Женщина; жена|1
+שנא|2|shena|É diferente; mudou|Differs; changed|Difiere; cambió|שונה|Diffère; a changé|Differisce; cambiò|Отличается|1
+שלשה|1|shlosha|Três|Three|Tres|שלושה|Trois|Tre|Три|1
+שם|1|shem|Nome; ali|Name; there|Nombre; allí|שם|Nom; là|Nome; lì|Имя; там|1
+חוץ|1|chutz|Fora; exceto|Outside; except|Fuera; excepto|חוץ|Dehors; sauf|Fuori; eccetto|Вне; кроме|1
+טוב|1|tov|Bom|Good|Bueno|טוב|Bon|Buono|Хороший|1
+לאחר|1|le'achar|Depois de|After|Después de|לאחר|Après|Dopo|После|1
+גדול|1|gadol|Grande|Big; great|Grande|גדול|Grand|Grande|Большой|1
+בא|1|ba|Vem; veio|Comes; came|Viene; vino|בא|Vient|Viene|Приходит|1
+בת|1|bat|Filha|Daughter|Hija|בת|Fille|Figlia|Дочь|1
+עשרה|1|asara|Dez|Ten|Diez|עשרה|Dix|Dieci|Десять|1
+דברים|1|devarim|Coisas; palavras|Things; words|Cosas; palabras|דברים|Choses; paroles|Cose; parole|Вещи; слова|1
+עם|1|im|Com|With|Con|עם|Avec|Con|С|1
+חכמים|1|chachamim|Os Sábios|The Sages|Los Sabios|חכמים|Les Sages|I Saggi|Мудрецы|1
+עשה|1|asah|Fez; fazer|Did; made|Hizo; hacer|עשה|A fait|Fece|Сделал|1
+ארבעה|1|arba'a|Quatro|Four|Cuatro|ארבעה|Quatre|Quattro|Четыре|1
+במקום|1|bimkom|No lugar de; em|In place of; in a place|En lugar de|במקום|À la place de|Al posto di|Вместо|1
+יצא|2|yatza|Saiu; cumpriu a obrigação|Went out; fulfilled (an obligation)|Salió; cumplió (la obligación)|יצא; יצא ידי חובה|Est sorti; s’est acquitté|Uscì; adempì|Вышел; исполнил обязанность|1
+זרה|1|zara|Estrangeira; (idolatria)|Foreign; (idolatry)|Extranjera; (idolatría)|זרה|Étrangère; (idolâtrie)|Straniera; (idolatria)|Чужая; (идолопоклонство)|1
+כמה|1|kama|Quanto? Quantos?|How many? How much?|¿Cuánto? ¿Cuántos?|כמה|Combien ?|Quanto? Quanti?|Сколько?|1
+עצמו|1|atzmo|Ele mesmo|Himself; itself|Él mismo|עצמו|Lui-même|Se stesso|Он сам|1
+תני|2|tani|Ensina! (imperativo)|Teach! (imperative)|¡Enseña!|שנה|Enseigne !|Insegna!|Учи!|1
+נתן|1|natan|Deu|Gave|Dio|נתן|A donné|Diede|Дал|1
+עבודה|1|avoda|Serviço; culto|Service; worship|Servicio; culto|עבודה|Service; culte|Servizio; culto|Служение; работа|1
+כתב|1|katav|Escreveu|Wrote|Escribió|כתב|A écrit|Scrisse|Написал|1
+ראשון|1|rishon|Primeiro|First|Primero|ראשון|Premier|Primo|Первый|1
+אוכל|1|ochel|Come; alimento|Eats; food|Come; alimento|אוכל|Mange; nourriture|Mangia; cibo|Ест; пища|1
+נאמר|1|ne'emar|Foi dito|Was said|Fue dicho|נאמר|A été dit|Fu detto|Было сказано|1
+עבד|1|eved|Servo; escravo|Servant; slave|Siervo; esclavo|עבד|Serviteur; esclave|Servo; schiavo|Раб; слуга|1
+לפי|1|lefi|De acordo com; porque|According to; because|Según; porque|לפי|Selon; parce que|Secondo; perché|Согласно; потому что|1
+קודם|1|kodem|Antes|Before|Antes|קודם|Avant|Prima|Прежде|1
+הכתוב|1|haketuv|O versículo; a Escritura|The verse; Scripture|El versículo; la Escritura|הכתוב|Le verset; l’Écriture|Il versetto; la Scrittura|Писание; стих|1
+עלה|1|alah|Subiu; (sobe ao altar)|Went up; ascended|Subió|עלה|Est monté|Salì|Поднялся|1
+כלי|1|keli|Utensílio; vaso|Vessel; utensil|Utensilio; vasija|כלי|Ustensile; récipient|Utensile; recipiente|Сосуд; утварь|1
+כלום|1|klum|Nada; algo|Anything; nothing|Algo; nada|כלום|Quelque chose; rien|Qualcosa; niente|Что-либо; ничего|1
+אמות|1|amot|Côvados (medida)|Cubits|Codos (medida)|אמות|Coudées|Cubiti|Локти|1
+אצל|1|etzel|Junto a|Beside; next to|Junto a|אצל|Auprès de|Presso|Рядом с|1
+גוי|1|goy|Não judeu; gentio|Non-Jew; gentile|No judío; gentil|גוי|Non-Juif; gentil|Non ebreo; gentile|Не еврей; язычник|1
+זמן|1|zman|Tempo; época|Time; period|Tiempo; época|זמן|Temps; époque|Tempo; epoca|Время|1
+הזה|1|hazeh|Este; deste|This|Este|הזה|Ce; cet|Questo|Этот|1
+בתוך|1|betoch|Dentro de|Within|Dentro de|בתוך|À l’intérieur de|All’interno di|Внутри|1
+דרך|1|derekh|Caminho; maneira|Way; manner|Camino; manera|דרך|Chemin; manière|Strada; modo|Путь; способ|1
+שור|1|shor|Boi|Ox|Buey|שור|Bœuf|Bue|Бык|1
+גברא|2|gavra|Homem; pessoa|Man; person|Hombre; persona|גבר; אדם|Homme; personne|Uomo; persona|Человек|1
+נזיר|2|nazir|Nazireu (que fez voto de abstinência)|Nazirite|Nazareo|נזיר|Nazir|Nazireo|Назир|1
+אשתו|1|ishto|A sua mulher|His wife|Su esposa|אשתו|Sa femme|Sua moglie|Его жена|1
+מצות|1|mitzvot|Mandamentos|Commandments|Mandamientos|מצוות|Commandements|Comandamenti|Заповеди|1
+למעלה|1|lemala|Acima; para cima|Above; upward|Arriba|למעלה|Au-dessus|Sopra|Выше; вверху|1
+בנו|1|beno|O seu filho|His son|Su hijo|בנו|Son fils|Suo figlio|Его сын|1
+שמן|1|shemen|Óleo|Oil|Aceite|שמן|Huile|Olio|Масло|1
+רשות|2|reshut|Domínio; permissão; opcional|Domain; permission; optional|Dominio; permiso; opcional|רשות|Domaine; permission; facultatif|Dominio; permesso; facoltativo|Владение; разрешение; необязательно|1
+מזבח|1|mizbeach|Altar|Altar|Altar|מזבח|Autel|Altare|Жертвенник|1
+אלמא|2|alma|Então; portanto (conclui-se)|Hence; therefore (it follows)|Entonces; por lo tanto|הרי ש; משמע|Donc; il s’ensuit|Dunque; ne consegue|Значит; следовательно|1
+שרי|2|shari|Permitido|Permitted|Permitido|מותר|Permis|Permesso|Разрешено|1
+לרבות|3|lerabot|Para incluir|To include|Para incluir|לרבות|Pour inclure|Per includere|Чтобы включить|1
+בעינן|3|be'inan|Exigimos; precisamos de|We require|Requerimos|אנו דורשים|Nous exigeons|Richiediamo|Мы требуем|1
+פירות|1|peirot|Frutos|Fruits|Frutos|פירות|Fruits|Frutti|Плоды|1
+שוה|2|shaveh|Igual; equivalente|Equal; equivalent|Igual; equivalente|שווה|Égal; équivalent|Uguale; equivalente|Равный|1
+מתקיף|3|matkif|Objeta|Objects|Objeta|מקשה|Objecte|Obietta|Возражает|2
+כנגד|1|keneged|Em frente de; contra|Opposite; against|Frente a; contra|כנגד|En face de; contre|Di fronte a; contro|Напротив; против|1
+מביא|1|mevi|Traz|Brings|Trae|מביא|Apporte|Porta|Приносит|1
+קנה|2|kana|Adquiriu; comprou|Acquired; bought|Adquirió; compró|קנה|A acquis; a acheté|Acquistò|Приобрёл|1
+הקדש|2|hekdesh|Bens consagrados ao Templo|Consecrated property|Bienes consagrados|הקדש|Biens consacrés|Beni consacrati|Освящённое имущество|1
+חייבין|2|chayavin|Obrigados; passíveis (plural)|Obligated; liable (pl.)|Obligados; sujetos (pl.)|חייבים|Obligés; passibles|Obbligati; passibili|Обязаны; подлежат|1
+הדר|2|hadar|Voltou; de novo|Returned; again|Volvió; de nuevo|חזר|Est revenu; de nouveau|Tornò; di nuovo|Вернулся; снова|1
+מנלן|3|manalan|De onde sabemos isto?|From where do we know this?|¿De dónde lo sabemos?|מנין לנו|D’où le savons-nous ?|Da dove lo sappiamo?|Откуда мы это знаем?|1
+יודע|1|yodea|Sabe|Knows|Sabe|יודע|Sait|Sa|Знает|1
+עולם|1|olam|Mundo; eternidade|World; eternity|Mundo; eternidad|עולם|Monde; éternité|Mondo; eternità|Мир; вечность|1
+קטן|1|katan|Menor; pequeno|Minor; small|Menor; pequeño|קטן|Mineur; petit|Minore; piccolo|Малолетний; малый|1
+מיתה|2|mita|Morte; pena de morte|Death; capital punishment|Muerte; pena de muerte|מיתה|Mort; peine de mort|Morte; pena capitale|Смерть; смертная казнь|1
+איבעיא|3|ibaya|Foi colocada a questão|A question was asked|Se planteó la pregunta|נשאלה שאלה|Une question fut posée|Fu posta la domanda|Был задан вопрос|1
+קמיפלגי|3|kamiplagi|Em que discordam?|What do they disagree about?|¿En qué discrepan?|במה הם חלוקים|Sur quoi divergent-ils ?|Su cosa dissentono?|В чём они расходятся?|1
+להלן|2|lehalan|Abaixo; mais adiante|Below; further on|Más abajo|להלן|Plus loin|Più avanti|Ниже; далее|1
+דאורייתא|2|de'oraita|Da Torá (de lei bíblica)|From the Torah (biblical law)|De la Torá (ley bíblica)|מן התורה|De la Torah (loi biblique)|Dalla Torà (legge biblica)|Из Торы (библейский закон)|1
+דרבנן|2|derabanan|Dos Sábios (de lei rabínica)|Of the Sages (rabbinic law)|De los Sabios (ley rabínica)|מדרבנן|Des Sages (loi rabbinique)|Dei Saggi (legge rabbinica)|От мудрецов (раввинский закон)|1
+מעיקרא|3|me'ikara|Originalmente; no início|Originally; at first|Originalmente|מעיקרא|À l’origine|In origine|Первоначально|1
+שבועה|2|shevua|Juramento|Oath|Juramento|שבועה|Serment|Giuramento|Клятва|1
+מום|2|mum|Defeito físico (em animal ou sacerdote)|Blemish|Defecto|מום|Défaut; tare|Difetto|Изъян|1
+כסף|1|kesef|Prata; dinheiro|Silver; money|Plata; dinero|כסף|Argent|Argento; denaro|Серебро; деньги|1
+כלל|2|klal|Regra geral|General rule|Regla general|כלל|Règle générale|Regola generale|Общее правило|1
+חלב|2|chelev|Gordura (proibida); leite|Forbidden fat; milk|Grasa (prohibida); leche|חלב|Graisse (interdite); lait|Grasso (proibito); latte|Жир (запретный); молоко|1
+איסור|1|isur|Proibição|Prohibition|Prohibición|איסור|Interdiction|Divieto|Запрет|1
+למעוטי|3|lema'uti|Para excluir|To exclude|Para excluir|למעט|Pour exclure|Per escludere|Чтобы исключить|1
+קאי|2|kai|Está de pé; refere-se a|Stands; refers to|Está de pie; se refiere a|עומד; מתייחס|Se tient; se rapporte à|Sta; si riferisce a|Стоит; относится к|1
+נשים|1|nashim|Mulheres|Women|Mujeres|נשים|Femmes|Donne|Женщины|1
+תרתי|3|tarti|Duas (coisas)|Two (things)|Dos (cosas)|שתיים|Deux (choses)|Due (cose)|Две (вещи)|1
+חדש|1|chodesh|Mês; novo|Month; new|Mes; nuevo|חודש; חדש|Mois; nouveau|Mese; nuovo|Месяц; новый|1
+שחיטה|2|shechita|Abate ritual|Ritual slaughter|Sacrificio ritual|שחיטה|Abattage rituel|Macellazione rituale|Ритуальный убой|1
+שדה|1|sadeh|Campo|Field|Campo|שדה|Champ|Campo|Поле|1
+בתר|2|batar|Depois de; segundo|After; following|Después de; según|אחר|Après; suivant|Dopo; seguendo|После; следуя|1
+תנאי|2|tenai|Condição|Condition|Condición|תנאי|Condition|Condizione|Условие|1
+בכור|2|bechor|Primogénito|Firstborn|Primogénito|בכור|Premier-né|Primogenito|Первенец|1
+אשם|2|asham|Oferenda de culpa|Guilt offering|Ofrenda por la culpa|אשם|Sacrifice de culpabilité|Sacrificio di colpa|Жертва повинности|1
+ועוד|1|ve'od|E ainda; além disso|And also; moreover|Y además|ועוד|Et aussi|E inoltre|И ещё|1
+כוותיה|3|kevateih|Como ele; segundo a sua opinião|Like him; in accordance with him|Como él|כמוהו|Comme lui|Come lui|Как он|1
+איתיביה|3|itivei|Objetou-lhe|He objected to him|Le objetó|הקשה לו|Il lui objecta|Gli obiettò|Возразил ему|1
+רמי|3|rami|Contrapõe (duas fontes)|Contradicts; sets one against another|Contrapone|מקשה; סותר|Oppose|Contrappone|Противопоставляет|1
+הלכתא|2|halkheta|A norma prática (halachá)|The halakhic ruling|La norma práctica|ההלכה|La règle pratique|La norma pratica|Галахическое решение|1
+חצי|1|chatzi|Metade|Half|Mitad|חצי|Moitié|Metà|Половина|1

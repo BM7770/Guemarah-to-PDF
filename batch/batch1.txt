@@ -1,0 +1,181 @@
+אמר|1|amar|Disse; diz|Said; says|Dijo; dice|אמר|Dit|Disse; dice|Сказал; говорит|1
+אמר ליה|1|amar leih|Disse-lhe|Said to him|Le dijo|אמר לו|Lui dit|Gli disse|Сказал ему|1
+לא|1|lo|Não|No; not|No|לא|Non; ne… pas|Non|Не; нет|1
+ליה|1|leih|A ele; para ele|To him|A él; le|לו|À lui|A lui; gli|Ему|1
+אלא|1|ela|Mas sim; a não ser que|But rather; except|Sino; salvo que|אלא; כי אם|Mais plutôt; sauf|Ma piuttosto; salvo che|Но скорее; кроме|1
+מאי|1|mai|O quê? Qual?|What?|¿Qué? ¿Cuál?|מה?|Quoi ? Quel ?|Che cosa? Quale?|Что? Какой?|1
+הוא|1|hu|Ele; aquele|He; that one|Él; aquel|הוא|Il; celui-là|Egli; quello|Он; тот|1
+אין|1|ein|Não há; não|There is not; not|No hay; no|אין|Il n’y a pas|Non c’è; non|Нет; не|1
+אומר|1|omer|Diz|Says|Dice|אומר|Dit|Dice|Говорит|1
+כל|1|kol|Todo; qualquer|Every; all; any|Todo; cualquier|כל|Tout; chaque|Ogni; tutto|Весь; каждый|1
+נמי|1|nami|Também; igualmente|Also; likewise|También|גם|Aussi|Anche|Тоже; также|1
+הא|1|ha|Eis; isto; esta|Behold; this|He aquí; esto|הנה; זה|Voici; ceci|Ecco; questo|Вот; это|1
+אי|1|i|Se|If|Si|אם|Si|Se|Если|1
+אבל|1|aval|Mas; porém|But; however|Pero|אבל|Mais|Ma|Но|1
+משום|1|mishum|Por causa de; em nome de|Because of; in the name of|A causa de; en nombre de|בגלל; בשם|À cause de; au nom de|A causa di; a nome di|Из-за; от имени|1
+הכי|1|hachi|Assim; deste modo|So; thus|Así; de este modo|כך|Ainsi|Così|Так; таким образом|1
+או|1|o|Ou|Or|O|או|Ou|O|Или|1
+אף|1|af|Também; até mesmo|Also; even|También; incluso|גם; אפילו|Aussi; même|Anche; persino|Также; даже|1
+אם|1|im|Se|If|Si|אם|Si|Se|Если|1
+אחד|1|echad|Um|One|Uno|אחד|Un|Uno|Один|1
+אפילו|1|afilu|Mesmo; até|Even|Incluso; aun|אפילו|Même|Persino|Даже|1
+אינו|1|eino|Não é|Is not|No es|אינו|N’est pas|Non è|Не является|1
+הכא|1|hacha|Aqui|Here|Aquí|כאן|Ici|Qui|Здесь|1
+התם|1|hatam|Ali; lá|There|Allí|שם|Là-bas|Lì|Там|1
+לומר|1|lomar|Dizer|To say|Decir|לומר|Dire|Dire|Сказать|1
+למימר|2|lemeimar|Dizer; para dizer|To say|Decir|לומר|Dire|Dire|Сказать|1
+הרי|1|harei|Eis; de fato|Behold; indeed|He aquí|הרי|Voici; en effet|Ecco; infatti|Вот; ведь|1
+אמרו|1|amru|Disseram|They said|Dijeron|אמרו|Ils ont dit|Dissero|Сказали|1
+אמרי|2|amri|Dizem|They say|Dicen|אומרים|Ils disent|Dicono|Говорят|1
+אמרינן|2|amrinan|Dizemos|We say|Decimos|אנו אומרים|Nous disons|Diciamo|Мы говорим|1
+כגון|1|kegon|Por exemplo|For example|Por ejemplo|כגון|Par exemple|Per esempio|Например|1
+כיצד|1|keitzad|Como? De que forma?|How? In what way?|¿Cómo? ¿De qué manera?|כיצד|Comment ?|Come?|Как?|1
+למה|1|lama|Por quê?|Why?|¿Por qué?|למה|Pourquoi ?|Perché?|Почему?|1
+אמאי|2|amai|Por que razão?|Why?|¿Por qué razón?|מדוע|Pourquoi ?|Perché?|Почему?|1
+הכל|1|hakol|Tudo; todos|Everything; everyone|Todo; todos|הכל|Tout; tous|Tutto; tutti|Всё; все|1
+אסור|1|asur|Proibido|Forbidden|Prohibido|אסור|Interdit|Vietato|Запрещено|1
+מותר|1|mutar|Permitido|Permitted|Permitido|מותר|Permis|Permesso|Разрешено|1
+פטור|1|patur|Isento (de obrigação ou pena)|Exempt|Exento|פטור|Exempt|Esente|Освобождён|1
+חייב|2|chayav|Obrigado; passível de pena ou oferenda|Obligated; liable|Obligado; sujeto a pena|חייב|Obligé; passible|Obbligato; passibile|Обязан; подлежит наказанию|1
+כשר|1|kasher|Apto; válido|Fit; valid|Apto; válido|כשר|Apte; valide|Idoneo; valido|Годный|1
+פסול|2|pasul|Inválido; impróprio|Invalid; disqualified|Inválido|פסול|Invalide|Invalido|Непригодный|1
+טמא|1|tamei|Ritualmente impuro|Ritually impure|Ritualmente impuro|טמא|Rituellement impur|Rituale impuro|Ритуально нечистый|1
+טהור|1|tahor|Ritualmente puro|Ritually pure|Ritualmente puro|טהור|Rituellement pur|Rituale puro|Ритуально чистый|1
+צריך|1|tzarikh|Precisa; é necessário|Needs; must|Necesita; es necesario|צריך|A besoin; doit|Ha bisogno; deve|Нужно; должен|1
+כדי|1|kedei|Para; a fim de; o suficiente|In order to; enough|Para; lo suficiente|כדי|Afin de; assez pour|Per; abbastanza per|Чтобы; достаточно для|1
+הלכה|1|halakha|Lei prática (halachá)|Halakha; law|Halajá; ley|הלכה|Halakha|Halakhà|Галаха|1
+מצוה|1|mitzva|Mandamento|Commandment|Mandamiento|מצווה|Commandement|Comandamento|Заповедь|1
+תורה|1|torah|Torá|Torah|Torá|תורה|Torah|Torah|Тора|1
+שבת|1|shabat|Shabat; sábado|Shabbat; Sabbath|Shabat; sábado|שבת|Chabbat|Shabbat|Шаббат|1
+יום|1|yom|Dia|Day|Día|יום|Jour|Giorno|День|1
+אדם|1|adam|Pessoa; ser humano|Person; man|Persona; hombre|אדם|Personne; homme|Persona; uomo|Человек|1
+ישראל|1|yisrael|Israel; israelita|Israel; an Israelite|Israel; israelita|ישראל|Israël; un Israélite|Israele; israelita|Израиль; израильтянин|1
+כהן|1|kohen|Sacerdote (cohen)|Priest (kohen)|Sacerdote (cohen)|כהן|Prêtre (cohen)|Sacerdote (kohen)|Коэн (священник)|1
+בהמה|1|behema|Animal; gado|Animal; cattle|Animal; ganado|בהמה|Animal; bétail|Animale; bestiame|Скот|1
+דם|1|dam|Sangue|Blood|Sangre|דם|Sang|Sangue|Кровь|1
+בשר|1|basar|Carne|Meat; flesh|Carne|בשר|Viande; chair|Carne|Мясо; плоть|1
+מת|1|met|Morto|Dead (person)|Muerto|מת|Mort|Morto|Мёртвый|1
+יין|1|yayin|Vinho|Wine|Vino|יין|Vin|Vino|Вино|1
+מים|1|mayim|Água|Water|Agua|מים|Eau|Acqua|Вода|1
+עדים|1|edim|Testemunhas|Witnesses|Testigos|עדים|Témoins|Testimoni|Свидетели|1
+טומאה|1|tum'a|Impureza ritual|Ritual impurity|Impureza ritual|טומאה|Impureté rituelle|Impurità rituale|Ритуальная нечистота|1
+דברי|1|divrei|Palavras de; opinião de|Words of; opinion of|Palabras de; opinión de|דברי|Paroles de; avis de|Parole di; opinione di|Слова; мнение|1
+על פי|1|al pi|Segundo; conforme|According to; by|Según; conforme a|על פי|Selon|Secondo|Согласно|1
+אם כן|1|im ken|Se assim for; então|If so; then|Si es así; entonces|אם כן|Si c’est ainsi; alors|Se è così; allora|Если так|1
+ואחר כך|1|ve'achar kakh|E depois|And afterwards|Y después|ואחר כך|Et ensuite|E poi|А потом|1
+בית דין|1|beit din|Tribunal rabínico|Rabbinic court|Tribunal rabínico|בית דין|Tribunal rabbinique|Tribunale rabbinico|Раввинский суд|1
+הרי זה|1|harei zeh|Eis que este (é)|Behold, this is|He aquí que este es|הרי זה|Voilà que c’est|Ecco, questo è|Вот это|1
+על גבי|1|al gabei|Sobre; em cima de|On; on top of|Sobre; encima de|על גבי|Sur|Sopra|На; поверх|1
+מאי טעמא|1|mai ta'ama|Qual é a razão?|What is the reason?|¿Cuál es la razón?|מה הטעם?|Quelle en est la raison ?|Qual è il motivo?|В чём причина?|1
+קא|3|ka|Partícula do presente (está a fazer)|Verbal particle of the present (is doing)|Partícula de presente (está haciendo)|מילית הווה (עושה כעת)|Particule du présent (est en train de)|Particella del presente (sta facendo)|Частица настоящего времени (делает сейчас)|1
+לאו|2|lav|Não é; acaso não?|Is it not?|¿Acaso no?|לא; הלא|N’est-ce pas ?|Non è forse?|Разве не?|1
+שנאמר|2|shene'emar|Como está dito|As it is said|Como se dice|שנאמר|Comme il est dit|Come è detto|Как сказано|1
+שמע|2|shma|Ouve; aprende; infere|Hear; learn; infer|Oye; aprende; deduce|שמע; למד|Écoute; apprends; déduis|Ascolta; apprendi; deduci|Услышь; выведи|1
+דכתיב|2|dichtiv|Como está escrito|As it is written|Como está escrito|כמו שכתוב|Comme il est écrit|Come è scritto|Как написано|1
+כתיב|2|ketiv|Está escrito|It is written|Está escrito|כתוב|Il est écrit|È scritto|Написано|1
+והא|2|veha|E eis que; mas isto…|But behold…|Pero he aquí…|והנה; והרי|Or voici…|Ma ecco…|Но вот…|1
+טעמא|2|ta'ama|Razão; motivo|Reason|Razón; motivo|טעם|Raison; motif|Motivo; ragione|Причина|1
+הוה|2|havah|Era; foi|Was|Era; fue|היה|Était|Era|Был|1
+סבר|2|savar|Pensa; é da opinião|Holds; is of the opinion|Opina; sostiene|סבור|Pense; est d’avis|Pensa; è dell’opinione|Считает|1
+אימא|2|eima|Diz; suponha|Say; suppose|Di; supón|אמור; תאמר|Dis; suppose|Dì; supponi|Скажи; допустим|1
+איכא|2|ika|Há; existe|There is|Hay; existe|יש|Il y a|C’è; esiste|Есть|1
+תנא|2|tana|Um tana; ensinou|A Tanna; taught|Un tana; enseñó|תנא; לימד|Un tanna; a enseigné|Un tanna; insegnò|Танна; учил|1
+תניא|2|tanya|Foi ensinado (numa baraita)|It was taught (in a baraita)|Se enseñó (en una baraita)|שנינו בברייתא|Il a été enseigné (dans une baraïta)|È stato insegnato (in una baraita)|Было учено (в барайте)|1
+תנן|2|tanan|Aprendemos (na Mishná)|We learned (in the Mishnah)|Aprendimos (en la Mishná)|שנינו (במשנה)|Nous avons appris (dans la Michna)|Abbiamo imparato (nella Mishnà)|Мы изучали (в Мишне)|1
+קתני|2|katani|Ensina (a Mishná ou baraita)|(It) teaches|Enseña|שונה|Enseigne|Insegna|Учит|1
+מתני|2|matni|Mishná|Mishnah|Mishná|משנה|Michna|Mishnà|Мишна|מתני;מתניתין|1
+קשיא|2|kashya|É difícil; objeção|It is difficult; an objection|Es difícil; objeción|קשה|C’est difficile; objection|È difficile; obiezione|Трудность; возражение|1
+משמע|2|mashma|Implica; entende-se|Implies; it is understood|Implica; se entiende|משמע|Il ressort; implique|Implica; si deduce|Подразумевает; следует|1
+מהו|2|mahu|O que é? Qual é a lei?|What is (the law)?|¿Cuál es (la ley)?|מה דינו?|Quel est (le statut) ?|Qual è (la norma)?|Каков закон?|1
+לעולם|2|le'olam|Sempre; na verdade (mantém a posição)|Always; in truth|Siempre; en realidad|תמיד; באמת|Toujours; en réalité|Sempre; in realtà|Всегда; на самом деле|1
+היכי|2|heichi|Como?|How?|¿Cómo?|איך|Comment ?|Come?|Как?|1
+היכא|2|heicha|Onde?|Where?|¿Dónde?|איפה|Où ?|Dove?|Где?|1
+בעי|2|ba'ei|Pergunta; quer|Asks; wants|Pregunta; quiere|שואל; רוצה|Demande; veut|Chiede; vuole|Спрашивает; хочет|1
+רחמנא|2|rachmana|O Misericordioso (a Torá ou D’us)|The Merciful One (the Torah or God)|El Misericordioso|הרחמן|Le Miséricordieux|Il Misericordioso|Милосердный|1
+הני|2|hanei|Estes|These|Estos|אלה|Ceux-ci|Questi|Эти|1
+גבי|2|gabei|A respeito de; junto a|Regarding; next to|Respecto a; junto a|לגבי|À propos de; auprès de|Riguardo a; accanto a|Относительно|1
+שכן|2|shekhen|Porque; pois|Because; since|Porque; puesto que|שכן|Car; puisque|Poiché|Потому что|1
+יכול|2|yakhol|Poder-se-ia pensar|One might think|Podría pensarse|יכול|On pourrait penser|Si potrebbe pensare|Можно подумать|1
+ההוא|2|hahu|Aquele; certo|That; a certain|Aquel; cierto|אותו|Ce; un certain|Quel; un certo|Тот; некий|1
+דלמא|2|dilma|Talvez|Perhaps|Quizás|אולי|Peut-être|Forse|Возможно|דלמא;דילמא|1
+צריכא|3|tzrikha|Era necessário (ensinar ambos)|It was necessary|Era necesario|צריכא|C’était nécessaire|Era necessario|Было необходимо|1
+בשלמא|2|bishlama|Compreende-se bem que…|It is well understood that…|Está bien que…|נניח ש…|Passe encore que…|Si capisce bene che…|Хорошо, что…|1
+שאני|2|shani|É diferente|Is different|Es diferente|שונה|Est différent|È diverso|Отличается|1
+מאן|2|man|Quem?|Who?|¿Quién?|מי|Qui ?|Chi?|Кто?|1
+מיניה|2|minei|Dele; a partir dele|From him|De él|ממנו|De lui|Da lui|От него|1
+מינה|2|minah|Dela; disso|From it|De ella; de eso|ממנה|D’elle; de cela|Da essa; da ciò|Из этого|1
+היינו|2|heinu|Isto é; é o mesmo que|That is; the same as|Es decir; es lo mismo que|זהו; זה אותו דבר|C’est-à-dire; c’est la même chose|Cioè; è lo stesso di|То есть|1
+אתא|2|ata|Veio|Came|Vino|בא|Est venu|Venne|Пришёл|1
+אמינא|2|amina|Eu diria|I would say|Yo diría|הייתי אומר|Je dirais|Direi|Я бы сказал|1
+תימא|2|tima|Dirás; se disseres|You say; if you say|Digas; si dices|תאמר|Tu dis|Dici|Скажешь|1
+סלקא|3|salka|Sobe (à mente)|Goes up (comes to mind)|Sube (a la mente)|עולה|Monte|Sale|Приходит на ум|1
+פליגי|2|pligi|Discordam|They disagree|Discrepan|חולקים|Sont en désaccord|Sono in disaccordo|Расходятся во мнениях|1
+למאן|2|leman|Para quem? Segundo quem?|For whom? According to whom?|¿Para quién? ¿Según quién?|למי|Pour qui ?|Per chi?|Для кого?|1
+כמאן|2|kemen|Segundo quem?|According to whom?|¿Según quién?|כמי|Selon qui ?|Secondo chi?|По мнению кого?|1
+מילי|2|milei|Coisas; assuntos|Matters; things|Asuntos; cosas|דברים|Choses; affaires|Cose; questioni|Дела; вещи|1
+מילתא|2|milta|Assunto; coisa|Matter; thing|Asunto; cosa|דבר|Chose; affaire|Cosa; questione|Дело; вещь|1
+במאי|2|bemai|Em quê? Com quê?|In what?|¿En qué?|במה|En quoi ?|In che cosa?|В чём?|1
+מנין|2|minayin|De onde (sabemos)?|From where (do we know)?|¿De dónde (lo sabemos)?|מנין|D’où (le savons-nous) ?|Da dove (lo sappiamo)?|Откуда мы знаем?|1
+מנא|2|mena|De onde?|From where?|¿De dónde?|מנין|D’où ?|Da dove?|Откуда?|1
+אילימא|3|eilima|Se disseres que…|If you say that…|Si dices que…|אם תאמר ש…|Si tu dis que…|Se dici che…|Если скажешь, что…|1
+השתא|2|hashta|Agora|Now|Ahora|עכשיו|Maintenant|Ora|Сейчас|1
+והתניא|3|vehatanya|Mas não foi ensinado?|But was it not taught?|¿Pero no se enseñó?|והלא שנינו בברייתא|Mais n’a-t-on pas enseigné ?|Ma non è stato insegnato?|Но разве не учили?|1
+הואיל|2|hoil|Visto que; já que|Since; because|Ya que|הואיל|Puisque|Dato che|Поскольку|1
+שמא|2|shema|Talvez; para que não|Perhaps; lest|Quizás; no sea que|שמא|Peut-être; de peur que|Forse; affinché non|Возможно; как бы не|1
+פשיטא|2|peshita|É evidente|It is obvious|Es obvio|פשוט|C’est évident|È ovvio|Очевидно|1
+סיפא|2|seifa|A segunda parte do texto|The latter clause|La segunda parte|סיפא|La seconde partie|La seconda parte|Последняя часть|1
+רישא|2|reisha|A primeira parte do texto|The first clause|La primera parte|רישא|La première partie|La prima parte|Первая часть|1
+לימא|2|leima|Digamos; acaso diremos|Shall we say|Digamos|האם נאמר|Dirons-nous|Diremo forse|Скажем ли|1
+מידי|2|midi|Algo; (pergunta retórica)|Anything; (rhetorical)|Algo; (retórico)|משהו|Quelque chose|Qualcosa|Что-либо|1
+עלמא|2|alma|Mundo; todos (na discussão)|World; everyone|Mundo; todos|עולם; כולם|Monde; tous|Mondo; tutti|Мир; все|1
+עסקינן|3|askinan|Estamos a tratar de|We are dealing with|Tratamos de|עוסקים|Nous traitons de|Ci occupiamo di|Мы имеем дело с|1
+איתמר|3|itmar|Foi dito|It was said|Se dijo|נאמר|Il a été dit|È stato detto|Было сказано|1
+תרי|2|tarei|Dois|Two|Dos|שניים|Deux|Due|Два|1
+משמיה|3|mishmei|Em nome dele|In his name|En su nombre|בשמו|En son nom|A suo nome|От его имени|1
+נינהו|3|ninhu|Eles são|They are|Ellos son|הם|Ils sont|Sono|Они являются|1
+קמיה|3|kamei|Diante dele|Before him|Ante él|לפניו|Devant lui|Davanti a lui|Перед ним|1
+ספק|2|safek|Dúvida|Doubt|Duda|ספק|Doute|Dubbio|Сомнение|1
+והאמר|3|vehaamar|Mas não disse…?|But did he not say…?|¿Pero no dijo…?|והלא אמר|Mais n’a-t-il pas dit… ?|Ma non ha detto…?|Но разве не сказал…?|1
+מיתיבי|3|meitivei|Objetaram|They raised an objection|Objetaron|הקשו|Ils ont objecté|Obiettarono|Возразили|1
+קסבר|3|kasavar|Sustenta que; é da opinião|He holds that|Sostiene que|סבור ש|Il soutient que|Ritiene che|Он считает, что|1
+מכלל|3|mikelal|Por inferência de|By inference from|Por inferencia de|מכלל|Par déduction de|Per deduzione da|Из этого следует|1
+אפשר|2|efshar|É possível|It is possible|Es posible|אפשר|C’est possible|È possibile|Возможно|1
+לית|3|leit|Não há|There is not|No hay|אין|Il n’y a pas|Non c’è|Нет|1
+מיבעי|3|mibai|Era necessário (dizer)|Was needed (to say)|Era necesario (decir)|היה צריך|Il fallait (dire)|Era necessario (dire)|Нужно было|1
+נפקא|3|nafka|Deriva-se; sai|Is derived; goes out|Se deriva; sale|נלמד; יוצא|Est déduit; sort|Si ricava; esce|Выводится|1
+קרא|2|kra|O versículo|The verse|El versículo|הפסוק|Le verset|Il versetto|Стих|1
+בינייהו|3|beinaihu|Entre eles|Between them|Entre ellos|ביניהם|Entre eux|Tra loro|Между ними|2
+תא שמע|2|ta shma|Vem e ouve (introduz uma prova)|Come and hear (introduces a proof)|Ven y escucha (introduce una prueba)|בוא ושמע (מביא ראיה)|Viens et écoute (apporte une preuve)|Vieni e ascolta (introduce una prova)|Приди и услышь (приводит доказательство)|1
+תלמוד לומר|2|talmud lomar|A Torá ensina (diz o versículo)|The verse teaches|El versículo enseña|תלמוד לומר|Le verset enseigne|Il versetto insegna|Писание учит|1
+תנו רבנן|2|tanu rabanan|Ensinaram os Sábios (introduz uma baraita)|Our Rabbis taught (introduces a baraita)|Enseñaron los Sabios (introduce una baraita)|שנו חכמים|Nos Maîtres ont enseigné|Insegnarono i Maestri|Учили наши мудрецы|1
+משמע לן|2|mashma lan|Vem ensinar-nos|It comes to teach us|Nos viene a enseñar|בא ללמדנו|Cela vient nous enseigner|Viene a insegnarci|Это учит нас|משמע לן;קא משמע לן|1
+שמע מינה|2|shma mina|Conclui-se daqui|Learn from this; conclude|De esto se deduce|למד מכאן|On en déduit|Se ne deduce|Из этого следует|1
+אף על פי|2|af al pi|Embora; ainda que|Although|Aunque|אף על פי|Bien que|Sebbene|Хотя|1
+אף על גב|2|af al gav|Embora; ainda que|Although|Aunque|אף על גב|Bien que|Sebbene|Хотя|1
+סלקא דעתך|3|salka da'atakh|Poderias pensar|You might think|Podrías pensar|יעלה על דעתך|Tu pourrais penser|Potresti pensare|Ты мог бы подумать|1
+סלקא דעתך אמינא|3|salka da'atakh amina|Poderia pensar-se que…|I might have thought that…|Habría pensado que…|הייתי חושב ש…|J’aurais pensé que…|Avrei pensato che…|Я мог бы подумать, что…|1
+אי הכי|2|i hachi|Se assim for|If so|Si es así|אם כך|Si c’est ainsi|Se è così|Если так|1
+למאן דאמר|3|leman de'amar|Segundo quem diz (a opinião de)|According to the one who says|Según quien dice|לדעת מי שאומר|Selon celui qui dit|Secondo chi dice|По мнению того, кто говорит|1
+לא קשיא|2|lo kashya|Não há dificuldade|There is no difficulty|No hay dificultad|אין קושי|Il n’y a pas de difficulté|Non c’è difficoltà|Нет трудности|1
+הקדוש ברוך הוא|2|hakadosh barukh hu|O Santo, bendito seja Ele|The Holy One, blessed be He|El Santo, bendito sea|הקדוש ברוך הוא|Le Saint, béni soit-Il|Il Santo, benedetto Egli sia|Святой, благословен Он|1
+למה לי|2|lama li|Para que preciso disso?|Why do I need it?|¿Para qué lo necesito?|למה לי|À quoi bon ?|A che serve?|Зачем это нужно?|1
+הכי נמי|2|hachi nami|Assim também; de fato|So too; indeed|Así también; en efecto|כך גם; אכן|De même; en effet|Così pure; infatti|Так и есть|הכי נמי;הכא נמי|1
+אמר קרא|2|amar kra|O versículo diz|The verse says|El versículo dice|אמר הכתוב|Le verset dit|Il versetto dice|Сказано в стихе|1
+הני מילי|3|hanei milei|Isto só foi dito quando…|This applies only when…|Esto solo se aplica cuando…|דבר זה נאמר רק כאשר|Cela n’est dit que lorsque…|Questo vale solo quando…|Это сказано только когда…|1
+הכי קאמר|2|hachi kamar|Assim ele quer dizer|This is what he means|Esto es lo que quiere decir|כך הוא אומר|Voici ce qu’il veut dire|Questo è ciò che intende|Вот что он имеет в виду|1
+מאי לאו|3|mai lav|Acaso não (é que)…?|Is it not (that)…?|¿Acaso no (es que)…?|האם לא|N’est-ce pas… ?|Non è forse…?|Разве не…?|1
+או דלמא|3|o dilma|Ou talvez|Or perhaps|O quizás|או שמא|Ou peut-être|O forse|Или, может быть|1
+היכי דמי|2|heichi dami|Em que caso? Como é?|In what case?|¿En qué caso?|באיזה מקרה?|Dans quel cas ?|In quale caso?|В каком случае?|1
+מיבעי ליה|3|mibai leih|Era necessário dizer|He needed to say|Era necesario decir|היה צריך לומר|Il fallait dire|Era necessario dire|Нужно было сказать|1
+במאי עסקינן|3|bemai askinan|De que estamos a tratar?|With what are we dealing?|¿De qué tratamos?|במה עוסקים|De quoi traitons-nous ?|Di che cosa trattiamo?|О чём мы говорим?|במאי עסקינן;הכא במאי עסקינן|1
+וכי תימא|3|vekhi tima|E se disseres|And if you say|Y si dices|ואם תאמר|Et si tu dis|E se dici|А если скажешь|1
+לא שנו אלא|3|lo shanu ela|Isto só foi ensinado quando…|This was taught only when…|Esto solo se enseñó cuando…|לא שנו אלא|Cela n’a été enseigné que lorsque…|Questo è stato insegnato solo quando…|Это учили только когда…|1
+מתקיף לה|3|matkif leih|Objetou a isto|He objected to this|Objetó a esto|הקשה על כך|Il a objecté à cela|Obiettò a questo|Возразил на это|1
+קל וחומר|2|kal vachomer|Raciocínio a fortiori (do leve ao pesado)|A fortiori argument|Argumento a fortiori|קל וחומר|Raisonnement a fortiori|Argomento a fortiori|Умозаключение «от лёгкого к тяжёлому»|1
+חטאת|2|chatat|Oferenda pelo pecado|Sin offering|Ofrenda por el pecado|קרבן חטאת|Sacrifice expiatoire|Sacrificio espiatorio|Жертва за грех|1
+עולה|2|ola|Holocausto|Burnt offering|Holocausto|עולה|Holocauste|Olocausto|Всесожжение|1
+קרבן|2|korban|Oferenda; sacrifício|Offering; sacrifice|Ofrenda; sacrificio|קרבן|Offrande; sacrifice|Offerta; sacrificio|Жертва|1
+קדשים|2|kodashim|Coisas sagradas; sacrifícios|Sacred things; offerings|Cosas sagradas; sacrificios|קדשים|Choses saintes; sacrifices|Cose sante; sacrifici|Святыни|1
+מעשר|2|ma'aser|Dízimo|Tithe|Diezmo|מעשר|Dîme|Decima|Десятина|1
+תרומה|2|terumah|Oferta separada para o sacerdote|Terumah (priestly gift)|Terumá (ofrenda sacerdotal)|תרומה|Térouma (don sacerdotal)|Terumà (offerta sacerdotale)|Трума (приношение коэну)|1
+גט|2|get|Carta de divórcio|Bill of divorce|Carta de divorcio|גט|Acte de divorce|Atto di divorzio|Разводное письмо|1
