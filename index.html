@@ -131,6 +131,7 @@ label[data-i="txtL"]{display:block;margin-top:16px;margin-bottom:6px}
   <label class="chk"><input type="checkbox" id="xTl"> <span data-i="ex2">Incluir transliteração</span></label>
   <label class="chk"><input type="checkbox" id="xNek"> <span data-i="ex7">Incluir pontuação (Nekudot)</span></label>
   <label class="chk"><input type="checkbox" id="xTwo" checked> <span data-i="ex3">Formato em duas listas lado a lado</span></label>
+  <label class="chk"><input type="checkbox" id="xAlt"> <span data-i="ex5">Incluir significados alternativos</span></label>
   <div class="row"><label><span data-i="sort">Ordenar:</span> <select id="sort"><option value="app" data-i="so1">Ordem de aparição</option><option value="dif" data-i="so2">Dificuldade</option></select></label></div>
   <button class="go" id="gen"><svg width="18" height="22" viewBox="0 0 18 22"><path d="M2 1h9l5 5v15H2z" fill="none" stroke="#fff" stroke-width="1.6"/><path d="M11 1v5h5M5 12h8M5 16h8" stroke="#fff" stroke-width="1.4" fill="none"/></svg><span id="genT" data-i="gen">Gerar PDF</span></button>
   <div class="warn" id="msg"></div>
@@ -263,7 +264,7 @@ $("mas").onchange=fillDaf;fillDaf();$("masQ").oninput=()=>{fillMas();fillDaf();i
 
 
 ["mas","daf","amud","daf2","amud2"].forEach(i=>$(i).addEventListener("change",()=>{if(LIB[$("mas").value])loadRaw()}));
-["xCtx","xTl","xNek","xTwo","sort"].forEach(i=>$(i).onchange=render);
+["xCtx","xTl","xNek","xTwo","xAlt","sort"].forEach(i=>$(i).onchange=render);
 
 function view(v){document.querySelectorAll(".view").forEach(e=>e.classList.toggle("on",e.id=="v-"+v));const home=v=="home"||v=="lib"||v=="up";$("work").style.display=home?"":"none";$("hero").style.display=home?"":"none";$("more").style.display=home?"":"none";
  document.querySelectorAll("#nav a").forEach(a=>a.classList.toggle("on",a.dataset.v==v));if(v=="lib")mode("lib");if(v=="up")mode("up");if(v=="hist")showHist();segs();}
@@ -348,6 +349,7 @@ function pick(){
 }
 function cell(x){const cap=s=>s?s[0].toUpperCase()+s.slice(1):s;const target=S.lang;const translated=x.tr&&typeof x.tr[target]==="string"?x.tr[target]:"";const meanings=translated.split(/[;；]/).map(v=>v.trim()).filter(Boolean);const t=cap(meanings.shift()||"");let sub="";
  if($("xTl").checked&&x.tl)sub+=`<i>${x.tl}</i>`;
+ if($("xAlt").checked&&meanings.length)sub+=`<em>${meanings.map(cap).join("; ")}</em>`;
  // In the RTL column the count is the rightmost item, followed by the Hebrew term to its left.
  return `<td class="tr" lang="${target}" ${target==="he"?'dir="rtl" style="text-align:right"':""}>${esc(t)}${x.unsure?" ?":""}${sub.replace(/>([^<]+)</g,(m,a)=>">"+esc(a)+"<")}</td><td class="ar" lang="he"><span class="ar-inner"><span class="count" dir="ltr">X${x.count||1}</span><span class="ar-word${$("xNek").checked?" nek":""}" dir="rtl">${esc($("xNek").checked&&x.voc?x.voc:x.ar)}</span></span></td>`}
 function esc(s){return String(s??"").replace(/[&<>]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;"}[c]))}
